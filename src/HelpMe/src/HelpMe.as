@@ -122,7 +122,7 @@
 			_perkMenu.addMenuItem("Навыки капитана (Линкор)");
 			_perkMenu.addMenuItem("1. Япония");
 			_perkMenu.addMenuItem("2. США");
-			_perkMenu.addMenuItem("3. Советы");
+			//_perkMenu.addMenuItem("3. Советы");
 			_perkMenu.addMenuItem("4. Немцы");
 			this._states[SHOW_PERK_MENU_BB] = _perkMenu;
 
