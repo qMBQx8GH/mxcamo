@@ -24,12 +24,24 @@ class HelpMe:
     SHOW_PERK_HINT_TEST = "HelpMe.showPerkHintTest"
     HIDE = ""
     NOT_CHANGED = "none"
+    DISABLED = "disabled"
 
     def __init__(self):
         self.state = HelpMe.HIDE
+        events.onBattleStart(self.onBattleStart)
+        events.onBattleQuit(self.onBattleQuit)
         events.onKeyEvent(self.onKey)
 
+    def onBattleStart(self):
+        flash.call(HelpMe.CHANGE_STATE, [self.state, False])
+        self.state = HelpMe.DISABLED
+
+    def onBattleQuit(self, arg):
+        self.state = HelpMe.HIDE
+
     def onKey(self, event):
+        if self.state == HelpMe.DISABLED:
+            return
         newState = HelpMe.NOT_CHANGED
         if event.key == Keys.KEY_H and event.isKeyDown():
             if self.state != HelpMe.HIDE:
