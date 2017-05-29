@@ -20,7 +20,7 @@ package {
 		}
 		public function createHint(col:int, row:int, label:String):void
 		{
-			var centerX:int = this._stageWidth / 2;
+			var centerX:int = this._stageWidth / 2 + this.getInGroup() / 2;
 			var width:int = 60;
 			var height:int = this.getHintHeight();
 			var inGroup:int = this.getInGroup();
