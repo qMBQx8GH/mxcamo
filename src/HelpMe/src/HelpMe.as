@@ -2,30 +2,32 @@
 {
 	import flash.display.SimpleButton;
 	import flash.display.Sprite;
+	import flash.display.Bitmap;
+	import flash.display.BitmapData;
 	import flash.events.MouseEvent;
 	import lesta.api.GameAPI;
 	import lesta.api.ModBase;
 	import flash.utils.getDefinitionByName;
 	import scaleform.clik.controls.Window;
-    import scaleform.clik.controls.*;
+	import scaleform.clik.controls.*;
 	import flash.text.TextField;
-    import flash.text.TextFormat;
+	import flash.text.TextFormat;
 
 	public class HelpMe extends ModBase 
 	{
-        private static const CHANGE_STATE:String = "HelpMe.changeState";
-        private static const SHOW_MAIN_MENU:String = "HelpMe.showMainMenu";
-        private static const SHOW_FLAG_MENU:String = "HelpMe.showFlagMenu";
-        private static const SHOW_FLAG_HINT_CV:String = "HelpMe.showFlagHintCV";
-        private static const SHOW_FLAG_HINT_BB:String = "HelpMe.showFlagHintBB";
-        private static const SHOW_FLAG_HINT_CA:String = "HelpMe.showFlagHintCA";
-        private static const SHOW_FLAG_HINT_DD:String = "HelpMe.showFlagHintDD";
-        private static const SHOW_PERK_MENU:String = "HelpMe.showPerkMenu";
-        private static const SHOW_PERK_MENU_CV:String = "HelpMe.showPerkMenuCV";
-        private static const SHOW_PERK_MENU_BB:String = "HelpMe.showPerkMenuBB";
-        private static const SHOW_PERK_MENU_CA:String = "HelpMe.showPerkMenuCA";
-        private static const SHOW_PERK_MENU_DD:String = "HelpMe.showPerkMenuDD";
-        private static const SHOW_PERK_HINT_TEST:String = "HelpMe.showPerkHintTest";
+		private static const CHANGE_STATE:String = "HelpMe.changeState";
+		private static const SHOW_MAIN_MENU:String = "HelpMe.showMainMenu";
+		private static const SHOW_FLAG_MENU:String = "HelpMe.showFlagMenu";
+		private static const SHOW_FLAG_HINT_CV:String = "HelpMe.showFlagHintCV";
+		private static const SHOW_FLAG_HINT_BB:String = "HelpMe.showFlagHintBB";
+		private static const SHOW_FLAG_HINT_CA:String = "HelpMe.showFlagHintCA";
+		private static const SHOW_FLAG_HINT_DD:String = "HelpMe.showFlagHintDD";
+		private static const SHOW_PERK_MENU:String = "HelpMe.showPerkMenu";
+		private static const SHOW_PERK_MENU_CV:String = "HelpMe.showPerkMenuCV";
+		private static const SHOW_PERK_MENU_BB:String = "HelpMe.showPerkMenuBB";
+		private static const SHOW_PERK_MENU_CA:String = "HelpMe.showPerkMenuCA";
+		private static const SHOW_PERK_MENU_DD:String = "HelpMe.showPerkMenuDD";
+		private static const SHOW_PERK_HINT_TEST:String = "HelpMe.showPerkHintTest";
 		private var _states:Object = {};
 		
 		public function HelpMe() 
@@ -43,10 +45,19 @@
 		
 		override public function fini():void 
 		{
-            gameAPI.data.removeCallBack();
+			gameAPI.data.removeCallBack();
 			super.fini();
 		}
-		
+
+		private function addIcons(s: Sprite):void
+		{
+			s.addChild(MyIcon.produceIcon(gameAPI, Res.getCredits(), 0));
+			s.addChild(MyIcon.produceIcon(gameAPI, Res.getCredits(), 1));
+			s.addChild(MyIcon.produceIcon(gameAPI, Res.getExp(), 2));
+			s.addChild(MyIcon.produceIcon(gameAPI, Res.getCrew(), 3));
+			s.addChild(MyIcon.produceIcon(gameAPI, Res.getFreeExp(), 4));
+		}
+
 		private function createWindow():void
 		{
 			var _mainMenu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
@@ -73,35 +84,43 @@
 			this._states[SHOW_FLAG_MENU] = _flagMenu;
 
 			var _flagHintCV:Sprite = new Sprite;
+			_flagHintCV.mouseChildren = _flagHintCV.mouseEnabled = false;
 			_flagHintCV.addChild(MyHint.produceHint(gameAPI, 0, 0));
 			_flagHintCV.addChild(MyHint.produceHint(gameAPI, 2, 0));
 			_flagHintCV.addChild(MyHint.produceHint(gameAPI, 3, 0));
 			_flagHintCV.addChild(MyHint.produceHint(gameAPI, 4, 0));
+			this.addIcons(_flagHintCV);
 			this._states[SHOW_FLAG_HINT_CV] = _flagHintCV;
 
 			var _flagHintBB:Sprite = new Sprite;
+			_flagHintBB.mouseChildren = _flagHintBB.mouseEnabled = false;
 			_flagHintBB.addChild(MyHint.produceHint(gameAPI, 1, 0));
 			_flagHintBB.addChild(MyHint.produceHint(gameAPI, 0, 1));
 			_flagHintBB.addChild(MyHint.produceHint(gameAPI, 2, 1));
 			_flagHintBB.addChild(MyHint.produceHint(gameAPI, 3, 1));
 			_flagHintBB.addChild(MyHint.produceHint(gameAPI, 4, 1));
 			_flagHintBB.addChild(MyHint.produceHint(gameAPI, 5, 1));
+			this.addIcons(_flagHintBB);
 			this._states[SHOW_FLAG_HINT_BB] = _flagHintBB;
 
 			var _flagHintCA:Sprite = new Sprite;
+			_flagHintCA.mouseChildren = _flagHintCA.mouseEnabled = false;
 			_flagHintCA.addChild(MyHint.produceHint(gameAPI, 0, 0));
 			_flagHintCA.addChild(MyHint.produceHint(gameAPI, 0, 1));
 			_flagHintCA.addChild(MyHint.produceHint(gameAPI, 1, 1));
 			_flagHintCA.addChild(MyHint.produceHint(gameAPI, 5, 1));
+			this.addIcons(_flagHintCA);
 			this._states[SHOW_FLAG_HINT_CA] = _flagHintCA;
 
 			var _flagHintDD:Sprite = new Sprite;
+			_flagHintDD.mouseChildren = _flagHintDD.mouseEnabled = false;
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 2, 0));
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 3, 0));
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 4, 0));
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 0, 1));
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 1, 1));
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 5, 1));
+			this.addIcons(_flagHintDD);
 			this._states[SHOW_FLAG_HINT_DD] = _flagHintDD;
 
 			var _perkMenu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
@@ -252,10 +271,11 @@
 				}
 			}
 			
-            gameAPI.data.addCallBack(CHANGE_STATE, this.onChangeState);
+			gameAPI.data.addCallBack(CHANGE_STATE, this.onChangeState);
 			log("[HelpMe] createWindow");
 		}
-        private function onChangeState(_arg1:String, _arg2:Boolean):void
+
+		private function onChangeState(_arg1:String, _arg2:Boolean):void
 		{
 			if (this._states[_arg1])
 			{
