@@ -1,23 +1,27 @@
 package {
 	import flash.display.Sprite;
 	import flash.text.TextField;
-    import flash.text.TextFormat;
+	import flash.text.TextFormat;
 	import lesta.api.GameAPI;
 
-    public dynamic class MyPerkHint extends Sprite {
-
+	public dynamic class MyPerkHint extends Sprite
+	{
 		private var _stageWidth:int;
 		private var _stageHeight:int;
-        public function MyPerkHint(stageWidth:int, stageHeight:int){
+
+		public function MyPerkHint(stageWidth:int, stageHeight:int)
+		{
 			this._stageWidth = stageWidth;
 			this._stageHeight = stageHeight;
-        }
+		}
+
 		public static function produceHint(_gameAPI:GameAPI, col:int, row:int, label:String):MyPerkHint
 		{
 			var hint:MyPerkHint = new MyPerkHint(_gameAPI.stage.width, _gameAPI.stage.height);
 			hint.createHint(col, row, label);
 			return hint;
 		}
+
 		public function createHint(col:int, row:int, label:String):void
 		{
 			var centerX:int = this._stageWidth / 2 + this.getInGroup() / 2;
@@ -47,19 +51,18 @@ package {
 			this.graphics.lineStyle(2, 0xFF0000);
 			this.graphics.moveTo(x, y + height * row + height);
 			this.graphics.lineTo(x + width, y + height * row + height);
-			
+
 			var tf:TextField = new TextField();
-            tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0xFF0000);
+			tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0xFF0000);
 			tf.multiline = true; 
-            tf.wordWrap = true;
-            tf.text = label;
-            tf.width = width;
+			tf.wordWrap = true;
+			tf.text = label;
+			tf.width = width;
 			tf.height = 60; //iconSize
 			tf.x = x;
 			tf.y = y + height * row + height + 2;
 
-            this.addChild(tf);
-
+			this.addChild(tf);
 		}
 		/*
 		 * 
@@ -89,6 +92,7 @@ package {
 			var height:int = (26 + iconVerticalPadding);
 			return  mainBarHeight + marginTop + height - iconVerticalPadding;
 		}
+
 		public function getHintHeight():int
 		{
 			var iconSize:int = 60;
@@ -97,15 +101,17 @@ package {
 			var iconVerticalPadding:int = 15 + (stageHeight - 720) / 18;
 			return iconSize + iconVerticalPadding + 1;
 		}
+
 		public function getInGroup():int
 		{
 			var stageWidth:int = this._stageWidth;
 			var iconHorizontalPadding:int = 9 + (stageWidth - 1280) / 28;
 			return iconHorizontalPadding;
 		}
+
 		public function getInterGroup():int
 		{
 			return this.getInGroup() * 5 / 2;
 		}
-    }
+	}
 }//package 
