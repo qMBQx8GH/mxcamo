@@ -1,45 +1,22 @@
 ﻿package 
 {
-	import flash.display.SimpleButton;
 	import flash.display.Sprite;
-	import flash.display.Bitmap;
-	import flash.display.BitmapData;
 	import flash.events.MouseEvent;
 	import lesta.api.GameAPI;
 	import lesta.api.ModBase;
-	import flash.utils.getDefinitionByName;
-	import scaleform.clik.controls.Window;
-	import scaleform.clik.controls.*;
-	import flash.text.TextField;
-	import flash.text.TextFormat;
 
 	public class HelpMe extends ModBase 
 	{
-		private static const CHANGE_STATE:String = "HelpMe.changeState";
-		private static const SHOW_MAIN_MENU:String = "HelpMe.showMainMenu";
-		private static const SHOW_FLAG_MENU:String = "HelpMe.showFlagMenu";
 		private static const SHOW_FLAG_HINT_CV:String = "HelpMe.showFlagHintCV";
 		private static const SHOW_FLAG_HINT_BB:String = "HelpMe.showFlagHintBB";
 		private static const SHOW_FLAG_HINT_CA:String = "HelpMe.showFlagHintCA";
 		private static const SHOW_FLAG_HINT_DD:String = "HelpMe.showFlagHintDD";
 		private static const SHOW_PERK_MENU:String = "HelpMe.showPerkMenu";
-		private static const SHOW_PERK_MENU_CV:String = "HelpMe.showPerkMenuCV";
-		private static const SHOW_PERK_MENU_BB:String = "HelpMe.showPerkMenuBB";
-		private static const SHOW_PERK_MENU_CA:String = "HelpMe.showPerkMenuCA";
-		private static const SHOW_PERK_MENU_DD:String = "HelpMe.showPerkMenuDD";
-		private static const SHOW_PERK_HINT_TEST:String = "HelpMe.showPerkHintTest";
 		private var _states:Object = {};
-		
-		public function HelpMe() 
-		{
-			super();
-			log("[HelpMe] Constructor");
-		}
-		
+
 		override public function init():void 
 		{
 			super.init();
-			log("[HelpMe] init");
 			createWindow();
 		}
 		
@@ -60,29 +37,6 @@
 
 		private function createWindow():void
 		{
-			var _mainMenu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_mainMenu.addMenuItem("Help Me!");
-			_mainMenu.addMenuItem("1. Сигнальные флаги");
-			_mainMenu.addMenuItem("2. Навыки капитана");
-			this._states[SHOW_MAIN_MENU] = _mainMenu;
-			/*
-			_mainMenu.graphics.lineStyle(2, 0xFF0000);
-			var mainBarHeight:int = 90;
-			var stageHeight:int = gameAPI.stage.height - mainBarHeight;
-			var marginTop:int = (17 + (stageHeight - 720) / 6);
-			_mainMenu.graphics.drawRect(0, mainBarHeight + marginTop, gameAPI.stage.width, 2);
-			var iconVerticalPadding:int = 15 + (stageHeight - 720) / 18;
-			var height:int = (26 + iconVerticalPadding);
-			_mainMenu.graphics.drawRect(0, mainBarHeight + marginTop + height, gameAPI.stage.width, 2);
-			*/
-			var _flagMenu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_flagMenu.addMenuItem("Сигнальные флаги");
-			_flagMenu.addMenuItem("1. Авианосец");
-			_flagMenu.addMenuItem("2. Линкор");
-			_flagMenu.addMenuItem("3. Крейсер");
-			_flagMenu.addMenuItem("4. Эсминец");
-			this._states[SHOW_FLAG_MENU] = _flagMenu;
-
 			var _flagHintCV:Sprite = new Sprite;
 			_flagHintCV.mouseChildren = _flagHintCV.mouseEnabled = false;
 			_flagHintCV.addChild(MyHint.produceHint(gameAPI, 0, 0));
@@ -122,45 +76,6 @@
 			_flagHintDD.addChild(MyHint.produceHint(gameAPI, 5, 1));
 			this.addIcons(_flagHintDD);
 			this._states[SHOW_FLAG_HINT_DD] = _flagHintDD;
-
-			var _perkMenu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_perkMenu.addMenuItem("Навыки капитана");
-			_perkMenu.addMenuItem("1. Авианосец");
-			_perkMenu.addMenuItem("2. Линкор");
-			_perkMenu.addMenuItem("3. Крейсер");
-			_perkMenu.addMenuItem("4. Эсминец");
-			this._states[SHOW_PERK_MENU] = _perkMenu;
-
-			_perkMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_perkMenu.addMenuItem("Навыки капитана (Авианосец)");
-			_perkMenu.addMenuItem("1. Япония");
-			_perkMenu.addMenuItem("2. США");
-			this._states[SHOW_PERK_MENU_CV] = _perkMenu;
-
-			_perkMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_perkMenu.addMenuItem("Навыки капитана (Линкор)");
-			_perkMenu.addMenuItem("1. Япония");
-			_perkMenu.addMenuItem("2. США");
-			//_perkMenu.addMenuItem("3. Советы");
-			_perkMenu.addMenuItem("4. Немцы");
-			this._states[SHOW_PERK_MENU_BB] = _perkMenu;
-
-			_perkMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_perkMenu.addMenuItem("Навыки капитана (Крейсер)");
-			_perkMenu.addMenuItem("1. Япония");
-			_perkMenu.addMenuItem("2. США");
-			_perkMenu.addMenuItem("3. Советы");
-			_perkMenu.addMenuItem("4. Немцы");
-			_perkMenu.addMenuItem("5. Бриты");
-			this._states[SHOW_PERK_MENU_CA] = _perkMenu;
-
-			_perkMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_perkMenu.addMenuItem("Навыки капитана (Эсминец)");
-			_perkMenu.addMenuItem("1. Япония");
-			_perkMenu.addMenuItem("2. США");
-			_perkMenu.addMenuItem("3. Советы");
-			_perkMenu.addMenuItem("4. Немцы");
-			this._states[SHOW_PERK_MENU_DD] = _perkMenu;
 
 			var perks:Object = {
 				CV: {
@@ -271,20 +186,55 @@
 				}
 			}
 			
-			gameAPI.data.addCallBack(CHANGE_STATE, this.onChangeState);
+			gameAPI.data.addCallBack("HelpMe.SHOW_MENU", this.onShowMenu);
+			gameAPI.data.addCallBack("HelpMe.CREATE_MENU", this.onCreateMenu);
+			gameAPI.data.addCallBack("HelpMe.ADD_MENU_ITEM", this.onAddMenuItem);
 			log("[HelpMe] createWindow");
 		}
 
-		private function onChangeState(_arg1:String, _arg2:Boolean):void
+		private var _search:RegExp = /\&(.)/g;
+		private var _replace:String = "<u>\\1</u>";
+		//Instead of str.replace(/\&(.)/g, "<u>$1</u>"
+		private function repl(str:String):String
 		{
-			if (this._states[_arg1])
+			var p:int;
+			do {
+				p = str.search("&");
+				if (p >= 0) {
+					str = str.substr(0, p) + "<u>" + str.substr(p + 1, 1) + "</u>" + str.substr(p + 2);
+				}
+			} while (p >= 0);
+			return str;
+		}
+
+		private function onCreateMenu(menuId:String, title:String):void
+		{
+			if (!this._states[menuId])
 			{
-				if (_arg2) {
-					gameAPI.stage.addChild(this._states[_arg1]);
+				var _menu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
+				_menu.addMenuItem(this.repl(title));
+				this._states[menuId] = _menu;
+			}
+		}
+
+		private function onAddMenuItem(menuId:String, title:String):void
+		{
+			if (this._states[menuId])
+			{
+				this._states[menuId].addMenuItem(this.repl(title));
+			}
+		}
+
+		private function onShowMenu(menuId:String, show:Boolean):void
+		{
+			if (this._states[menuId])
+			{
+				if (show) {
+					gameAPI.stage.addChild(this._states[menuId]);
 				} else {
-					gameAPI.stage.removeChild(this._states[_arg1]);
+					gameAPI.stage.removeChild(this._states[menuId]);
 				}
 			}
-        }
+		}
 	}
 }

@@ -26,7 +26,7 @@ package {
 
 			var tf:TextField = new TextField();
 			tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0x000000);
-			tf.text = label;
+			tf.htmlText = label;
 			tf.width = width;
 			tf.x = left;
 			tf.y = top;

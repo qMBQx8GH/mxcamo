@@ -1,0 +1,121 @@
+{
+  "id": "HelpMe.showMainMenu",
+  "title": "&Help Me!",
+  "itemsTitle": "&Help Me!",
+  "items": [
+    {
+      "id": "HelpMe.showFlagMenu",
+      "title": "&1. Сигнальные флаги",
+      "itemsTitle": "Сигнальные флаги",
+      "items": [
+        {
+          "id": "HelpMe.showFlagHintCV",
+          "title": "&1. Авианосец"
+        },
+        {
+          "id": "HelpMe.showFlagHintBB",
+          "title": "&2. Линкор"
+        },
+        {
+          "id": "HelpMe.showFlagHintCA",
+          "title": "&3. Крейсер"
+        },
+        {
+          "id": "HelpMe.showFlagHintDD",
+          "title": "&4. Эсминец"
+        }
+      ]
+    },
+    {
+      "id": "HelpMe.showPerkMenu",
+      "title": "&2. Навыки капитана",
+      "itemsTitle": "Навыки капитана",
+      "items": [
+        {
+          "id": "HelpMe.showPerkMenuCV",
+          "title": "&1. Авианосец",
+          "itemsTitle": "Навыки капитана (Авианосец)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuCVJP",
+              "title": "&1. Япония"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCVUS",
+              "title": "&2. США"
+            }
+          ]
+        },
+        {
+          "id": "HelpMe.showPerkMenuBB",
+          "title": "&2. Линкор",
+          "itemsTitle": "Навыки капитана (Линкор)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuBBJP",
+              "title": "&1. Япония"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBUS",
+              "title": "&2. США"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBDE",
+              "title": "&4. Немцы"
+            }
+          ]
+        },
+        {
+          "id": "HelpMe.showPerkMenuCA",
+          "title": "&3. Крейсер",
+          "itemsTitle": "Навыки капитана (Крейсер)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuCAJP",
+              "title": "&1. Япония"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAUS",
+              "title": "&2. США"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCARU",
+              "title": "&3. Советы"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCADE",
+              "title": "&4. Немцы"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAEN",
+              "title": "&5. Бриты"
+            }
+          ]
+        },
+        {
+          "id": "HelpMe.showPerkMenuDD",
+          "title": "&4. Эсминец",
+          "itemsTitle": "Навыки капитана (Эсминец)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuDDJP",
+              "title": "&1. Япония"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDUS",
+              "title": "&2. США"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDRU",
+              "title": "&3. Советы"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDDE",
+              "title": "&4. Немцы"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
