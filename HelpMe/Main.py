@@ -1,6 +1,7 @@
 import Keys
 import menu
 import flags
+import perks
 
 API_VERSION = 'API_v1.0'
 MOD_NAME = 'HelpMe'
@@ -12,6 +13,7 @@ class HelpMe:
         self.currentId = ''
         self.menu = menu.MyMenu()
         self.flags = flags.MyFlags()
+        self.perks = perks.MyPerks()
         self.setupEvents()
 
     def setupEvents(self):
@@ -26,10 +28,16 @@ class HelpMe:
                 menuData = menuFile.read()
             self.menu.setMenu(utils.jsonDecode(menuData))
             self.menu.createFlashMenu()
+
             with open(utils.getModDir() + '/flags.json', 'r') as flagsFile:
                 flagsData = flagsFile.read()
             self.flags.setFlags(utils.jsonDecode(flagsData))
             self.flags.createFlashFlags()
+
+            with open(utils.getModDir() + '/perks.json', 'r') as perksFile:
+                perksData = perksFile.read()
+            self.perks.setPerks(utils.jsonDecode(perksData))
+            self.perks.createFlashPerks()
 
     def onBattleStart(self):
         self.disabled = True

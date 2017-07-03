@@ -7,138 +7,24 @@
 
 	public class HelpMe extends ModBase 
 	{
-		private static const SHOW_PERK_MENU:String = "HelpMe.showPerkMenu";
 		private var _states:Object = {};
 
 		override public function init():void 
 		{
 			super.init();
-			createWindow();
+			gameAPI.data.addCallBack("HelpMe.SHOW_MENU", this.onShowMenu);
+			gameAPI.data.addCallBack("HelpMe.CREATE_MENU", this.onCreateMenu);
+			gameAPI.data.addCallBack("HelpMe.ADD_MENU_ITEM", this.onAddMenuItem);
+			gameAPI.data.addCallBack("HelpMe.CREATE_FLAG_SET", this.onCreateFlagSet);
+			gameAPI.data.addCallBack("HelpMe.ADD_FLAG_HINT", this.onAddFlagHint);
+			gameAPI.data.addCallBack("HelpMe.CREATE_PERK_SET", this.onCreatePerkSet);
+			gameAPI.data.addCallBack("HelpMe.ADD_PERK", this.onAddPerk);
 		}
 		
 		override public function fini():void 
 		{
 			gameAPI.data.removeCallBack();
 			super.fini();
-		}
-
-		private function createWindow():void
-		{
-			var perks:Object = {
-				CV: {
-					JP: [
-						[3, 0, "1"],
-						[3, 1, "2"],
-						[2, 2, "3"],
-						[3, 3, "4"]
-					],
-					US: [
-						[3, 0, "1"],
-						[3, 1, "2"],
-						[2, 2, "3"],
-						[3, 3, "4"]
-					]
-				},
-				BB: {
-					JP: [
-						[0, 0, "1"], [4, 0, "1(есть ястреб)"],
-						[2, 1, "2"],
-						[5, 2, "3"], [4, 2, "4"],
-						[0, 3, "6(ПМК)"], [1, 3, "5"], [4, 3, "5(ПМК)"], [5, 3, "6(ПВО)"]
-					],
-					US: [
-						[0, 0, "1"], [4, 0, "1(есть ястреб)"],
-						[2, 1, "2"],
-						[5, 2, "3"], [4, 2, "4"],
-						[1, 3, "6"], [4, 3, "6(ПВО)"], [5, 3, "5(ПВО)"]
-					],
-					DE: [
-						[0, 0, "1"], [4, 0, "1(есть ястреб)"],
-						[2, 1, "2"],
-						[5, 2, "3"], [6, 2, "4"],
-						[0, 3, "5,6"], [4, 3, "5,6"]
-					]
-				},
-				CA: {
-					JP: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[2, 1, "2"], [7, 1, "3"],
-						[4, 2, "5"], [5, 2, "7(>=IX)"], [6, 2, "4"],
-						[7, 3, "6"]
-					],
-					US: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[7, 1, "3?"], [7, 1, "2"],
-						[4, 2, "3"], [5, 2, "6,5"],
-						[4, 3, "4"], [5, 3, "5,6"]
-					],
-					RU: [
-						[0, 0, "1"], [6, 0, "1"],
-						[2, 1, "2(=X)"], [7, 1, "2"],
-						[4, 2, "5"], [5, 2, "3(есть хилка)"], [6, 2, "3,5"],
-						[5, 3, "4"],
-					],
-					DE: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[2, 1, "2(=VII)"], [7, 1, "2"],
-						[4, 2, "5"], [5, 2, "3(есть хилка)"], [6, 2, "3,5"],
-						[5, 3, "4"]
-					],
-					GB: [
-						[0, 0, "1"], [6, 0, "1"],
-						[7, 1, "2"],
-						[4, 2, "4"], [5, 2, "3"],
-						[4, 3, "5"], [5, 3, "6"]
-					]
-				},
-				DD: {
-					JP: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[7, 1, "2"],
-						[2, 2, "3"],
-						[7, 3, "4"]
-					],
-					US: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[7, 1, "2"],
-						[4, 2, "3"], [1, 2, "3,5(>=VII)"], [2, 2, "6"], [6, 2, "6"],
-						[7, 3, "4"]
-					],
-					RU: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[7, 1, "2"],
-						[4, 2, "3"], [6, 2, "5"],
-						[4, 3, "4"], [7, 3, "6"]
-					],
-					DE: [
-						[0, 0, "1"], [1, 0, "1"], [6, 0, "1"],
-						[7, 1, "2"],
-						[1, 2, "6(>=VII)"], [2, 2, "3,4"], [4, 2, "3,4"], [4, 2, "5"], [5, 2, "6"],
-						[7, 3, "6"]
-					]
-				}
-			};
-			for (var shipType:String in perks) {
-				for (var nation:String in perks[shipType]) {
-					var _perkHint:Sprite = new Sprite;
-					for (var i:uint = 0; i < perks[shipType][nation].length; i++) {
-						_perkHint.addChild(MyPerkHint.produceHint(
-							gameAPI,
-							perks[shipType][nation][i][0],
-							perks[shipType][nation][i][1],
-							perks[shipType][nation][i][2]
-						));
-					}
-					this._states[SHOW_PERK_MENU + shipType + nation] = _perkHint;
-				}
-			}
-			
-			gameAPI.data.addCallBack("HelpMe.SHOW_MENU", this.onShowMenu);
-			gameAPI.data.addCallBack("HelpMe.CREATE_MENU", this.onCreateMenu);
-			gameAPI.data.addCallBack("HelpMe.ADD_MENU_ITEM", this.onAddMenuItem);
-			gameAPI.data.addCallBack("HelpMe.CREATE_FLAG_SET", this.onCreateFlagSet);
-			gameAPI.data.addCallBack("HelpMe.ADD_FLAG_HINT", this.onAddFlagHint);
-			log("[HelpMe] createWindow");
 		}
 
 		private var _search:RegExp = /\&(.)/g;
@@ -211,6 +97,26 @@
 				} else {
 					this._states[setId].addChild(MyHint.produceHint(gameAPI, col, row));
 				}
+			}
+		}
+
+		private function onCreatePerkSet(setId:String):void
+		{
+			if (!this._states[setId])
+			{
+				var _set:Sprite = new Sprite();
+				_set.mouseChildren = _set.mouseEnabled = false;
+				this._states[setId] = _set;
+			}
+		}
+
+		private function onAddPerk(setId:String, col:int, row:int, label:String):void
+		{
+			if (this._states[setId])
+			{
+				this._states[setId].addChild(
+					MyPerkHint.produceHint(gameAPI, col, row, label)
+				);
 			}
 		}
 	}
