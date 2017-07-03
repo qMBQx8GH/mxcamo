@@ -1,7 +1,11 @@
 import Keys
 
+
 class MyMenu:
-    def __init__(self, menu):
+    def __init__(self):
+        self._menu = {}
+
+    def setMenu(self, menu):
         self._menu = menu
 
     def createFlashMenu(self):
