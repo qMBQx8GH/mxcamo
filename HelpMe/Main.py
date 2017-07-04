@@ -1,4 +1,4 @@
-import Keys
+#from API_v_1_0 import *
 import menu
 import flags
 import perks
@@ -54,7 +54,9 @@ class HelpMe:
             return
 
         if self.menu.checkMainKey(event.key):
-            if self.currentId == '':
+            if event.isCtrlDown():
+                self.Reload()
+            elif self.currentId == '':
                 self.menu.showFlashMenu()
                 self.currentId = self.menu.getMainId()
             else:
@@ -67,5 +69,9 @@ class HelpMe:
                 self.currentId = newId
                 self.menu.showFlashMenu(self.currentId, True)
 
+    def Reload(self):
+        self.menu.showFlashMenu(self.currentId, False)
+        self.onFlashReady(MOD_NAME)
+        self.menu.showFlashMenu(self.currentId, True)
 
 g_HelpMe = HelpMe()

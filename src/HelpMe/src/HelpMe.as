@@ -44,12 +44,9 @@
 
 		private function onCreateMenu(menuId:String, title:String):void
 		{
-			if (!this._states[menuId])
-			{
-				var _menu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-				_menu.addMenuItem(this.repl(title));
-				this._states[menuId] = _menu;
-			}
+			var _menu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
+			_menu.addMenuItem(this.repl(title));
+			this._states[menuId] = _menu;
 		}
 
 		private function onAddMenuItem(menuId:String, title:String):void
@@ -74,12 +71,9 @@
 
 		private function onCreateFlagSet(setId:String):void
 		{
-			if (!this._states[setId])
-			{
-				var _set:Sprite = new Sprite();
-				_set.mouseChildren = _set.mouseEnabled = false;
-				this._states[setId] = _set;
-			}
+			var _set:Sprite = new Sprite();
+			_set.mouseChildren = _set.mouseEnabled = false;
+			this._states[setId] = _set;
 		}
 
 		private function onAddFlagHint(setId:String, hintType:String, col:int, row:int):void
@@ -102,12 +96,9 @@
 
 		private function onCreatePerkSet(setId:String):void
 		{
-			if (!this._states[setId])
-			{
-				var _set:Sprite = new Sprite();
-				_set.mouseChildren = _set.mouseEnabled = false;
-				this._states[setId] = _set;
-			}
+			var _set:Sprite = new Sprite();
+			_set.mouseChildren = _set.mouseEnabled = false;
+			this._states[setId] = _set;
 		}
 
 		private function onAddPerk(setId:String, col:int, row:int, label:String):void
