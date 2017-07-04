@@ -1,0 +1,121 @@
+{
+  "id": "HelpMe.showMainMenu",
+  "title": "&Help Me!",
+  "itemsTitle": "&Help Me!",
+  "items": [
+    {
+      "id": "HelpMe.showFlagMenu",
+      "title": "&1. Signal flags",
+      "itemsTitle": "Signal flags",
+      "items": [
+        {
+          "id": "HelpMe.showFlagHintCV",
+          "title": "&1. Aircraft carrier"
+        },
+        {
+          "id": "HelpMe.showFlagHintBB",
+          "title": "&2. Battleship"
+        },
+        {
+          "id": "HelpMe.showFlagHintCA",
+          "title": "&3. Cruiser"
+        },
+        {
+          "id": "HelpMe.showFlagHintDD",
+          "title": "&4. Destroyer"
+        }
+      ]
+    },
+    {
+      "id": "HelpMe.showPerkMenu",
+      "title": "&2. Captain skills",
+      "itemsTitle": "Captain skills",
+      "items": [
+        {
+          "id": "HelpMe.showPerkMenuCV",
+          "title": "&1. Aircraft carrier",
+          "itemsTitle": "Captain skills (Aircraft carrier)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuCVJP",
+              "title": "&1. Japan"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCVUS",
+              "title": "&2. USA"
+            }
+          ]
+        },
+        {
+          "id": "HelpMe.showPerkMenuBB",
+          "title": "&2. Battleship",
+          "itemsTitle": "Captain skills (battleship)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuBBJP",
+              "title": "&1. Japan"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBUS",
+              "title": "&2. USA"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBDE",
+              "title": "&4. Germany"
+            }
+          ]
+        },
+        {
+          "id": "HelpMe.showPerkMenuCA",
+          "title": "&3. Cruiser",
+          "itemsTitle": "Captain skills (cruiser)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuCAJP",
+              "title": "&1. Japan"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAUS",
+              "title": "&2. USA"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCARU",
+              "title": "&3. USSR"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCADE",
+              "title": "&4. Germany"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAEN",
+              "title": "&5. England"
+            }
+          ]
+        },
+        {
+          "id": "HelpMe.showPerkMenuDD",
+          "title": "&4. Destroyer",
+          "itemsTitle": "Captain skills (destroyer)",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuDDJP",
+              "title": "&1. Japan"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDUS",
+              "title": "&2. USA"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDRU",
+              "title": "&3. USSR"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDDE",
+              "title": "&4. Germany"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

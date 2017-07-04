@@ -1,4 +1,5 @@
 #from API_v_1_0 import *
+import ini
 import menu
 import flags
 import perks
@@ -24,20 +25,23 @@ class HelpMe:
 
     def onFlashReady(self, modName):
         if modName == MOD_NAME:
-            with open(utils.getModDir() + '/menu.json', 'r') as menuFile:
-                menuData = menuFile.read()
-            self.menu.setMenu(utils.jsonDecode(menuData))
-            self.menu.createFlashMenu()
+            iniFile = ini.MyIniFile(utils.getModDir() + '/helpme.ini')
+            iniDir = iniFile.get('dir')
+            if iniDir:
+                with open(utils.getModDir() + '/' + iniDir + '/menu.json', 'r') as menuFile:
+                    menuData = menuFile.read()
+                self.menu.setMenu(utils.jsonDecode(menuData))
+                self.menu.createFlashMenu()
 
-            with open(utils.getModDir() + '/flags.json', 'r') as flagsFile:
-                flagsData = flagsFile.read()
-            self.flags.setFlags(utils.jsonDecode(flagsData))
-            self.flags.createFlashFlags()
+                with open(utils.getModDir() + '/' + iniDir + '/flags.json', 'r') as flagsFile:
+                    flagsData = flagsFile.read()
+                self.flags.setFlags(utils.jsonDecode(flagsData))
+                self.flags.createFlashFlags()
 
-            with open(utils.getModDir() + '/perks.json', 'r') as perksFile:
-                perksData = perksFile.read()
-            self.perks.setPerks(utils.jsonDecode(perksData))
-            self.perks.createFlashPerks()
+                with open(utils.getModDir() + '/' + iniDir + '/perks.json', 'r') as perksFile:
+                    perksData = perksFile.read()
+                self.perks.setPerks(utils.jsonDecode(perksData))
+                self.perks.createFlashPerks()
 
     def onBattleStart(self):
         self.disabled = True
