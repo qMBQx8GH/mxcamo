@@ -112,6 +112,10 @@
             {
               "id": "HelpMe.showPerkMenuDDDE",
               "title": "&4. Germany"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDunkirk",
+              "title": "&5. Dunkirk"
             }
           ]
         }

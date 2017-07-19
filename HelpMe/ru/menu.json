@@ -112,6 +112,10 @@
             {
               "id": "HelpMe.showPerkMenuDDDE",
               "title": "&4. Немцы"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDunkirk",
+              "title": "&5. Дюнкерк"
             }
           ]
         }
