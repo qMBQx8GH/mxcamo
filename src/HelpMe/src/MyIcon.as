@@ -33,7 +33,7 @@ package {
 
 		public function getLeftOffset():int
 		{
-			return 90;
+			return 80;
 		}
 
 		public function getTopOffset():int
