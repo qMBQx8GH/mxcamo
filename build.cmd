@@ -3,7 +3,7 @@ mkdir dist
 cd dist
 mkdir %1
 cd %1
-echo >PnFModsLoader.py
+type NUL>PnFModsLoader.py
 mkdir PnFMods
 xcopy ..\..\HelpMe PnFMods\HelpMe /i /e
 echo dir=%3 >PnFMods\HelpMe\helpme.ini
