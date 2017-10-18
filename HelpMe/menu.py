@@ -4,6 +4,15 @@ import Keys
 class MyMenu:
     def __init__(self):
         self._menu = {}
+        self._key_map = {
+            'H': Keys.KEY_H,
+            '1': Keys.KEY_1,
+            '2': Keys.KEY_2,
+            '3': Keys.KEY_3,
+            '4': Keys.KEY_4,
+            '5': Keys.KEY_5,
+            '6': Keys.KEY_6,
+        }
 
     def setMenu(self, menu):
         self._menu = menu
@@ -68,20 +77,7 @@ class MyMenu:
                     menuItem['key'] = keyCode
 
     def _key_translate(self, char):
-        #code = getattr(Keys, 'KEY_' + char, -1)
-        #getattr is not defined ((
-        if char == 'H':
-            code = Keys.KEY_H
-        elif char == '1':
-            code = Keys.KEY_1
-        elif char == '2':
-            code = Keys.KEY_2
-        elif char == '3':
-            code = Keys.KEY_3
-        elif char == '4':
-            code = Keys.KEY_4
-        elif char == '5':
-            code = Keys.KEY_5
+        if char in self._key_map:
+            return self._key_map[char]
         else:
-            code = -1
-        return code
+            return -1

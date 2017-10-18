@@ -43,6 +43,10 @@
             {
               "id": "HelpMe.showPerkMenuCVUS",
               "title": "&2. США"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCV_Event2017",
+              "title": "&6. Хеллоуин 2017"
             }
           ]
         },
@@ -62,6 +66,10 @@
             {
               "id": "HelpMe.showPerkMenuBBDE",
               "title": "&4. Немцы"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBB_Event2017",
+              "title": "&6. Хеллоуин 2017"
             }
           ]
         },
@@ -89,6 +97,10 @@
             {
               "id": "HelpMe.showPerkMenuCAEN",
               "title": "&5. Бриты"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCA_Event2017",
+              "title": "&6. Хеллоуин 2017"
             }
           ]
         },
@@ -114,8 +126,8 @@
               "title": "&4. Немцы"
             },
             {
-              "id": "HelpMe.showPerkMenuDunkirk",
-              "title": "&5. Дюнкерк"
+              "id": "HelpMe.showPerkMenuDD_Event2017",
+              "title": "&6. Хеллоуин 2017"
             }
           ]
         }

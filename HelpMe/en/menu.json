@@ -43,6 +43,10 @@
             {
               "id": "HelpMe.showPerkMenuCVUS",
               "title": "&2. USA"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCV_Event2017",
+              "title": "&6. Halloween 2017"
             }
           ]
         },
@@ -62,6 +66,10 @@
             {
               "id": "HelpMe.showPerkMenuBBDE",
               "title": "&4. Germany"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBB_Event2017",
+              "title": "&6. Halloween 2017"
             }
           ]
         },
@@ -89,6 +97,10 @@
             {
               "id": "HelpMe.showPerkMenuCAEN",
               "title": "&5. England"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCA_Event2017",
+              "title": "&6. Halloween 2017"
             }
           ]
         },
@@ -114,8 +126,8 @@
               "title": "&4. Germany"
             },
             {
-              "id": "HelpMe.showPerkMenuDunkirk",
-              "title": "&5. Dunkirk"
+              "id": "HelpMe.showPerkMenuDD_Event2017",
+              "title": "&6. Halloween 2017"
             }
           ]
         }
