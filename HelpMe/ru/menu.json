@@ -122,6 +122,10 @@
               "title": "&3. Советы (арт)"
             },
             {
+              "id": "HelpMe.showPerkMenuDDRU2",
+              "title": "&5. Советы (не арт)"
+            },
+            {
               "id": "HelpMe.showPerkMenuDDDE",
               "title": "&4. Немцы"
             },
