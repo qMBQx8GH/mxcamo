@@ -61,7 +61,7 @@
             },
             {
               "id": "HelpMe.showPerkMenuBBDE",
-              "title": "&4. Немцы"
+              "title": "&3. Немцы"
             }
           ]
         },
@@ -111,11 +111,11 @@
             },
             {
               "id": "HelpMe.showPerkMenuDDRU2",
-              "title": "&5. Советы (не арт)"
+              "title": "&4. Советы (не арт)"
             },
             {
               "id": "HelpMe.showPerkMenuDDDE",
-              "title": "&4. Немцы"
+              "title": "&5. Немцы"
             }
           ]
         }
