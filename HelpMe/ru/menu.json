@@ -97,6 +97,10 @@
             {
               "id": "HelpMe.showPerkMenuCAEN2",
               "title": "&7. Бриты (универсал)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAFR",
+              "title": "&8. Французы"
             }
           ]
         },
@@ -128,6 +132,22 @@
           ]
         }
       ]
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
     },
     {
       "id": "enterNewId",
