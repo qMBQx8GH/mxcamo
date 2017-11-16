@@ -92,7 +92,11 @@
             },
             {
               "id": "HelpMe.showPerkMenuCAEN",
-              "title": "&6. Бриты"
+              "title": "&6. Бриты (ПВО)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAEN2",
+              "title": "&7. Бриты (универсал)"
             }
           ]
         },
@@ -124,6 +128,14 @@
           ]
         }
       ]
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
     },
     {
       "id": "enterNewId",
