@@ -12,6 +12,10 @@ class MyMenu:
             '4': Keys.KEY_4,
             '5': Keys.KEY_5,
             '6': Keys.KEY_6,
+            '7': Keys.KEY_7,
+            '8': Keys.KEY_8,
+            '9': Keys.KEY_9,
+            '0': Keys.KEY_0,
         }
 
     def setMenu(self, menu):
