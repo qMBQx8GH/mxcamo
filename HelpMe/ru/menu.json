@@ -62,6 +62,10 @@
             {
               "id": "HelpMe.showPerkMenuBBDE",
               "title": "&3. Немцы"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBBEN",
+              "title": "&4. Бриты"
             }
           ]
         },
@@ -132,6 +136,14 @@
           ]
         }
       ]
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
     }
   ]
 }
