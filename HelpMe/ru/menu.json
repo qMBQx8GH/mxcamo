@@ -76,19 +76,23 @@
             },
             {
               "id": "HelpMe.showPerkMenuCAUS",
-              "title": "&2. США"
+              "title": "&2. США (ПВО)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAUS2",
+              "title": "&3. США (универсал)"
             },
             {
               "id": "HelpMe.showPerkMenuCARU",
-              "title": "&3. Советы"
+              "title": "&4. Советы"
             },
             {
               "id": "HelpMe.showPerkMenuCADE",
-              "title": "&4. Немцы"
+              "title": "&5. Немцы"
             },
             {
               "id": "HelpMe.showPerkMenuCAEN",
-              "title": "&5. Бриты"
+              "title": "&6. Бриты"
             }
           ]
         },
@@ -120,6 +124,10 @@
           ]
         }
       ]
+    },
+    {
+      "id": "enterNewId",
+      "title": "Enter new title"
     }
   ]
 }
