@@ -52,7 +52,7 @@
   </includeLibraries>
   <!-- SWC Libraries -->
   <libraryPaths>
-    <!-- example: <element path="..." /> -->
+    <element path="lib\as3-qrcode-encoder.swc" />
   </libraryPaths>
   <!-- External Libraries -->
   <externalLibraryPaths>
