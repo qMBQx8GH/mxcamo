@@ -16,7 +16,7 @@
     </define>
     <define append="true">
       <name>CONFIG::timeStamp</name>
-      <value>'10.11.2017'</value>
+      <value>'16.11.2017'</value>
     </define>
     <define append="true">
       <name>CONFIG::air</name>
@@ -42,6 +42,9 @@
     <external-library-path append="true">
       <path-element>C:\src\HelpMe\src\HelpMe\lib\wows_library.swc</path-element>
     </external-library-path>
+    <library-path append="true">
+      <path-element>C:\src\HelpMe\src\HelpMe\lib\as3-qrcode-encoder.swc</path-element>
+    </library-path>
   </compiler>
   <file-specs>
     <path-element>C:\src\HelpMe\src\HelpMe\src\HelpMe.as</path-element>

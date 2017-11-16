@@ -19,6 +19,7 @@
 			gameAPI.data.addCallBack("HelpMe.ADD_FLAG_HINT", this.onAddFlagHint);
 			gameAPI.data.addCallBack("HelpMe.CREATE_PERK_SET", this.onCreatePerkSet);
 			gameAPI.data.addCallBack("HelpMe.ADD_PERK", this.onAddPerk);
+			gameAPI.data.addCallBack("HelpMe.ADD_QR_CODE", this.onAddQrCode);
 		}
 		
 		override public function fini():void 
@@ -107,6 +108,16 @@
 			{
 				this._states[setId].addChild(
 					MyPerkHint.produceHint(gameAPI, col, row, label)
+				);
+			}
+		}
+
+		private function onAddQrCode(setId:String, x:int, y:int, label:String):void
+		{
+			if (this._states[setId])
+			{
+				this._states[setId].addChild(
+					MyQrCode.produceQrCode(gameAPI, x, y, label)
 				);
 			}
 		}
