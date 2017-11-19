@@ -61,6 +61,8 @@ class HelpMe:
         if self.menu.checkMainKey(event.key):
             if event.isCtrlDown():
                 self.Reload()
+            elif event.isAltDown():
+                flash.reloadMod(MOD_NAME)
             elif self.currentId == '':
                 self.menu.showFlashMenu()
                 self.currentId = self.menu.getMainId()
