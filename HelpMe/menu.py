@@ -23,7 +23,7 @@ class MyMenu:
 
     def createFlashMenu(self):
         self._create_menu(self._menu)
-        print self._menu
+        #print self._menu
 
     def showFlashMenu(self, id='', show=True):
         if not id:
@@ -66,7 +66,7 @@ class MyMenu:
             #accelerator key
             self._add_accelerator_key(menuItem)
             #flash item
-            flash.call('HelpMe.ADD_MENU_ITEM', [menu['id'], menuItem['title']])
+            flash.call('HelpMe.ADD_MENU_ITEM', [menu['id'], menuItem['title'], menuItem['id']])
             #add submenu
             if 'items' in menuItem:
                 self._create_menu(menuItem)

@@ -2,23 +2,27 @@ package {
 	import flash.display.Sprite;
 	import flash.text.TextField;
 	import flash.text.TextFormat;
+	import flash.events.MouseEvent;
+	import lesta.api.GameAPI;
 
-    public dynamic class MyButton extends Sprite
+	public dynamic class MyButton extends Sprite
 	{
-		private var _stageWidth:int;
-		private var _stageHeight:int;
+		private var _gameAPI:GameAPI;
+		private var _id:String;
 
-        public function MyButton(stageWidth:int, stageHeight:int){
-			this._stageWidth = stageWidth;
-			this._stageHeight = stageHeight;
+		public function MyButton(gameAPI:GameAPI, id:String) {
+			this._gameAPI = gameAPI;
+			this._id = id;
 		}
 
 		public function createButton(index:int, label:String):void
 		{
+			this.addEventListener(MouseEvent.CLICK, this.clicked);
+			
 			var width:int = 200;
 			var height:int = 20;
 			var top:int = 90 + height * index;
-			var left:int = ((_stageWidth - width) / 2);
+			var left:int = ((this._gameAPI.stage.width - width) / 2);
 
 			this.graphics.beginFill(0xFFFFFF);
 			this.graphics.drawRect(left, top, width, height);
@@ -32,6 +36,13 @@ package {
 			tf.y = top;
 
 			this.addChild(tf);
+		}
+
+		public function clicked(event:MouseEvent):void
+		{
+			if (this._id) {
+				this._gameAPI.data.call("HelpMe.MENU_ITEM_CLICKED", new Array(this._id));
+			}
 		}
 	}
 }//package 

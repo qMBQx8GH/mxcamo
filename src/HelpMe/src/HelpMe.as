@@ -45,16 +45,16 @@
 
 		private function onCreateMenu(menuId:String, title:String):void
 		{
-			var _menu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_menu.addMenuItem(this.repl(title));
+			var _menu:MyMenu = new MyMenu(gameAPI);
+			_menu.addMenuItem(this.repl(title), '');
 			this._states[menuId] = _menu;
 		}
 
-		private function onAddMenuItem(menuId:String, title:String):void
+		private function onAddMenuItem(menuId:String, title:String, id:String):void
 		{
 			if (this._states[menuId])
 			{
-				this._states[menuId].addMenuItem(this.repl(title));
+				this._states[menuId].addMenuItem(this.repl(title), id);
 			}
 		}
 
