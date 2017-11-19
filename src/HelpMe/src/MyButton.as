@@ -1,4 +1,5 @@
 package {
+	import flash.display.Bitmap;
 	import flash.display.Sprite;
 	import flash.text.TextField;
 	import flash.text.TextFormat;
@@ -9,33 +10,38 @@ package {
 	{
 		private var _gameAPI:GameAPI;
 		private var _id:String;
+		private var _label:String;
+		private var _tf:TextField;
 
-		public function MyButton(gameAPI:GameAPI, id:String) {
+		public function MyButton(gameAPI:GameAPI, id:String, label:String) {
 			this._gameAPI = gameAPI;
 			this._id = id;
+			this._label = label;
 		}
 
-		public function createButton(index:int, label:String):void
+		public function createButton(index:int):void
 		{
 			this.addEventListener(MouseEvent.CLICK, this.clicked);
+			this.addEventListener(MouseEvent.ROLL_OVER, this.rollover);
+			this.addEventListener(MouseEvent.ROLL_OUT, this.rollout);
 			
-			var width:int = 200;
-			var height:int = 20;
+			var width:int = 180;
+			var height:int = 27;
 			var top:int = 90 + height * index;
 			var left:int = ((this._gameAPI.stage.width - width) / 2);
 
-			this.graphics.beginFill(0xFFFFFF);
-			this.graphics.drawRect(left, top, width, height);
-			this.graphics.endFill();
+			this.x = left;
+			this.y = top;
+			this.addChild(Res.getMenuItem());
 
-			var tf:TextField = new TextField();
-			tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0x000000);
-			tf.htmlText = label;
-			tf.width = width;
-			tf.x = left;
-			tf.y = top;
+			this._tf = new TextField();
+			this._tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0x96a9af);
+			this._tf.htmlText = '<b>' + this._label + '</b>';
+			this._tf.width = width;
+			this._tf.x = 4;
+			this._tf.y = 2;
 
-			this.addChild(tf);
+			this.addChild(this._tf);
 		}
 
 		public function clicked(event:MouseEvent):void
@@ -44,5 +50,20 @@ package {
 				this._gameAPI.data.call("HelpMe.MENU_ITEM_CLICKED", new Array(this._id));
 			}
 		}
+
+		public function rollover(event:MouseEvent):void
+		{
+			if (this._tf) {
+				this._tf.htmlText = '<b>&gt;' + this._label + '</b>';
+			}
+		}
+
+		public function rollout(event:MouseEvent):void
+		{
+			if (this._tf) {
+				this._tf.htmlText = '<b>' + this._label + '</b>';
+			}
+		}
+		
 	}
 }//package 

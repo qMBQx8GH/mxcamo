@@ -31,5 +31,12 @@ package
 		{
 			return new _Crew();
 		}
+
+		[Embed(source = "../res/menu_item.png")]
+		private static var _MenuItem:Class;
+		public static function getMenuItem():Bitmap
+		{
+			return new _MenuItem();
+		}
 	}
 }

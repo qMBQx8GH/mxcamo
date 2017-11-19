@@ -16,8 +16,8 @@ package {
 		public function addMenuItem(label:String, id:String):void
 		{
 			var _sprite:MyButton;
-			_sprite = new MyButton(this._gameAPI, id);
-			_sprite.createButton(this._itemCount, label);
+			_sprite = new MyButton(this._gameAPI, id, label);
+			_sprite.createButton(this._itemCount);
 			this.addChild(_sprite);
 			this._itemCount++;
 		}
