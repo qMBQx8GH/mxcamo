@@ -22,6 +22,7 @@ class HelpMe:
         events.onBattleStart(self.onBattleStart)
         events.onBattleQuit(self.onBattleQuit)
         events.onKeyEvent(self.onKeyEvent)
+        flash.addExternalCallback('HelpMe.MENU_ITEM_CLICKED', self.onMenuItemClick)
 
     def onFlashReady(self, modName):
         if modName == MOD_NAME:
@@ -60,6 +61,8 @@ class HelpMe:
         if self.menu.checkMainKey(event.key):
             if event.isCtrlDown():
                 self.Reload()
+            elif event.isAltDown():
+                flash.reloadMod(MOD_NAME)
             elif self.currentId == '':
                 self.menu.showFlashMenu()
                 self.currentId = self.menu.getMainId()
@@ -72,6 +75,11 @@ class HelpMe:
                 self.menu.showFlashMenu(self.currentId, False)
                 self.currentId = newId
                 self.menu.showFlashMenu(self.currentId, True)
+
+    def onMenuItemClick(self, _unknown_zero_, newId):
+        self.menu.showFlashMenu(self.currentId, False)
+        self.currentId = newId
+        self.menu.showFlashMenu(self.currentId, True)
 
     def Reload(self):
         self.menu.showFlashMenu(self.currentId, False)

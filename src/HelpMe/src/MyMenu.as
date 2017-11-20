@@ -1,24 +1,23 @@
 package {
 	import flash.display.Sprite;
+	import lesta.api.GameAPI;
 
 	public dynamic class MyMenu extends Sprite
 	{
 		private var _itemCount:int;
-		private var _stageWidth:int;
-		private var _stageHeight:int;
+		private var _gameAPI:GameAPI;
 
-		public function MyMenu(stageWidth:int, stageHeight:int)
+		public function MyMenu(gameAPI:GameAPI)
 		{
 			this._itemCount = 0;
-			this._stageWidth = stageWidth;
-			this._stageHeight = stageHeight;
+			this._gameAPI = gameAPI;
 		}
 
-		public function addMenuItem(label:String):void
+		public function addMenuItem(label:String, id:String):void
 		{
 			var _sprite:MyButton;
-			_sprite = new MyButton(this._stageWidth, this._stageHeight);
-			_sprite.createButton(this._itemCount, label);
+			_sprite = new MyButton(this._gameAPI, id, label);
+			_sprite.createButton(this._itemCount);
 			this.addChild(_sprite);
 			this._itemCount++;
 		}

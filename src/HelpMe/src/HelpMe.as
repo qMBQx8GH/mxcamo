@@ -45,23 +45,21 @@
 
 		private function onCreateMenu(menuId:String, title:String):void
 		{
-			var _menu:MyMenu = new MyMenu(gameAPI.stage.width, gameAPI.stage.height);
-			_menu.addMenuItem(this.repl(title));
+			var _menu:MyMenu = new MyMenu(gameAPI);
+			_menu.addMenuItem(this.repl(title), '');
 			this._states[menuId] = _menu;
 		}
 
-		private function onAddMenuItem(menuId:String, title:String):void
+		private function onAddMenuItem(menuId:String, title:String, id:String):void
 		{
-			if (this._states[menuId])
-			{
-				this._states[menuId].addMenuItem(this.repl(title));
+			if (this._states[menuId]) {
+				this._states[menuId].addMenuItem(this.repl(title), id);
 			}
 		}
 
 		private function onShowMenu(menuId:String, show:Boolean):void
 		{
-			if (this._states[menuId])
-			{
+			if (this._states[menuId]) {
 				if (show) {
 					gameAPI.stage.addChild(this._states[menuId]);
 				} else {
@@ -79,8 +77,7 @@
 
 		private function onAddFlagHint(setId:String, hintType:String, col:int, row:int):void
 		{
-			if (this._states[setId])
-			{
+			if (this._states[setId]) {
 				if (hintType == "credits") {
 					this._states[setId].addChild(MyIcon.produceIcon(gameAPI, Res.getCredits(), col, row));
 				} else if (hintType == "exp") {
@@ -104,8 +101,7 @@
 
 		private function onAddPerk(setId:String, col:int, row:int, label:String):void
 		{
-			if (this._states[setId])
-			{
+			if (this._states[setId]) {
 				this._states[setId].addChild(
 					MyPerkHint.produceHint(gameAPI, col, row, label)
 				);
@@ -114,8 +110,7 @@
 
 		private function onAddQrCode(setId:String, x:int, y:int, label:String):void
 		{
-			if (this._states[setId])
-			{
+			if (this._states[setId]) {
 				this._states[setId].addChild(
 					MyQrCode.produceQrCode(gameAPI, x, y, label)
 				);

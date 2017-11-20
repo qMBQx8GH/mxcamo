@@ -9,7 +9,8 @@ package {
 		private var _stageWidth:int;
 		private var _stageHeight:int;
 
-		public function MyHint(stageWidth:int, stageHeight:int){
+		public function MyHint(stageWidth:int, stageHeight:int)
+		{
 			this._stageWidth = stageWidth;
 			this._stageHeight = stageHeight;
 		}
