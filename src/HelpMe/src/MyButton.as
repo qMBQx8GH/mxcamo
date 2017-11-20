@@ -16,7 +16,8 @@ package {
 		private var _tf_selected:TextField;
 		private var _bg_selected:Bitmap;
 
-		public function MyButton(gameAPI:GameAPI, id:String, label:String) {
+		public function MyButton(gameAPI:GameAPI, id:String, label:String)
+		{
 			this._gameAPI = gameAPI;
 			this._id = id;
 			this._label = label;
