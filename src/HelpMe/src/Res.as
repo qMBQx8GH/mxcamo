@@ -32,11 +32,18 @@ package
 			return new _Crew();
 		}
 
-		[Embed(source = "../res/menu_item.png")]
-		private static var _MenuItem:Class;
-		public static function getMenuItem():Bitmap
+		[Embed(source = "../res/menu_item_normal.png")]
+		private static var _MenuItemNormal:Class;
+		public static function getMenuItemNormal():Bitmap
 		{
-			return new _MenuItem();
+			return new _MenuItemNormal();
+		}
+
+		[Embed(source = "../res/menu_item_selected.png")]
+		private static var _MenuItemSelected:Class;
+		public static function getMenuItemSelected():Bitmap
+		{
+			return new _MenuItemSelected();
 		}
 	}
 }

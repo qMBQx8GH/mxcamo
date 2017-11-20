@@ -11,7 +11,10 @@ package {
 		private var _gameAPI:GameAPI;
 		private var _id:String;
 		private var _label:String;
-		private var _tf:TextField;
+		private var _tf_normal:TextField;
+		private var _bg_normal:Bitmap;
+		private var _tf_selected:TextField;
+		private var _bg_selected:Bitmap;
 
 		public function MyButton(gameAPI:GameAPI, id:String, label:String) {
 			this._gameAPI = gameAPI;
@@ -19,51 +22,83 @@ package {
 			this._label = label;
 		}
 
+		public function getNormalText():TextField
+		{
+			if (!this._tf_normal) {
+				this._tf_normal = new TextField();
+				this._tf_normal.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0x96a9af);
+				this._tf_normal.htmlText = '<b>' + this._label + '</b>';
+				this._tf_normal.width = 190;
+				this._tf_normal.x = 4;
+				this._tf_normal.y = 2;
+			}
+			return this._tf_normal;
+		}
+
+		public function getSelectedText():TextField
+		{
+			if (!this._tf_selected) {
+				this._tf_selected = new TextField();
+				this._tf_selected.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0xffffff);
+				this._tf_selected.htmlText = '<b>' + this._label + '</b>';
+				this._tf_selected.width = 190;
+				this._tf_selected.x = 4;
+				this._tf_selected.y = 2;
+			}
+			return this._tf_selected;
+		}
+
+		public function getNormalBackground():Bitmap
+		{
+			if (!this._bg_normal) {
+				this._bg_normal = Res.getMenuItemNormal();
+			}
+			return this._bg_normal;
+		}
+
+		public function getSelectedBackground():Bitmap
+		{
+			if (!this._bg_selected) {
+				this._bg_selected = Res.getMenuItemSelected();
+			}
+			return this._bg_selected;
+		}
+
 		public function createButton(index:int):void
 		{
-			this.addEventListener(MouseEvent.CLICK, this.clicked);
-			this.addEventListener(MouseEvent.ROLL_OVER, this.rollover);
-			this.addEventListener(MouseEvent.ROLL_OUT, this.rollout);
-			
-			var width:int = 180;
+			var width:int = 200;
 			var height:int = 27;
 			var top:int = 90 + height * index;
 			var left:int = ((this._gameAPI.stage.width - width) / 2);
 
 			this.x = left;
 			this.y = top;
-			this.addChild(Res.getMenuItem());
 
-			this._tf = new TextField();
-			this._tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0x96a9af);
-			this._tf.htmlText = '<b>' + this._label + '</b>';
-			this._tf.width = width;
-			this._tf.x = 4;
-			this._tf.y = 2;
+			this.addChild(this.getNormalBackground());
+			this.addChild(this.getNormalText());
 
-			this.addChild(this._tf);
+			if (this._id) {
+				this.addEventListener(MouseEvent.CLICK, this.clicked);
+				this.addEventListener(MouseEvent.ROLL_OVER, this.rollover);
+				this.addEventListener(MouseEvent.ROLL_OUT, this.rollout);
+			}
 		}
 
 		public function clicked(event:MouseEvent):void
 		{
-			if (this._id) {
-				this._gameAPI.data.call("HelpMe.MENU_ITEM_CLICKED", new Array(this._id));
-			}
+			this._gameAPI.data.call("HelpMe.MENU_ITEM_CLICKED", new Array(this._id));
 		}
 
 		public function rollover(event:MouseEvent):void
 		{
-			if (this._tf) {
-				this._tf.htmlText = '<b>&gt;' + this._label + '</b>';
-			}
+			this.addChild(this.getSelectedBackground());
+			this.addChild(this.getSelectedText());
 		}
 
 		public function rollout(event:MouseEvent):void
 		{
-			if (this._tf) {
-				this._tf.htmlText = '<b>' + this._label + '</b>';
-			}
+			this.removeChild(this.getSelectedText());
+			this.removeChild(this.getSelectedBackground());
 		}
-		
 	}
 }//package 
