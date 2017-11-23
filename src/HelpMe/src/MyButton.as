@@ -31,7 +31,7 @@ package {
 				this._tf_normal.htmlText = '<b>' + this._label + '</b>';
 				this._tf_normal.width = 190;
 				this._tf_normal.x = 4;
-				this._tf_normal.y = 2;
+				this._tf_normal.y = 4;
 			}
 			return this._tf_normal;
 		}
@@ -44,7 +44,7 @@ package {
 				this._tf_selected.htmlText = '<b>' + this._label + '</b>';
 				this._tf_selected.width = 190;
 				this._tf_selected.x = 4;
-				this._tf_selected.y = 2;
+				this._tf_selected.y = 4;
 			}
 			return this._tf_selected;
 		}
@@ -68,7 +68,7 @@ package {
 		public function createButton(index:int):void
 		{
 			var width:int = 200;
-			var height:int = 27;
+			var height:int = 30;
 			var top:int = 90 + height * index;
 			var left:int = ((this._gameAPI.stage.width - width) / 2);
 
