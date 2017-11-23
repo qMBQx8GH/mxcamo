@@ -43,17 +43,13 @@
             {
               "id": "HelpMe.showPerkMenuCVUS",
               "title": "&2. USA"
-            },
-            {
-              "id": "HelpMe.showPerkMenuCV_Event2017",
-              "title": "&6. Halloween 2017"
             }
           ]
         },
         {
           "id": "HelpMe.showPerkMenuBB",
           "title": "&2. Battleship",
-          "itemsTitle": "Captain skills (battleship)",
+          "itemsTitle": "Captain skills (Battleship)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuBBJP",
@@ -65,18 +61,18 @@
             },
             {
               "id": "HelpMe.showPerkMenuBBDE",
-              "title": "&4. Germany"
+              "title": "&3. Germany"
             },
             {
-              "id": "HelpMe.showPerkMenuBB_Event2017",
-              "title": "&6. Halloween 2017"
+              "id": "HelpMe.showPerkMenuBBEN",
+              "title": "&4. England"
             }
           ]
         },
         {
           "id": "HelpMe.showPerkMenuCA",
           "title": "&3. Cruiser",
-          "itemsTitle": "Captain skills (cruiser)",
+          "itemsTitle": "Captain skills (Cruiser)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuCAJP",
@@ -84,30 +80,38 @@
             },
             {
               "id": "HelpMe.showPerkMenuCAUS",
-              "title": "&2. USA"
+              "title": "&2. USA (AA)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAUS2",
+              "title": "&3. USA (universal)"
             },
             {
               "id": "HelpMe.showPerkMenuCARU",
-              "title": "&3. USSR"
+              "title": "&4. USSR"
             },
             {
               "id": "HelpMe.showPerkMenuCADE",
-              "title": "&4. Germany"
+              "title": "&5. Germany"
             },
             {
               "id": "HelpMe.showPerkMenuCAEN",
-              "title": "&5. England"
+              "title": "&6. England (AA)"
             },
             {
-              "id": "HelpMe.showPerkMenuCA_Event2017",
-              "title": "&6. Halloween 2017"
+              "id": "HelpMe.showPerkMenuCAEN2",
+              "title": "&7. England (universal)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCAFR",
+              "title": "&8. France"
             }
           ]
         },
         {
           "id": "HelpMe.showPerkMenuDD",
           "title": "&4. Destroyer",
-          "itemsTitle": "Captain skills (destroyer)",
+          "itemsTitle": "Captain skills (Destroyer)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuDDJP",
@@ -119,15 +123,15 @@
             },
             {
               "id": "HelpMe.showPerkMenuDDRU",
-              "title": "&3. USSR"
+              "title": "&3. USSR (artillery)"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDDRU2",
+              "title": "&4. USSR (not art.)"
             },
             {
               "id": "HelpMe.showPerkMenuDDDE",
-              "title": "&4. Germany"
-            },
-            {
-              "id": "HelpMe.showPerkMenuDD_Event2017",
-              "title": "&6. Halloween 2017"
+              "title": "&5. Germany"
             }
           ]
         }
