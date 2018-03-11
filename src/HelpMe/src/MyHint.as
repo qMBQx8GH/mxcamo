@@ -24,8 +24,8 @@ package {
 
 		public function createHint(col:int, row:int):void
 		{
-			this.graphics.lineStyle(2, 0xfbc62c);
-			var width:int = 58;
+			this.graphics.lineStyle(1, 0xfbc62c);
+			var width:int = 68;
 			this.graphics.drawRoundRect(
 				this.getLeftOffset() + this.getColumnStep() * col - width / 2,
 				this.getTopOffset() + this.getRowStep() * row - width / 2,
@@ -48,7 +48,7 @@ package {
 
 		public function getTopOffset():int
 		{
-			return 234;
+			return 230;
 		}
 
 		public function getColumnStep():int
