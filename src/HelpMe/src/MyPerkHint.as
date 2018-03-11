@@ -48,12 +48,12 @@ package {
 				x = centerX + interGroup / 2 + inGroup * 2 + interGroup + width * 3;
 			}
 			var y:int = this.getTopOffset();
-			this.graphics.lineStyle(2, 0xFF0000);
+			this.graphics.lineStyle(3, 0xfbc62c);
 			this.graphics.moveTo(x, y + height * row + height);
 			this.graphics.lineTo(x + width, y + height * row + height);
 
 			var tf:TextField = new TextField();
-			tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0xFF0000);
+			tf.defaultTextFormat = new TextFormat("$WWSDefaultFont", 14, 0xfbc62c);
 			tf.multiline = true; 
 			tf.wordWrap = true;
 			tf.text = label;

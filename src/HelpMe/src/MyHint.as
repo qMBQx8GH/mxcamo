@@ -24,11 +24,20 @@ package {
 
 		public function createHint(col:int, row:int):void
 		{
-			this.graphics.lineStyle(2, 0xFF0000);
-			this.graphics.drawCircle(
-				this.getLeftOffset() + this.getColumnStep() * col,
-				this.getTopOffset() + this.getRowStep() * row,
-				30
+			this.graphics.lineStyle(1, 0xfbc62c);
+			var width:int = 68;
+			this.graphics.drawRoundRect(
+				this.getLeftOffset() + this.getColumnStep() * col - width / 2,
+				this.getTopOffset() + this.getRowStep() * row - width / 2,
+				width, width, 6
+			);
+			this.graphics.moveTo(
+				this.getLeftOffset() + this.getColumnStep() * col + width / 2,
+				this.getTopOffset() + this.getRowStep() * row - width / 2 + 3
+			);
+			this.graphics.lineTo(
+				this.getLeftOffset() + this.getColumnStep() * col + width / 2,
+				this.getTopOffset() + this.getRowStep() * row + width / 2 - 3
 			);
 		}
 
