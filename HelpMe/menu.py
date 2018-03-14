@@ -33,6 +33,10 @@ class MyMenu:
     def getMainId(self):
         return self._menu['id']
 
+    def getById(self, id):
+        menu = self._find_menu(id, self._menu)
+        return menu
+
     def checkMainKey(self, keyCode):
         if 'key' in self._menu:
             if keyCode == self._menu['key']:

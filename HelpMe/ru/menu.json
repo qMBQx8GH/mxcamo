@@ -136,6 +136,14 @@
           ]
         }
       ]
+    },
+    {
+      "id": "HelpMe.showLinksMenu",
+      "title": "&3. Ссылки",
+      "itemsTitle": "Ссылки",
+      "links": true,
+      "items": [
+      ]
     }
-  ]
+]
 }
