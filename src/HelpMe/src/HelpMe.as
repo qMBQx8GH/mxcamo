@@ -20,6 +20,7 @@
 			gameAPI.data.addCallBack("HelpMe.CREATE_PERK_SET", this.onCreatePerkSet);
 			gameAPI.data.addCallBack("HelpMe.ADD_PERK", this.onAddPerk);
 			gameAPI.data.addCallBack("HelpMe.ADD_QR_CODE", this.onAddQrCode);
+			gameAPI.data.addCallBack("HelpMe.CREATE_QR_CODE", this.onCreateQrCode);
 		}
 		
 		override public function fini():void 
@@ -115,6 +116,16 @@
 					MyQrCode.produceQrCode(gameAPI, x, y, label)
 				);
 			}
+		}
+
+		private function onCreateQrCode(setId:String, x:int, y:int, label:String):void
+		{
+			var _set:Sprite = new Sprite();
+			_set.mouseChildren = _set.mouseEnabled = false;
+			this._states[setId] = _set;
+			this._states[setId].addChild(
+				MyQrCode.produceQrCode(gameAPI, x, y, label)
+			);
 		}
 	}
 }
