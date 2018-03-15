@@ -1,0 +1,2252 @@
+[
+  {
+    "id_str": "PASA002", 
+    "nation": "usa", 
+    "ship_id": "4292851696", 
+    "ship_name": "Bogue", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/33631-uss-bogue-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-%D1%81%D1%88%D0%B0-5-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%83%D0%B7%D0%B0%D1%82%D1%8B%D0%B9-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-0614%D1%85/"
+  }, 
+  {
+    "id_str": "PASA004", 
+    "nation": "usa", 
+    "ship_id": "4290754544", 
+    "ship_name": "Langley", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/50170-langley-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0541/"
+  }, 
+  {
+    "id_str": "PASA006", 
+    "nation": "usa", 
+    "ship_id": "4288657392", 
+    "ship_name": "Independence", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/23859-independence-vi-0515%D1%85/"
+  }, 
+  {
+    "id_str": "PASA010", 
+    "nation": "usa", 
+    "ship_id": "4284463088", 
+    "ship_name": "Ranger", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/37934-uss-ranger-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-%D1%81%D1%88%D0%B0-7-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D1%81%D1%82-%D0%B8-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5%D0%BD-%D0%BA%D0%B0%D0%BA-%D1%83%D0%B4%D0%B0%D1%80-%D0%B1%D0%B5%D0%B9%D1%81%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B1%D0%B8%D1%82%D0%BE%D0%B9-upd-%D0%B3%D0%B0%D0%B9%D0%B4-0614%D1%85/"
+  }, 
+  {
+    "id_str": "PASA012", 
+    "nation": "usa", 
+    "ship_id": "4282365936", 
+    "ship_name": "Lexington", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/41970-uss-lexington-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-8-lvl-%D1%81%D1%88%D0%B0-%D0%BE%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D0%B0%D1%8F-%D0%BA%D0%B0%D1%80%D0%B0-%D1%81-%D0%BD%D0%B5%D0%B1%D0%B5%D1%81-060/"
+  }, 
+  {
+    "id_str": "PASA013", 
+    "nation": "usa", 
+    "ship_id": "4281317360", 
+    "ship_name": "Essex", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/62650-essex-ix-062/"
+  }, 
+  {
+    "id_str": "PASA015", 
+    "nation": "usa", 
+    "ship_id": "4279220208", 
+    "ship_name": "Midway", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/51970-midway-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064x/"
+  }, 
+  {
+    "id_str": "PASA507", 
+    "nation": "usa", 
+    "ship_id": "3763320816", 
+    "ship_name": "Saipan", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/59089-saipan-0516/"
+  }, 
+  {
+    "id_str": "PASA508", 
+    "nation": "usa", 
+    "ship_id": "3762272240", 
+    "ship_name": "Enterprise", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/90270-uss-enterprise-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-8-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-067/"
+  }, 
+  {
+    "id_str": "PASA906", 
+    "nation": "usa", 
+    "ship_id": "3344938992", 
+    "ship_name": "Ranger", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/37934-uss-ranger-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-%D1%81%D1%88%D0%B0-7-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%BF%D1%80%D0%BE%D1%81%D1%82-%D0%B8-%D1%8D%D1%84%D1%84%D0%B5%D0%BA%D1%82%D0%B8%D0%B2%D0%B5%D0%BD-%D0%BA%D0%B0%D0%BA-%D1%83%D0%B4%D0%B0%D1%80-%D0%B1%D0%B5%D0%B9%D1%81%D0%B1%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B9-%D0%B1%D0%B8%D1%82%D0%BE%D0%B9-upd-%D0%B3%D0%B0%D0%B9%D0%B4-0614%D1%85/"
+  }, 
+  {
+    "id_str": "PASB004", 
+    "nation": "usa", 
+    "ship_id": "4290721776", 
+    "ship_name": "Wyoming", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/22723-%D0%B2%D0%B0%D0%B9%D0%BE%D0%BC%D0%B8%D0%BD%D0%B3-wyoming-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-050x/"
+  }, 
+  {
+    "id_str": "PASB006", 
+    "nation": "usa", 
+    "ship_id": "4288624624", 
+    "ship_name": "New York", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/43842-new-york-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PASB008", 
+    "nation": "usa", 
+    "ship_id": "4286527472", 
+    "ship_name": "Colorado", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/67298-colorado-%E2%80%94-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0614/"
+  }, 
+  {
+    "id_str": "PASB013", 
+    "nation": "usa", 
+    "ship_id": "4281284592", 
+    "ship_name": "Arkansas B", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/22552-%D0%B0%D1%80%D0%BA%D0%B0%D0%BD%D0%B7%D0%B0%D1%81arkansas-beta-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06%D1%85%D1%85/"
+  }, 
+  {
+    "id_str": "PASB018", 
+    "nation": "usa", 
+    "ship_id": "4276041712", 
+    "ship_name": "Iowa", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/50215-iowa-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PASB034", 
+    "nation": "usa", 
+    "ship_id": "4259264496", 
+    "ship_name": "New Mexico", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/32149-%D0%B3%D0%B0%D0%B9%D0%B4-new-mexico-0511%D1%85/"
+  }, 
+  {
+    "id_str": "PASB506", 
+    "nation": "usa", 
+    "ship_id": "3764336624", 
+    "ship_name": "Arizona", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/59985-arizona-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%81%D1%88%D0%B0-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0615/"
+  }, 
+  {
+    "id_str": "PASB508", 
+    "nation": "usa", 
+    "ship_id": "3762239472", 
+    "ship_name": "Alabama", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/83896-alabama-%E2%80%94-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASB509", 
+    "nation": "usa", 
+    "ship_id": "3761190896", 
+    "ship_name": "Missouri", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/74626-uss-missouri-bb-63-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PASB801", 
+    "nation": "usa", 
+    "ship_id": "3455006704", 
+    "ship_name": "South Carolina", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/57884-south-carolina-iii-0515x/"
+  }, 
+  {
+    "id_str": "PASC001", 
+    "nation": "usa", 
+    "ship_id": "4293834736", 
+    "ship_name": "Erie", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21952-erie-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASC002", 
+    "nation": "usa", 
+    "ship_id": "4292786160", 
+    "ship_name": "Chester", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21955-chester-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASC003", 
+    "nation": "usa", 
+    "ship_id": "4291737584", 
+    "ship_name": "Albany", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/26225-albany-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASC004", 
+    "nation": "usa", 
+    "ship_id": "4290689008", 
+    "ship_name": "St. Louis", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/57802-st-louis-iii-0515x/"
+  }, 
+  {
+    "id_str": "PASC007", 
+    "nation": "usa", 
+    "ship_id": "4287543280", 
+    "ship_name": "Cleveland", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/33765-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-cleveland/"
+  }, 
+  {
+    "id_str": "PASC012", 
+    "nation": "usa", 
+    "ship_id": "4282300400", 
+    "ship_name": "Pensacola", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/65733-uss-pensacola-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-069x/"
+  }, 
+  {
+    "id_str": "PASC014", 
+    "nation": "usa", 
+    "ship_id": "4280203248", 
+    "ship_name": "New Orleans", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/37925-new-orleans-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PASC017", 
+    "nation": "usa", 
+    "ship_id": "4277057520", 
+    "ship_name": "Baltimore", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/73372-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%BC%D1%83-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%83-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-uss-baltimore-065/"
+  }, 
+  {
+    "id_str": "PASC020", 
+    "nation": "usa", 
+    "ship_id": "4273911792", 
+    "ship_name": "Des Moines", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/91133-des-moines-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%88%D0%B0-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-068/"
+  }, 
+  {
+    "id_str": "PASC024", 
+    "nation": "usa", 
+    "ship_id": "4269717488", 
+    "ship_name": "Phoenix", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/22770-phoenix-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASC044", 
+    "nation": "usa", 
+    "ship_id": "4248745968", 
+    "ship_name": "Marblehead", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/76656-uss-marblehead-cl-12-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PASC707", 
+    "nation": "usa", 
+    "ship_id": "3553540080", 
+    "ship_name": "Flint", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/61847-flint-%D0%B1%D0%BE%D0%BB%D1%8C%D1%88%D0%BE%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vli-591/"
+  }, 
+  {
+    "id_str": "PASC804", 
+    "nation": "usa", 
+    "ship_id": "3451828208", 
+    "ship_name": "Erie", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21952-erie-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASC805", 
+    "nation": "usa", 
+    "ship_id": "3450779632", 
+    "ship_name": "Erie", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21952-erie-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASD002", 
+    "nation": "usa", 
+    "ship_id": "4292753392", 
+    "ship_name": "Sampson", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/22692-sampson-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-050%D1%85/"
+  }, 
+  {
+    "id_str": "PASD005", 
+    "nation": "usa", 
+    "ship_id": "4289607664", 
+    "ship_name": "Farragut", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/59621-uss-farragut-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-6-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%B1%D0%BE%D0%B4%D1%80%D1%8B%D0%B9-%D0%B3%D0%B5%D0%B9%D0%BC%D0%BF%D0%BB%D0%B5%D0%B9-0614%D1%85/"
+  }, 
+  {
+    "id_str": "PASD006", 
+    "nation": "usa", 
+    "ship_id": "4288559088", 
+    "ship_name": "Mahan", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/49912-uss-mahan-dd-364-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060x/"
+  }, 
+  {
+    "id_str": "PASD008", 
+    "nation": "usa", 
+    "ship_id": "4286461936", 
+    "ship_name": "Benson", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/53312-uss-benson-dd-421-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060x/"
+  }, 
+  {
+    "id_str": "PASD013", 
+    "nation": "usa", 
+    "ship_id": "4281219056", 
+    "ship_name": "Gearing", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/52407-gearing-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-055%D1%85/"
+  }, 
+  {
+    "id_str": "PASD014", 
+    "nation": "usa", 
+    "ship_id": "4280170480", 
+    "ship_name": "Nicholas", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/57880-uss-nicholas-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%81%D1%88%D0%B0-5-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%B5%D0%B4%D0%B8%D0%BD%D1%81%D1%82%D0%B2%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C-%D1%81-%D0%B7%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%BA%D0%BE%D0%B9-%D0%BD%D0%B0-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D0%B5-065/"
+  }, 
+  {
+    "id_str": "PASD019", 
+    "nation": "usa", 
+    "ship_id": "4274927600", 
+    "ship_name": "Clemson", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/63755-uss-clemson-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%81%D1%88%D0%B0-4-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0614/"
+  }, 
+  {
+    "id_str": "PASD021", 
+    "nation": "usa", 
+    "ship_id": "4272830448", 
+    "ship_name": "Fletcher", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/49969-fletcher-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-055x/"
+  }, 
+  {
+    "id_str": "PASD027", 
+    "nation": "usa", 
+    "ship_id": "4266538992", 
+    "ship_name": "Wickes", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/21903-wickes-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASD029", 
+    "nation": "usa", 
+    "ship_id": "4264441840", 
+    "ship_name": "Sims", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/20064-%D1%81%D0%B8%D0%BC%D1%81-sims-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASD502", 
+    "nation": "usa", 
+    "ship_id": "3768465392", 
+    "ship_name": "Smith", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/71359-uss-smith-dd-17-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PASD508", 
+    "nation": "usa", 
+    "ship_id": "3762173936", 
+    "ship_name": "Kidd", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/99053-kidd-%E2%80%94-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PASD709", 
+    "nation": "usa", 
+    "ship_id": "3551410160", 
+    "ship_name": "Black", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/69408-hms-black-swan-u-57-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0513x/"
+  }, 
+  {
+    "id_str": "PASD801", 
+    "nation": "usa", 
+    "ship_id": "3454941168", 
+    "ship_name": "Sampson", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/22692-sampson-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-050%D1%85/"
+  }, 
+  {
+    "id_str": "PASX815", 
+    "nation": "usa", 
+    "ship_id": "3439605744", 
+    "ship_name": "Bogue", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Auxiliary", 
+    "url": "https://forum.worldofwarships.ru/topic/33631-uss-bogue-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-%D1%81%D1%88%D0%B0-5-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%BC%D0%B5%D0%B4%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%83%D0%B7%D0%B0%D1%82%D1%8B%D0%B9-%D1%83%D1%87%D0%B5%D0%B1%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-0614%D1%85/"
+  }, 
+  {
+    "id_str": "PBSB002", 
+    "nation": "uk", 
+    "ship_id": "4292818896", 
+    "ship_name": "Warspite", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/37507-hms-warspite-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PBSB103", 
+    "nation": "uk", 
+    "ship_id": "4186912720", 
+    "ship_name": "Bellerophon", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/101730-hms-bellerophon-1907-v-06150/"
+  }, 
+  {
+    "id_str": "PBSB104", 
+    "nation": "uk", 
+    "ship_id": "4185864144", 
+    "ship_name": "Orion", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/103318-hms-orion-v-0700/"
+  }, 
+  {
+    "id_str": "PBSB105", 
+    "nation": "uk", 
+    "ship_id": "4184815568", 
+    "ship_name": "Iron Duke", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/104188-hms-%C2%ABiron-duke%C2%BB-v-0702/"
+  }, 
+  {
+    "id_str": "PBSB106", 
+    "nation": "uk", 
+    "ship_id": "4183766992", 
+    "ship_name": "Queen Elizabeth", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/93467-queen-elizabeth-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSB107", 
+    "nation": "uk", 
+    "ship_id": "4182718416", 
+    "ship_name": "King George V", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/93468-king-george-v-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSB108", 
+    "nation": "uk", 
+    "ship_id": "4181669840", 
+    "ship_name": "Monarch", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/93469-monarch-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSB109", 
+    "nation": "uk", 
+    "ship_id": "4180621264", 
+    "ship_name": "Lion", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/93470-lion-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSB110", 
+    "nation": "uk", 
+    "ship_id": "4179572688", 
+    "ship_name": "Conqueror", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/93471-conqueror-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSB507", 
+    "nation": "uk", 
+    "ship_id": "3763288016", 
+    "ship_name": "Hood", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/90884-hms-hood%C2%A0-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80%C2%A0vii%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PBSB517", 
+    "nation": "uk", 
+    "ship_id": "3752802256", 
+    "ship_name": "Nelson", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/93342-hms-nelson-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PBSB527", 
+    "nation": "uk", 
+    "ship_id": "3742316496", 
+    "ship_name": "Duke of York", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/101339-hms-duke-of-york-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D0%B8%D0%B8-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-070/"
+  }, 
+  {
+    "id_str": "PBSC101", 
+    "nation": "uk", 
+    "ship_id": "4188977104", 
+    "ship_name": "Black Swan", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/69408-hms-black-swan-u-57-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0513x/"
+  }, 
+  {
+    "id_str": "PBSC102", 
+    "nation": "uk", 
+    "ship_id": "4187928528", 
+    "ship_name": "Weymouth", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/69302-hms-weymouth-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-2-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSC103", 
+    "nation": "uk", 
+    "ship_id": "4186879952", 
+    "ship_name": "Caledon", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/69296-hms-caledon-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-3-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSC104", 
+    "nation": "uk", 
+    "ship_id": "4185831376", 
+    "ship_name": "Danae", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/69301-hms-danae-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-4-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PBSC105", 
+    "nation": "uk", 
+    "ship_id": "4184782800", 
+    "ship_name": "Emerald", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/75627-hms-emerald-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064x/"
+  }, 
+  {
+    "id_str": "PBSC106", 
+    "nation": "uk", 
+    "ship_id": "4183734224", 
+    "ship_name": "Leander", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/69950-hms-leander-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PBSC107", 
+    "nation": "uk", 
+    "ship_id": "4182685648", 
+    "ship_name": "Fiji", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/74533-hms-fiji-58-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PBSC109", 
+    "nation": "uk", 
+    "ship_id": "4180588496", 
+    "ship_name": "Neptune", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/92649-neptune-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-9-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-069x/"
+  }, 
+  {
+    "id_str": "PBSC110", 
+    "nation": "uk", 
+    "ship_id": "4179539920", 
+    "ship_name": "Minotaur", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/70841-minotaur-x-062x/"
+  }, 
+  {
+    "id_str": "PBSC507", 
+    "nation": "uk", 
+    "ship_id": "3763255248", 
+    "ship_name": "Belfast", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/71205-hms-belfast-c35-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060%D1%85/"
+  }, 
+  {
+    "id_str": "PBSD503", 
+    "nation": "uk", 
+    "ship_id": "3767416784", 
+    "ship_name": "Campbeltown", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/67766-hms-campbeltown-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PBSD506", 
+    "nation": "uk", 
+    "ship_id": "3764271056", 
+    "ship_name": "Gallant", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/98579-gallant-%E2%80%94-%D0%B1%D1%80%D0%B8%D1%82%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSB103", 
+    "nation": "france", 
+    "ship_id": "4186912592", 
+    "ship_name": "Turenne", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/106316-turenne%C2%A0%E2%80%94%C2%A0%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9%C2%A0%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80%C2%A0iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSB104", 
+    "nation": "france", 
+    "ship_id": "4185864016", 
+    "ship_name": "Courbet", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/106293-courbet-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSB105", 
+    "nation": "france", 
+    "ship_id": "4184815440", 
+    "ship_name": "Bretagne", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/106281-bretagne-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSB106", 
+    "nation": "france", 
+    "ship_id": "4183766864", 
+    "ship_name": "Normandie", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/105599-normandie-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSB107", 
+    "nation": "france", 
+    "ship_id": "4182718288", 
+    "ship_name": "Lyon", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/105672-lyon-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0711/"
+  }, 
+  {
+    "id_str": "PFSB108", 
+    "nation": "france", 
+    "ship_id": "4181669712", 
+    "ship_name": "Richelieu", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/105939-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%C2%ABrichelieu%C2%BB-0720/"
+  }, 
+  {
+    "id_str": "PFSB109", 
+    "nation": "france", 
+    "ship_id": "4180621136", 
+    "ship_name": "Alsace", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/106220-alsace%C2%A0%C2%A0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PFSB110", 
+    "nation": "france", 
+    "ship_id": "4179572560", 
+    "ship_name": "R\u00e9publique", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/106314-r%C3%A9publique%C2%A0%E2%80%94%C2%A0%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9%C2%A0%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80%C2%A0x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSB506", 
+    "nation": "france", 
+    "ship_id": "3764336464", 
+    "ship_name": "Dunkerque", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/64611-dunkerque-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PFSB508", 
+    "nation": "france", 
+    "ship_id": "3762239312", 
+    "ship_name": "Gascogne", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/106282-gascogne-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC101", 
+    "nation": "france", 
+    "ship_id": "4188976976", 
+    "ship_name": "Bougainville", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84928-bougainville-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC102", 
+    "nation": "france", 
+    "ship_id": "4187928400", 
+    "ship_name": "Jurien", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84930-jurien-de-la-gravi%C3%A8re-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC103", 
+    "nation": "france", 
+    "ship_id": "4186879824", 
+    "ship_name": "Friant", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84932-friant-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC104", 
+    "nation": "france", 
+    "ship_id": "4185831248", 
+    "ship_name": "Duguay-Trouin", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84936-duguay-trouin-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC105", 
+    "nation": "france", 
+    "ship_id": "4184782672", 
+    "ship_name": "\u00c9mile Bertin", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84937-%C3%A9mile-bertin-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC106", 
+    "nation": "france", 
+    "ship_id": "4183734096", 
+    "ship_name": "La Galissonni\u00e8re", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84938-la-galissonni%C3%A8re-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC107", 
+    "nation": "france", 
+    "ship_id": "4182685520", 
+    "ship_name": "Alg\u00e9rie", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/88703-alg%C3%A9rie%C2%A0-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%C2%A0vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PFSC108", 
+    "nation": "france", 
+    "ship_id": "4181636944", 
+    "ship_name": "Charles Martel", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/93004-charles-martel-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-069x/"
+  }, 
+  {
+    "id_str": "PFSC109", 
+    "nation": "france", 
+    "ship_id": "4180588368", 
+    "ship_name": "Saint-Louis", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84890-saint-louis-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC110", 
+    "nation": "france", 
+    "ship_id": "4179539792", 
+    "ship_name": "Henri IV", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84886-henri-iv-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSC506", 
+    "nation": "france", 
+    "ship_id": "3764303696", 
+    "ship_name": "De Grasse", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/98582-de-grasse-%E2%80%94-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D1%83%D0%B7%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PFSD506", 
+    "nation": "france", 
+    "ship_id": "3764270928", 
+    "ship_name": "Aigle", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/104491-aigle-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%84%D1%80%D0%B0%D0%BD%D1%86%D0%B8%D0%B8-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSB002", 
+    "nation": "germany", 
+    "ship_id": "4292818736", 
+    "ship_name": "Tirpitz", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/36444-tirpitz-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PGSB103", 
+    "nation": "germany", 
+    "ship_id": "4186912560", 
+    "ship_name": "Nassau", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/67105-nassau-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0512/"
+  }, 
+  {
+    "id_str": "PGSB104", 
+    "nation": "germany", 
+    "ship_id": "4185863984", 
+    "ship_name": "Kaiser", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/63318-kaiser-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0510/"
+  }, 
+  {
+    "id_str": "PGSB105", 
+    "nation": "germany", 
+    "ship_id": "4184815408", 
+    "ship_name": "K\u00f6nig", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/36971-k%C3%B6nigsberg-v-0515%D1%85/"
+  }, 
+  {
+    "id_str": "PGSB106", 
+    "nation": "germany", 
+    "ship_id": "4183766832", 
+    "ship_name": "Bayern", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/63366-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-bayern-vi-05100/"
+  }, 
+  {
+    "id_str": "PGSB107", 
+    "nation": "germany", 
+    "ship_id": "4182718256", 
+    "ship_name": "Gneisenau", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/66554-%D0%B3%D0%B0%D0%B9%D0%B4-gneisenau-vii-0516/"
+  }, 
+  {
+    "id_str": "PGSB108", 
+    "nation": "germany", 
+    "ship_id": "4181669680", 
+    "ship_name": "Bismarck", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/64655-bismarck-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PGSB507", 
+    "nation": "germany", 
+    "ship_id": "3763287856", 
+    "ship_name": "Scharnhorst", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/64847-scharnhorst-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PGSC001", 
+    "nation": "germany", 
+    "ship_id": "4293834544", 
+    "ship_name": "Hermelin", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/32932-hermelin-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSC002", 
+    "nation": "germany", 
+    "ship_id": "4292785968", 
+    "ship_name": "Dresden", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/47433-dresden-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSC103", 
+    "nation": "germany", 
+    "ship_id": "4186879792", 
+    "ship_name": "Kolberg", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/32934-kolberg-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSC104", 
+    "nation": "germany", 
+    "ship_id": "4185831216", 
+    "ship_name": "Karlsruhe", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/32935-karlsruhe-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSC105", 
+    "nation": "germany", 
+    "ship_id": "4184782640", 
+    "ship_name": "K\u00f6nigsberg", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/36971-k%C3%B6nigsberg-v-0515%D1%85/"
+  }, 
+  {
+    "id_str": "PGSC109", 
+    "nation": "germany", 
+    "ship_id": "4180588336", 
+    "ship_name": "Roon", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/34846-roon-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PGSC110", 
+    "nation": "germany", 
+    "ship_id": "4179539760", 
+    "ship_name": "Hindenburg", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/35906-hindenburg-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PGSC502", 
+    "nation": "germany", 
+    "ship_id": "3768497968", 
+    "ship_name": "Emden", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/85395-emden-%E2%80%94-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSC506", 
+    "nation": "germany", 
+    "ship_id": "3764303664", 
+    "ship_name": "Graf Spee", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/76443-admiral-graf-spee-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PGSC508", 
+    "nation": "germany", 
+    "ship_id": "3762206512", 
+    "ship_name": "Prinz Eugen", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/66031-prinz-eugen-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PGSD102", 
+    "nation": "germany", 
+    "ship_id": "4187895600", 
+    "ship_name": "V-25", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/75077-v-25-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSD103", 
+    "nation": "germany", 
+    "ship_id": "4186847024", 
+    "ship_name": "G-101", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/84387-g-101-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-067x/"
+  }, 
+  {
+    "id_str": "PGSD104", 
+    "nation": "germany", 
+    "ship_id": "4185798448", 
+    "ship_name": "V-170", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/75080-v-170-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSD105", 
+    "nation": "germany", 
+    "ship_id": "4184749872", 
+    "ship_name": "T-22", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/78167-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%BE%D0%BC%D1%83-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D1%86%D1%83-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-t-22-0613/"
+  }, 
+  {
+    "id_str": "PGSD106", 
+    "nation": "germany", 
+    "ship_id": "4183701296", 
+    "ship_name": "Gaede", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/76278-ernst-gaede-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%83%D0%BD%D0%B8%D0%B2%D0%B5%D1%80%D1%81%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D0%BB%D0%B4%D0%B0%D1%82-063/"
+  }, 
+  {
+    "id_str": "PGSD107", 
+    "nation": "germany", 
+    "ship_id": "4182652720", 
+    "ship_name": "Maass", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/75345-leberecht-maass-z-1-%D0%B3%D0%B5%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PGSD108", 
+    "nation": "germany", 
+    "ship_id": "4181604144", 
+    "ship_name": "Z-23", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/90283-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D1%86%D1%83-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-z-23-067/"
+  }, 
+  {
+    "id_str": "PGSD109", 
+    "nation": "germany", 
+    "ship_id": "4180555568", 
+    "ship_name": "Z-46", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/78793-z-46-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PGSD110", 
+    "nation": "germany", 
+    "ship_id": "4179506992", 
+    "ship_name": "Z-52", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/75084-z-52-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PISB505", 
+    "nation": "italy", 
+    "ship_id": "3765384944", 
+    "ship_name": "Giulio Cesare", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/99191-giulio-cesare-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PISB508", 
+    "nation": "italy", 
+    "ship_id": "3762239216", 
+    "ship_name": "Roma", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/103124-roma-%D0%B8%D1%82%D0%B0%D0%BB%D1%8C%D1%8F%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0701/"
+  }, 
+  {
+    "id_str": "PJSA002", 
+    "nation": "japan", 
+    "ship_id": "4292851408", 
+    "ship_name": "Hosho", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/65266-ijn-hosho-%E9%B3%B3%E7%BF%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060x/"
+  }, 
+  {
+    "id_str": "PJSA006", 
+    "nation": "japan", 
+    "ship_id": "4288657104", 
+    "ship_name": "Zuiho", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/70159-ijn-zuiho%E7%91%9E%E9%B3%B3-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0650/"
+  }, 
+  {
+    "id_str": "PJSA009", 
+    "nation": "japan", 
+    "ship_id": "4285511376", 
+    "ship_name": "Ryujo", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/71117-ijn-ryujo%E9%BE%8D%E9%A9%A4-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0650/"
+  }, 
+  {
+    "id_str": "PJSA011", 
+    "nation": "japan", 
+    "ship_id": "4283414224", 
+    "ship_name": "Hiryu", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/57976-hiryu-vii-0516x/"
+  }, 
+  {
+    "id_str": "PJSA012", 
+    "nation": "japan", 
+    "ship_id": "4282365648", 
+    "ship_name": "Shokaku", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/61494-ijn-shokaku%E7%BF%94%E9%B6%B4-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0650/"
+  }, 
+  {
+    "id_str": "PJSA015", 
+    "nation": "japan", 
+    "ship_id": "4279219920", 
+    "ship_name": "Taiho", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/68257-taiho%E5%A4%A7%E9%B3%B3-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064x/"
+  }, 
+  {
+    "id_str": "PJSA017", 
+    "nation": "japan", 
+    "ship_id": "4277122768", 
+    "ship_name": "Hakuryu", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/39880-%D0%B3%D0%B0%D0%B9%D0%B4-hakuryu-062x/"
+  }, 
+  {
+    "id_str": "PJSA507", 
+    "nation": "japan", 
+    "ship_id": "3763320528", 
+    "ship_name": "Kaga", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "AirCarrier", 
+    "url": "https://forum.worldofwarships.ru/topic/89528-kaga-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-067/"
+  }, 
+  {
+    "id_str": "PJSB001", 
+    "nation": "japan", 
+    "ship_id": "4293867216", 
+    "ship_name": "Kawachi", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/43687-kawachi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB003", 
+    "nation": "japan", 
+    "ship_id": "4291770064", 
+    "ship_name": "Myogi", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/21978-myogi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB006", 
+    "nation": "japan", 
+    "ship_id": "4288624336", 
+    "ship_name": "Fuso", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/26375-%D0%B3%D0%B0%D0%B9%D0%B4-fuso-0516%D1%85/"
+  }, 
+  {
+    "id_str": "PJSB007", 
+    "nation": "japan", 
+    "ship_id": "4287575760", 
+    "ship_name": "Kongo", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/21980-kongo-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB008", 
+    "nation": "japan", 
+    "ship_id": "4286527184", 
+    "ship_name": "Ishizuchi", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/26119-ishizuchi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB010", 
+    "nation": "japan", 
+    "ship_id": "4284430032", 
+    "ship_name": "Nagato", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/39733-nagato-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0521/"
+  }, 
+  {
+    "id_str": "PJSB011", 
+    "nation": "japan", 
+    "ship_id": "4283381456", 
+    "ship_name": "Mikasa", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/63701-ijn-mikasa-%E4%B8%89%E7%AC%A0-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PJSB013", 
+    "nation": "japan", 
+    "ship_id": "4281284304", 
+    "ship_name": "Amagi", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/59377-amagi-%E5%A4%A9%E5%9F%8E%E5%9E%8B-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0510/"
+  }, 
+  {
+    "id_str": "PJSB018", 
+    "nation": "japan", 
+    "ship_id": "4276041424", 
+    "ship_name": "Yamato", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/51992-%D0%B3%D0%B0%D0%B9%D0%B4-yamato-x-069%D1%85/"
+  }, 
+  {
+    "id_str": "PJSB021", 
+    "nation": "japan", 
+    "ship_id": "4272895696", 
+    "ship_name": "Izumo", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/66857-izumo-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0512%D1%85/"
+  }, 
+  {
+    "id_str": "PJSB506", 
+    "nation": "japan", 
+    "ship_id": "3764336336", 
+    "ship_name": "Mutsu", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/51704-mutsuki-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0542/"
+  }, 
+  {
+    "id_str": "PJSB507", 
+    "nation": "japan", 
+    "ship_id": "3763287760", 
+    "ship_name": "Ashitaka", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/100433-ashitaka-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-%D1%8F%D0%BF%D0%BE%D0%BD%D0%B8%D0%B8-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB508", 
+    "nation": "japan", 
+    "ship_id": "3762239184", 
+    "ship_name": "Kii", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/96481-kii-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-viii-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB509", 
+    "nation": "japan", 
+    "ship_id": "3761190608", 
+    "ship_name": "Musashi", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/103207-musashi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0701/"
+  }, 
+  {
+    "id_str": "PJSB801", 
+    "nation": "japan", 
+    "ship_id": "3455006416", 
+    "ship_name": "Kawachi", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/43687-kawachi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSB802", 
+    "nation": "japan", 
+    "ship_id": "3453957840", 
+    "ship_name": "Kawachi", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/43687-kawachi-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC005", 
+    "nation": "japan", 
+    "ship_id": "4289640144", 
+    "ship_name": "Furutaka", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/60301-ijn-%E2%80%9Cfurutaka%E2%80%9D-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064x/"
+  }, 
+  {
+    "id_str": "PJSC007", 
+    "nation": "japan", 
+    "ship_id": "4287542992", 
+    "ship_name": "Aoba", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/60752-ijn-aoba-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064x/"
+  }, 
+  {
+    "id_str": "PJSC008", 
+    "nation": "japan", 
+    "ship_id": "4286494416", 
+    "ship_name": "Myoko", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/78683-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%BC%D1%83-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%83-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-ijn-myoko-065/"
+  }, 
+  {
+    "id_str": "PJSC009", 
+    "nation": "japan", 
+    "ship_id": "4285445840", 
+    "ship_name": "Mogami", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21938-%D0%BC%D0%BE%D0%B3%D0%B0%D0%BC%D0%B8-mogami-%E2%80%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC012", 
+    "nation": "japan", 
+    "ship_id": "4282300112", 
+    "ship_name": "Ibuki", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/50107-ibuki-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%82%D0%BA%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-059%D1%85/"
+  }, 
+  {
+    "id_str": "PJSC013", 
+    "nation": "japan", 
+    "ship_id": "4281251536", 
+    "ship_name": "Kuma", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/22710-ijn-kuma-%E7%90%83%E7%A3%A8-%E2%80%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060%D1%85/"
+  }, 
+  {
+    "id_str": "PJSC015", 
+    "nation": "japan", 
+    "ship_id": "4279154384", 
+    "ship_name": "Tenryu", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21906-%D1%82%D0%B5%D0%BD%D1%80%D1%8E-tenryu-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC026", 
+    "nation": "japan", 
+    "ship_id": "4267620048", 
+    "ship_name": "Iwaki A", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/22216-iwaki-alpha-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0615%D1%85/"
+  }, 
+  {
+    "id_str": "PJSC034", 
+    "nation": "japan", 
+    "ship_id": "4259231440", 
+    "ship_name": "Zao", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/19646-zao-%E2%80%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC035", 
+    "nation": "japan", 
+    "ship_id": "4258182864", 
+    "ship_name": "Chikuma", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/21884-%D1%82%D0%B8%D0%BA%D1%83%D0%BC%D0%B0-chikuma-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC037", 
+    "nation": "japan", 
+    "ship_id": "4256085712", 
+    "ship_name": "Hashidate", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/29895-hashidate-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC038", 
+    "nation": "japan", 
+    "ship_id": "4255037136", 
+    "ship_name": "Atago", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/72679-ijn-atago%E6%84%9B%E5%AE%95-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F0630/"
+  }, 
+  {
+    "id_str": "PJSC503", 
+    "nation": "japan", 
+    "ship_id": "3767449296", 
+    "ship_name": "Katori", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/78652-ijn-katori-%E9%A6%99%E5%8F%96-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PJSC837", 
+    "nation": "japan", 
+    "ship_id": "3417224912", 
+    "ship_name": "Hashidate", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/29895-hashidate-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSC838", 
+    "nation": "japan", 
+    "ship_id": "3416176336", 
+    "ship_name": "Hashidate", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/29895-hashidate-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSD001", 
+    "nation": "japan", 
+    "ship_id": "4293801680", 
+    "ship_name": "Tachibana", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/49876-tachibana-ii-0516x/"
+  }, 
+  {
+    "id_str": "PJSD002", 
+    "nation": "japan", 
+    "ship_id": "4292753104", 
+    "ship_name": "Umikaze", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/27739-umikaze-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-041/"
+  }, 
+  {
+    "id_str": "PJSD003", 
+    "nation": "japan", 
+    "ship_id": "4291704528", 
+    "ship_name": "Isokaze", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/22311-isokaze-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iv-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSD004", 
+    "nation": "japan", 
+    "ship_id": "4290655952", 
+    "ship_name": "Minekaze", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/52354-minekaze-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSD012", 
+    "nation": "japan", 
+    "ship_id": "4282267344", 
+    "ship_name": "Shimakaze", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/54188-shimakaze-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-055x/"
+  }, 
+  {
+    "id_str": "PJSD024", 
+    "nation": "japan", 
+    "ship_id": "4269684432", 
+    "ship_name": "Wakatake", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/24571-wakatake-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-041/"
+  }, 
+  {
+    "id_str": "PJSD025", 
+    "nation": "japan", 
+    "ship_id": "4268635856", 
+    "ship_name": "Kamikaze", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83706-kamikazef%C5%ABijin-v-063/"
+  }, 
+  {
+    "id_str": "PJSD105", 
+    "nation": "japan", 
+    "ship_id": "4184749776", 
+    "ship_name": "Mutsuki", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/51704-mutsuki-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0542/"
+  }, 
+  {
+    "id_str": "PJSD106", 
+    "nation": "japan", 
+    "ship_id": "4183701200", 
+    "ship_name": "Fubuki", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/21945-fubuki-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSD107", 
+    "nation": "japan", 
+    "ship_id": "4182652624", 
+    "ship_name": "Akatsuki", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/72980-ijn-akatsuki-%E6%9A%81-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060%D1%85/"
+  }, 
+  {
+    "id_str": "PJSD108", 
+    "nation": "japan", 
+    "ship_id": "4181604048", 
+    "ship_name": "Akizuki", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/75524-ijn-akizuki%E7%A7%8B%E6%9C%88-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F0630/"
+  }, 
+  {
+    "id_str": "PJSD206", 
+    "nation": "japan", 
+    "ship_id": "4078843600", 
+    "ship_name": "Hatsuharu", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/51916-ijn-hatsuharu-%E5%88%9D%E6%98%A5-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-060%D1%85/"
+  }, 
+  {
+    "id_str": "PJSD207", 
+    "nation": "japan", 
+    "ship_id": "4077795024", 
+    "ship_name": "Shiratsuyu", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/72968-ijn-shiratsuyu-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-7-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSD706", 
+    "nation": "japan", 
+    "ship_id": "3554555600", 
+    "ship_name": "Shinonome", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/73712-shinonome-%E6%9D%B1%E9%9B%B2-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D0%B9%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B8%D0%B7-060/"
+  }, 
+  {
+    "id_str": "PJSD708", 
+    "nation": "japan", 
+    "ship_id": "3552458448", 
+    "ship_name": "HSF Harekaze", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/98583-hsf-harekaze-%E2%80%94-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PJSD803", 
+    "nation": "japan", 
+    "ship_id": "3452843728", 
+    "ship_name": "Isokaze", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/22311-isokaze-%D1%8F%D0%BF%D0%BE%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iv-%D0%B3%D0%BE-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSB001", 
+    "nation": "ussr", 
+    "ship_id": "4293866960", 
+    "ship_name": "\u041d\u0438\u043a\u043e\u043b\u0430\u0439 I", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Battleship", 
+    "url": "https://forum.worldofwarships.ru/topic/76602-%D0%B8%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80-%D0%BD%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9-i-iv0516x/"
+  }, 
+  {
+    "id_str": "PRSC001", 
+    "nation": "ussr", 
+    "ship_id": "4293834192", 
+    "ship_name": "\u0410\u0432\u0440\u043e\u0440\u0430", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/70609-%D0%B0%D0%B2%D1%80%D0%BE%D1%80%D0%B0-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PRSC002", 
+    "nation": "ussr", 
+    "ship_id": "4292785616", 
+    "ship_name": "\u0414\u0438\u0430\u043d\u0430", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/78492-%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PRSC003", 
+    "nation": "ussr", 
+    "ship_id": "4291737040", 
+    "ship_name": "\u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/25159-%D0%BC%D1%83%D1%80%D0%BC%D0%B0%D0%BD%D1%81%D0%BA-%D0%BB%D0%B5%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%81%D1%81%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-l-040/"
+  }, 
+  {
+    "id_str": "PRSC101", 
+    "nation": "ussr", 
+    "ship_id": "4188976592", 
+    "ship_name": "\u041e\u0440\u043b\u0430\u043d", 
+    "tier": 1, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/32943-%D0%BE%D1%80%D0%BB%D0%B0%D0%BD-%E2%80%94-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-i-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSC102", 
+    "nation": "ussr", 
+    "ship_id": "4187928016", 
+    "ship_name": "\u041d\u043e\u0432\u0438\u043a", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/73986-%D0%BD%D0%BE%D0%B2%D0%B8%D0%BA-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PRSC103", 
+    "nation": "ussr", 
+    "ship_id": "4186879440", 
+    "ship_name": "\u0411\u043e\u0433\u0430\u0442\u044b\u0440\u044c", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/72431-%D0%B1%D0%BE%D0%B3%D0%B0%D1%82%D1%8B%D1%80%D1%8C-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PRSC104", 
+    "nation": "ussr", 
+    "ship_id": "4185830864", 
+    "ship_name": "\u0421\u0432\u0435\u0442\u043b\u0430\u043d\u0430", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/49263-%D1%81%D0%B2%D0%B5%D1%82%D0%BB%D0%B0%D0%BD%D0%B0-%E2%80%94-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSC105", 
+    "nation": "ussr", 
+    "ship_id": "4184782288", 
+    "ship_name": "\u041a\u0438\u0440\u043e\u0432", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/49687-%D0%BA%D0%B8%D1%80%D0%BE%D0%B2-%D0%BB%D1%91%D0%B3%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PRSC106", 
+    "nation": "ussr", 
+    "ship_id": "4183733712", 
+    "ship_name": "\u0411\u0443\u0434\u0451\u043d\u043d\u044b\u0439", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/49380-%D0%B1%D1%83%D0%B4%D1%91%D0%BD%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-055x/"
+  }, 
+  {
+    "id_str": "PRSC107", 
+    "nation": "ussr", 
+    "ship_id": "4182685136", 
+    "ship_name": "\u0429\u043e\u0440\u0441", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/49533-%D1%89%D0%BE%D1%80%D1%81-%D0%BF%D0%BE%D0%B1%D1%8C%D0%B5%D1%80%D0%B8-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-055x/"
+  }, 
+  {
+    "id_str": "PRSC108", 
+    "nation": "ussr", 
+    "ship_id": "4181636560", 
+    "ship_name": "\u0427\u0430\u043f\u0430\u0435\u0432", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/84559-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%BC%D1%83-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%83-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%87%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2-065/"
+  }, 
+  {
+    "id_str": "PRSC110", 
+    "nation": "ussr", 
+    "ship_id": "4179539408", 
+    "ship_name": "\u041c\u043e\u0441\u043a\u0432\u0430", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/62244-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
+    "id_str": "PRSC503", 
+    "nation": "ussr", 
+    "ship_id": "3767449040", 
+    "ship_name": "\u041e\u043b\u0435\u0433", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/80924-%D0%BE%D0%BB%D0%B5%D0%B3-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PRSC505", 
+    "nation": "ussr", 
+    "ship_id": "3765351888", 
+    "ship_name": "\u041a\u0440\u0430\u0441\u043d\u044b\u0439 \u041a\u0440\u044b\u043c", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/66725-%D0%BA%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D1%8B%D0%BC-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PRSC506", 
+    "nation": "ussr", 
+    "ship_id": "3764303312", 
+    "ship_name": "\u041c\u043e\u043b\u043e\u0442\u043e\u0432", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/53843-%D0%BC%D0%BE%D0%BB%D0%BE%D1%82%D0%BE%D0%B2-vi-0516x/"
+  }, 
+  {
+    "id_str": "PRSC508", 
+    "nation": "ussr", 
+    "ship_id": "3762206160", 
+    "ship_name": "\u041a\u0443\u0442\u0443\u0437\u043e\u0432", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/41337-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D0%BC%D0%B8%D1%85%D0%B0%D0%B8%D0%BB-%D0%BA%D1%83%D1%82%D1%83%D0%B7%D0%BE%D0%B2-v06x/"
+  }, 
+  {
+    "id_str": "PRSC606", 
+    "nation": "ussr", 
+    "ship_id": "3659445712", 
+    "ship_name": "\u041c\u0430\u043a\u0430\u0440\u043e\u0432", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/98580-%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB-%D0%BC%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2-%E2%80%94-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSD001", 
+    "nation": "ussr", 
+    "ship_id": "4293801424", 
+    "ship_name": "\u0413\u0440\u0435\u043c\u044f\u0449\u0438\u0439", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83968-%D0%B3%D1%80%D0%B5%D0%BC%D1%8F%D1%89%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-063/"
+  }, 
+  {
+    "id_str": "PRSD102", 
+    "nation": "ussr", 
+    "ship_id": "4187895248", 
+    "ship_name": "\u0421\u0442\u043e\u0440\u043e\u0436\u0435\u0432\u043e\u0439", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/32944-%D1%81%D1%82%D0%BE%D1%80%D0%BE%D0%B6%D0%B5%D0%B2%D0%BE%D0%B9-%E2%80%94-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSD103", 
+    "nation": "ussr", 
+    "ship_id": "4186846672", 
+    "ship_name": "\u0414\u0435\u0440\u0437\u043a\u0438\u0439", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83102-%D0%B4%D0%B5%D1%80%D0%B7%D0%BA%D0%B8%D0%B9-iil-0622/"
+  }, 
+  {
+    "id_str": "PRSD104", 
+    "nation": "ussr", 
+    "ship_id": "4185798096", 
+    "ship_name": "\u0418\u0437\u044f\u0441\u043b\u0430\u0432", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83806-%D0%B8%D0%B7%D1%8F%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-067x/"
+  }, 
+  {
+    "id_str": "PRSD107", 
+    "nation": "ussr", 
+    "ship_id": "4182652368", 
+    "ship_name": "\u0423\u0434\u0430\u043b\u043e\u0439", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83306-%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0612/"
+  }, 
+  {
+    "id_str": "PRSD110", 
+    "nation": "ussr", 
+    "ship_id": "4179506640", 
+    "ship_name": "\u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/84080-%D1%85%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-068/"
+  }, 
+  {
+    "id_str": "PRSD205", 
+    "nation": "ussr", 
+    "ship_id": "4079891920", 
+    "ship_name": "\u041f\u043e\u0434\u0432\u043e\u0439\u0441\u043a\u0438\u0439", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83445-%D0%BF%D0%BE%D0%B4%D0%B2%D0%BE%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0613/"
+  }, 
+  {
+    "id_str": "PRSD206", 
+    "nation": "ussr", 
+    "ship_id": "4078843344", 
+    "ship_name": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/84248-%D0%B3%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-070/"
+  }, 
+  {
+    "id_str": "PRSD207", 
+    "nation": "ussr", 
+    "ship_id": "4077794768", 
+    "ship_name": "\u041c\u0438\u043d\u0441\u043a", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83570-%D0%BC%D0%B8%D0%BD%D1%81%D0%BA-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064/"
+  }, 
+  {
+    "id_str": "PRSD208", 
+    "nation": "ussr", 
+    "ship_id": "4076746192", 
+    "ship_name": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/82047-%D0%BE%D0%B3%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0-0614%D1%85/"
+  }, 
+  {
+    "id_str": "PRSD210", 
+    "nation": "ussr", 
+    "ship_id": "4074649040", 
+    "ship_name": "\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/81697-%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
+    "id_str": "PRSD308", 
+    "nation": "ussr", 
+    "ship_id": "3971888592", 
+    "ship_name": "\u041a\u0438\u0435\u0432", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83067-%D0%BA%D0%B8%D0%B5%D0%B2-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-066/"
+  }, 
+  {
+    "id_str": "PRSD409", 
+    "nation": "ussr", 
+    "ship_id": "3865982416", 
+    "ship_name": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83839-%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-068/"
+  }, 
+  {
+    "id_str": "PRSD505", 
+    "nation": "ussr", 
+    "ship_id": "3765319120", 
+    "ship_name": "\u041e\u0445\u043e\u0442\u043d\u0438\u043a", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83547-%D0%BE%D1%85%D0%BE%D1%82%D0%BD%D0%B8%D0%BA-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-063%D1%85/"
+  }, 
+  {
+    "id_str": "PRSD507", 
+    "nation": "ussr", 
+    "ship_id": "3763221968", 
+    "ship_name": "\u041b\u0435\u043d\u0438\u043d\u0433\u0440\u0430\u0434", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/68772-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PUSC506", 
+    "nation": "commonwealth", 
+    "ship_id": "3764303216", 
+    "ship_name": "Perth", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/71655-perth-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-c%D0%BE%D0%B4%D1%80%D1%83%D0%B6%D0%B5%D1%81%D1%82%D0%B2%D0%B0-%D0%BD%D0%B0%D1%86%D0%B8%D0%B9-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
+  }, 
+  {
+    "id_str": "PUSD503", 
+    "nation": "commonwealth", 
+    "ship_id": "3767416176", 
+    "ship_name": "Vampire", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100777-vampire-%E2%80%94-%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSC506", 
+    "nation": "pan_asia", 
+    "ship_id": "3764303056", 
+    "ship_name": "Huanghe", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/100511-huanghe%C2%A0-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi%C2%A0%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
+    "id_str": "PZSD102", 
+    "nation": "pan_asia", 
+    "ship_id": "4187894992", 
+    "ship_name": "Longjiang", 
+    "tier": 2, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100154-longjiang-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD103", 
+    "nation": "pan_asia", 
+    "ship_id": "4186846416", 
+    "ship_name": "Phra Ruang", 
+    "tier": 3, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100155-phra-ruang-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD104", 
+    "nation": "pan_asia", 
+    "ship_id": "4185797840", 
+    "ship_name": "Shenyang", 
+    "tier": 4, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100156-shenyang-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD105", 
+    "nation": "pan_asia", 
+    "ship_id": "4184749264", 
+    "ship_name": "Jianwei", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100157-jianwei-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD106", 
+    "nation": "pan_asia", 
+    "ship_id": "4183700688", 
+    "ship_name": "Fushun", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100158-fushun-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD107", 
+    "nation": "pan_asia", 
+    "ship_id": "4182652112", 
+    "ship_name": "Gadjah Mada", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100159-gadjah-mada-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD108", 
+    "nation": "pan_asia", 
+    "ship_id": "4181603536", 
+    "ship_name": "Hsienyang", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100160-hsienyang-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD109", 
+    "nation": "pan_asia", 
+    "ship_id": "4180554960", 
+    "ship_name": "Chung Mu", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100161-chung-mu-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD110", 
+    "nation": "pan_asia", 
+    "ship_id": "4179506384", 
+    "ship_name": "Yueyang", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/100162-yueyang-%E2%80%94-%D0%BF%D0%B0%D0%BD%D0%B0%D0%B7%D0%B8%D0%B0%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PZSD506", 
+    "nation": "pan_asia", 
+    "ship_id": "3764270288", 
+    "ship_name": "Anshan", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/44453-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-anshan-%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8/"
+  }
+]
