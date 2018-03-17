@@ -24,4 +24,4 @@ with open('..\\HelpMe\\ru\\links.json') as f:
     for link in links:
         r = requests.get(link["url"])
         if r.status_code != 200:
-            print r.status_code, link["ship_id"], link["url"]
+            print r.status_code, link["ship_id"], urllib.unquote(link['url'].encode('utf8'))

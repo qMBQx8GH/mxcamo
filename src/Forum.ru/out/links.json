@@ -1340,6 +1340,16 @@
     "url": "https://forum.worldofwarships.ru/topic/66031-prinz-eugen-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
   }, 
   {
+    "id_str": "PGSC706", 
+    "nation": "germany", 
+    "ship_id": "3554588464", 
+    "ship_name": "HSF Graf Spee", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/76443-admiral-graf-spee-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/"
+  }, 
+  {
     "id_str": "PGSC910", 
     "nation": "germany", 
     "ship_id": "3340678960", 
@@ -2430,6 +2440,16 @@
     "url": "https://forum.worldofwarships.ru/topic/84559-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BB%D0%B5%D0%B3%D0%BA%D0%BE%D0%BC%D1%83-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%83-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%87%D0%B0%D0%BF%D0%B0%D0%B5%D0%B2-065/"
   }, 
   {
+    "id_str": "PRSC109", 
+    "nation": "ussr", 
+    "ship_id": "4180587984", 
+    "ship_name": "\u0414\u043c. \u0414\u043e\u043d\u0441\u043a\u043e\u0439", 
+    "tier": 9, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/66766-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
     "id_str": "PRSC110", 
     "nation": "ussr", 
     "ship_id": "4179539408", 
@@ -2490,6 +2510,16 @@
     "url": "https://forum.worldofwarships.ru/topic/98580-%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB-%D0%BC%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2-%E2%80%94-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
   }, 
   {
+    "id_str": "PRSC910", 
+    "nation": "ussr", 
+    "ship_id": "3340678608", 
+    "ship_name": "[\u041c\u043e\u0441\u043a\u0432\u0430]", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Cruiser", 
+    "url": "https://forum.worldofwarships.ru/topic/62244-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/"
+  }, 
+  {
     "id_str": "PRSD001", 
     "nation": "ussr", 
     "ship_id": "4293801424", 
@@ -2530,6 +2560,26 @@
     "url": "https://forum.worldofwarships.ru/topic/83806-%D0%B8%D0%B7%D1%8F%D1%81%D0%BB%D0%B0%D0%B2-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iv-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-067x/"
   }, 
   {
+    "id_str": "PRSD105", 
+    "nation": "ussr", 
+    "ship_id": "4184749520", 
+    "ship_name": "\u0413\u043d\u0435\u0432\u043d\u044b\u0439 (OLD)", 
+    "tier": 5, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/84248-%D0%B3%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-070/"
+  }, 
+  {
+    "id_str": "PRSD106", 
+    "nation": "ussr", 
+    "ship_id": "4183700944", 
+    "ship_name": "\u041e\u0433\u043d\u0435\u0432\u043e\u0439 (OLD)", 
+    "tier": 6, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/82047-%D0%BE%D0%B3%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0-0614%D1%85/"
+  }, 
+  {
     "id_str": "PRSD107", 
     "nation": "ussr", 
     "ship_id": "4182652368", 
@@ -2538,6 +2588,26 @@
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
     "url": "https://forum.worldofwarships.ru/topic/83306-%D1%83%D0%B4%D0%B0%D0%BB%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-0612/"
+  }, 
+  {
+    "id_str": "PRSD108", 
+    "nation": "ussr", 
+    "ship_id": "4181603792", 
+    "ship_name": "\u0422\u0430\u0448\u043a\u0435\u043d\u0442 (OLD)", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83839-%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-068/"
+  }, 
+  {
+    "id_str": "PRSD109", 
+    "nation": "ussr", 
+    "ship_id": "4180555216", 
+    "ship_name": "\u041a\u0438\u0435\u0432 (OLD)", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/83067-%D0%BA%D0%B8%D0%B5%D0%B2-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-066/"
   }, 
   {
     "id_str": "PRSD110", 
@@ -2640,6 +2710,16 @@
     "url": "https://forum.worldofwarships.ru/topic/68772-%D0%BB%D0%B5%D0%BD%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/"
   }, 
   {
+    "id_str": "PRSD910", 
+    "nation": "ussr", 
+    "ship_id": "3340645840", 
+    "ship_name": "[\u0413\u0440\u043e\u0437\u043e\u0432\u043e\u0439]", 
+    "tier": 10, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/81697-%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/"
+  }, 
+  {
     "id_str": "PUSC506", 
     "nation": "commonwealth", 
     "ship_id": "3764303216", 
@@ -2658,6 +2738,16 @@
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
     "url": "https://forum.worldofwarships.ru/topic/100777-vampire-%E2%80%94-%D0%B0%D0%B2%D1%81%D1%82%D1%80%D0%B0%D0%BB%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%BD%D1%8B%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-iii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F/"
+  }, 
+  {
+    "id_str": "PWSD501", 
+    "nation": "poland", 
+    "ship_id": "3769513264", 
+    "ship_name": "B\u0142yskawica", 
+    "tier": 7, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/73717-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D0%BE%D0%BC%D1%83-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D1%86%D1%83-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-blyskawica-065/"
   }, 
   {
     "id_str": "PZSC506", 
@@ -2768,5 +2858,15 @@
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "type": "Destroyer", 
     "url": "https://forum.worldofwarships.ru/topic/44453-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-anshan-%D0%B4%D0%BE%D1%81%D1%82%D0%BE%D1%8F%D0%BD%D0%B8%D0%B5-%D1%80%D0%B5%D1%81%D0%BF%D1%83%D0%B1%D0%BB%D0%B8%D0%BA%D0%B8/"
+  }, 
+  {
+    "id_str": "PZSD508", 
+    "nation": "pan_asia", 
+    "ship_id": "3762173136", 
+    "ship_name": "Loyang", 
+    "tier": 8, 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "type": "Destroyer", 
+    "url": "https://forum.worldofwarships.ru/topic/66511-lo-yang-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D0%BF%D0%B0%D0%BD-%D0%B0%D0%B7%D0%B8%D0%B8-8-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%88%D1%85%D1%83%D0%BD%D0%B0-%D0%BD%D1%83%D0%B2%D0%BE%D1%80%D0%B8%D1%88%D0%B0-061/"
   }
 ]

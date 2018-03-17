@@ -138,6 +138,8 @@ ships_add['4182685488'] = 'https://forum.worldofwarships.ru/topic/34019-%D0%B9%D
 ships_add['4181636912'] = 'https://forum.worldofwarships.ru/topic/33808-%D0%B0%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB-%D1%85%D0%B8%D0%BF%D0%BF%D0%B5%D1%80-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/'
 # PGSC506	germany	Cruiser	6	3764303664	Graf Spee
 ships_add['3764303664'] = 'https://forum.worldofwarships.ru/topic/76443-admiral-graf-spee-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/'
+# PGSC706	germany	Cruiser	6	3554588464	HSF Graf Spee
+ships_add['3554588464'] = 'https://forum.worldofwarships.ru/topic/76443-admiral-graf-spee-%D0%BD%D0%B5%D0%BC%D0%B5%D1%86%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072%D1%85/'
 # PGSC910	germany	Cruiser	10	3340678960	[Hindenburg]
 ships_add['3340678960'] = 'https://forum.worldofwarships.ru/topic/35906-hindenburg-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/'
 # PISC506	italy	Cruiser	6	3764303600	Duca d'Aosta
@@ -202,13 +204,24 @@ ships_add['3338548944'] = 'https://forum.worldofwarships.ru/topic/54188-shimakaz
 ships_add['3765384656'] = 'https://forum.worldofwarships.ru/topic/91769-%D0%BE%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F-%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BB%D0%B8%D0%BD%D0%BA%D0%BE%D1%80-v-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/'
 # PRSC010	ussr	Cruiser	2	4284397008	Диана L
 ships_add['4284397008'] = 'https://forum.worldofwarships.ru/topic/78492-%D0%B4%D0%B8%D0%B0%D0%BD%D0%B0-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%80%D0%B8%D1%84-ii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-072x/'
-ships_add['3751687888'] = ''
-ships_add['3751687888'] = ''
-ships_add['3751687888'] = ''
-ships_add['3751687888'] = ''
-ships_add['3751687888'] = ''
-ships_add['3751687888'] = ''
-ships_add['3751687888'] = ''
+# PRSC109	ussr	Cruiser	9	4180587984	Дм. Донской
+ships_add['4180587984'] = 'https://forum.worldofwarships.ru/topic/66766-%D0%B4%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9-%D0%B4%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/'
+# PRSC910	ussr	Cruiser	10	3340678608	[Москва]
+ships_add['3340678608'] = 'https://forum.worldofwarships.ru/topic/62244-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/'
+# PRSD105	ussr	Destroyer	5	4184749520	Гневный (OLD)
+ships_add['4184749520'] = 'https://forum.worldofwarships.ru/topic/84248-%D0%B3%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-070/'
+# PRSD106	ussr	Destroyer	6	4183700944	Огневой (OLD)
+ships_add['4183700944'] = 'https://forum.worldofwarships.ru/topic/82047-%D0%BE%D0%B3%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%85%D0%BE%D1%80%D0%BE%D1%88%D0%B0%D1%8F-%D1%88%D0%BB%D1%8E%D0%BF%D0%BA%D0%B0-0614%D1%85/'
+# PRSD108	ussr	Destroyer	8	4181603792	Ташкент (OLD)
+ships_add['4181603792'] = 'https://forum.worldofwarships.ru/topic/83839-%D1%82%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-068/'
+# PRSD109	ussr	Destroyer	7	4180555216	Киев (OLD)
+ships_add['4180555216'] = 'https://forum.worldofwarships.ru/topic/83067-%D0%BA%D0%B8%D0%B5%D0%B2-%E2%80%93-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-066/'
+# PRSD910	ussr	Destroyer	10	3340645840	[Грозовой]
+ships_add['3340645840'] = 'https://forum.worldofwarships.ru/topic/81697-%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9-%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D1%81%D0%BA%D0%B8%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F%D1%81%D1%82%D0%B0%D1%80%D1%82%D0%BE%D0%B2%D0%B0%D1%8F/'
+# PWSD501	poland	Destroyer	7	3769513264	Błyskawica
+ships_add['3769513264'] = 'https://forum.worldofwarships.ru/topic/73717-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D0%BE%D0%BC%D1%83-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D1%86%D1%83-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-blyskawica-065/'
+# PZSD508	pan_asia	Destroyer	8	3762173136	Loyang
+ships_add['3762173136'] = 'https://forum.worldofwarships.ru/topic/66511-lo-yang-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D0%BF%D0%B0%D0%BD-%D0%B0%D0%B7%D0%B8%D0%B8-8-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%88%D1%85%D1%83%D0%BD%D0%B0-%D0%BD%D1%83%D0%B2%D0%BE%D1%80%D0%B8%D1%88%D0%B0-061/'
 
 
 for ship_id in ships_add:
