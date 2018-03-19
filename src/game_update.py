@@ -3,28 +3,42 @@ import subprocess
 
 python = 'C:\\Python27\\python.exe'
 
-subprocess.run(
+res = subprocess.run(
     [python, 'parser.py'],
     shell=True,
     cwd='Wiki.ru'
 )
-subprocess.run(
+if res.returncode != 0:
+    exit(1)
+
+res = subprocess.run(
     [python, 'makehtml.py'],
     shell=True,
     cwd='Wiki.ru'
 )
-subprocess.run(
+if res.returncode != 0:
+    exit(1)
+
+res = subprocess.run(
     [python, 'parser.py'],
     shell=True,
     cwd='Forum.ru'
 )
-subprocess.run(
+if res.returncode != 0:
+    exit(1)
+
+res = subprocess.run(
     [python, 'makehtml.py'],
     shell=True,
     cwd='Forum.ru'
 )
-subprocess.run(
+if res.returncode != 0:
+    exit(1)
+
+res = subprocess.run(
     [python, 'make_links.py'],
     shell=True,
     cwd='.'
 )
+if res.returncode != 0:
+    exit(1)

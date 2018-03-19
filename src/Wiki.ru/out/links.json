@@ -90,16 +90,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Enterprise"
   }, 
   {
-    "id_str": "PASA905", 
-    "nation": "usa", 
-    "ship_id": "3345987568", 
-    "ship_name": "IDS_PASA905", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PASA905"
-  }, 
-  {
     "id_str": "PASA906", 
     "nation": "usa", 
     "ship_id": "3344938992", 
@@ -117,7 +107,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BMidway%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Midway"
   }, 
   {
     "id_str": "PASB001", 
@@ -127,7 +117,7 @@
     "tier": 3, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:S.%20Carolina"
+    "url": "http://wiki.wargaming.net/ru/Ship:South_Carolina"
   }, 
   {
     "id_str": "PASB004", 
@@ -167,7 +157,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:N.%20Carolina"
+    "url": "http://wiki.wargaming.net/ru/Ship:North_Carolina"
   }, 
   {
     "id_str": "PASB013", 
@@ -177,7 +167,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Arkansas%20B"
+    "url": "http://wiki.wargaming.net/ru/Ship:Arkansas_Beta"
   }, 
   {
     "id_str": "PASB017", 
@@ -280,16 +270,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:South%20Carolina"
   }, 
   {
-    "id_str": "PASB802", 
-    "nation": "usa", 
-    "ship_id": "3453958128", 
-    "ship_name": "Michigan", 
-    "tier": 3, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Michigan"
-  }, 
-  {
     "id_str": "PASB917", 
     "nation": "usa", 
     "ship_id": "3333371888", 
@@ -297,7 +277,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BMontana%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Montana"
   }, 
   {
     "id_str": "PASC001", 
@@ -457,7 +437,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Marblehead%20L"
+    "url": "http://wiki.wargaming.net/ru/Ship:Marblehead_Lima"
   }, 
   {
     "id_str": "PASC507", 
@@ -490,26 +470,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Salem"
   }, 
   {
-    "id_str": "PASC802", 
-    "nation": "usa", 
-    "ship_id": "3453925360", 
-    "ship_name": "Cimarron", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cimarron"
-  }, 
-  {
-    "id_str": "PASC803", 
-    "nation": "usa", 
-    "ship_id": "3452876784", 
-    "ship_name": "Cimarron", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cimarron"
-  }, 
-  {
     "id_str": "PASC804", 
     "nation": "usa", 
     "ship_id": "3451828208", 
@@ -528,16 +488,6 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/ru/Ship:Erie"
-  }, 
-  {
-    "id_str": "PASC907", 
-    "nation": "usa", 
-    "ship_id": "3343824880", 
-    "ship_name": "IDS_PASC907", 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PASC907"
   }, 
   {
     "id_str": "PASD002", 
@@ -697,67 +647,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BGearing%5D"
-  }, 
-  {
-    "id_str": "PASX001", 
-    "nation": "usa", 
-    "ship_id": "4293146608", 
-    "ship_name": "Cimarron", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cimarron"
-  }, 
-  {
-    "id_str": "PASX003", 
-    "nation": "usa", 
-    "ship_id": "4291049456", 
-    "ship_name": "Liberty", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Liberty"
-  }, 
-  {
-    "id_str": "PASX005", 
-    "nation": "usa", 
-    "ship_id": "4288952304", 
-    "ship_name": "St. Clair", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:St.%20Clair"
-  }, 
-  {
-    "id_str": "PASX006", 
-    "nation": "usa", 
-    "ship_id": "4287903728", 
-    "ship_name": "Cimarron", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cimarron"
-  }, 
-  {
-    "id_str": "PASX815", 
-    "nation": "usa", 
-    "ship_id": "3439605744", 
-    "ship_name": "Bogue", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Bogue"
-  }, 
-  {
-    "id_str": "PASX904", 
-    "nation": "usa", 
-    "ship_id": "3346282480", 
-    "ship_name": "Cimarron Test", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cimarron%20Test"
+    "url": "http://wiki.wargaming.net/ru/Ship:Gearing"
   }, 
   {
     "id_str": "PBSB002", 
@@ -850,16 +740,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Conqueror"
   }, 
   {
-    "id_str": "PBSB207", 
-    "nation": "uk", 
-    "ship_id": "4077860816", 
-    "ship_name": "IDS_PBSB207", 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PBSB207"
-  }, 
-  {
     "id_str": "PBSB507", 
     "nation": "uk", 
     "ship_id": "3763288016", 
@@ -897,7 +777,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BConqueror%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Conqueror"
   }, 
   {
     "id_str": "PBSC101", 
@@ -1040,16 +920,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Cossack"
   }, 
   {
-    "id_str": "PBSD605", 
-    "nation": "uk", 
-    "ship_id": "3660462032", 
-    "ship_name": "Anthony", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Anthony"
-  }, 
-  {
     "id_str": "PFSB103", 
     "nation": "france", 
     "ship_id": "4186912592", 
@@ -1167,7 +1037,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Jurien"
+    "url": "http://wiki.wargaming.net/ru/Ship:Jurien_de_la_Gravi%C3%A8re"
   }, 
   {
     "id_str": "PFSC103", 
@@ -1290,26 +1160,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Graf%20Zeppelin"
   }, 
   {
-    "id_str": "PGSA509", 
-    "nation": "germany", 
-    "ship_id": "3761223472", 
-    "ship_name": "IDS_PGSA509", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PGSA509"
-  }, 
-  {
-    "id_str": "PGSA510", 
-    "nation": "germany", 
-    "ship_id": "3760174896", 
-    "ship_name": "IDS_PGSA510", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PGSA510"
-  }, 
-  {
     "id_str": "PGSB002", 
     "nation": "germany", 
     "ship_id": "4292818736", 
@@ -1387,7 +1237,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:F.%20der%20Gro%C3%9Fe"
+    "url": "http://wiki.wargaming.net/ru/Ship:Friedrich_der_Gro%C3%9Fe"
   }, 
   {
     "id_str": "PGSB110", 
@@ -1397,7 +1247,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:G.%20Kurf%C3%BCrst"
+    "url": "http://wiki.wargaming.net/ru/Ship:Gro%C3%9Fer_Kurf%C3%BCrst"
   }, 
   {
     "id_str": "PGSB503", 
@@ -1407,7 +1257,7 @@
     "tier": 3, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:K.%20Albert"
+    "url": "http://wiki.wargaming.net/ru/Ship:K%C3%B6nig_Albert"
   }, 
   {
     "id_str": "PGSB507", 
@@ -1427,7 +1277,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BG.%20Kurf%C3%BCrst%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Gro%C3%9Fer_Kurf%C3%BCrst"
   }, 
   {
     "id_str": "PGSC001", 
@@ -1507,7 +1357,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Hipper"
+    "url": "http://wiki.wargaming.net/ru/Ship:Admiral_Hipper"
   }, 
   {
     "id_str": "PGSC109", 
@@ -1547,7 +1397,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Graf%20Spee"
+    "url": "http://wiki.wargaming.net/ru/Ship:Admiral_Graf_Spee"
   }, 
   {
     "id_str": "PGSC508", 
@@ -1567,7 +1417,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:HSF%20Graf%20Spee"
+    "url": "http://wiki.wargaming.net/ru/Ship:Admiral_Graf_Spee"
   }, 
   {
     "id_str": "PGSC910", 
@@ -1577,7 +1427,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BHindenburg%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Hindenburg"
   }, 
   {
     "id_str": "PGSD102", 
@@ -1627,7 +1477,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Gaede"
+    "url": "http://wiki.wargaming.net/ru/Ship:Ernst_Gaede"
   }, 
   {
     "id_str": "PGSD107", 
@@ -1637,7 +1487,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Maass"
+    "url": "http://wiki.wargaming.net/ru/Ship:Leberecht_Maass"
   }, 
   {
     "id_str": "PGSD108", 
@@ -1727,7 +1577,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Abruzzi"
+    "url": "http://wiki.wargaming.net/ru/Ship:Duca_degli_Abruzzi"
   }, 
   {
     "id_str": "PJSA002", 
@@ -1817,7 +1667,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BHakuryu%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Hakuryu"
   }, 
   {
     "id_str": "PJSB001", 
@@ -2037,7 +1887,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BYamato%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:Yamato"
   }, 
   {
     "id_str": "PJSC004", 
@@ -2130,16 +1980,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Tenryu"
   }, 
   {
-    "id_str": "PJSC018", 
-    "nation": "japan", 
-    "ship_id": "4276008656", 
-    "ship_name": "Tone", 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Tone"
-  }, 
-  {
     "id_str": "PJSC026", 
     "nation": "japan", 
     "ship_id": "4267620048", 
@@ -2147,7 +1987,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Iwaki%20A"
+    "url": "http://wiki.wargaming.net/ru/Ship:Iwaki_Alpha"
   }, 
   {
     "id_str": "PJSC034", 
@@ -2247,7 +2087,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:S.%20Dragon"
+    "url": "http://wiki.wargaming.net/ru/Ship:Southern_Dragon"
   }, 
   {
     "id_str": "PJSC727", 
@@ -2257,7 +2097,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:E.%20Dragon"
+    "url": "http://wiki.wargaming.net/ru/Ship:Eastern_Dragon"
   }, 
   {
     "id_str": "PJSC737", 
@@ -2307,17 +2147,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BZao%5D"
-  }, 
-  {
-    "id_str": "PJSC999", 
-    "nation": "japan", 
-    "ship_id": "3247355600", 
-    "ship_name": "IDS_PJSC999", 
-    "tier": 10, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PJSC999"
+    "url": "http://wiki.wargaming.net/ru/Ship:Zao"
   }, 
   {
     "id_str": "PJSD001", 
@@ -2367,7 +2197,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Mutsuki%20%28old%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:Mutsuki"
   }, 
   {
     "id_str": "PJSD006", 
@@ -2377,7 +2207,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Hatsuharu%20%28old%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:Hatsuharu"
   }, 
   {
     "id_str": "PJSD007", 
@@ -2387,7 +2217,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Fubuki%20%28old%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:Fubuki"
   }, 
   {
     "id_str": "PJSD010", 
@@ -2397,7 +2227,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Kagero%20%28old%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:Kagero"
   }, 
   {
     "id_str": "PJSD012", 
@@ -2417,7 +2247,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Tachibana%20L"
+    "url": "http://wiki.wargaming.net/ru/Ship:Tachibana_Lima"
   }, 
   {
     "id_str": "PJSD017", 
@@ -2540,26 +2370,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Y%C5%ABgumo"
   }, 
   {
-    "id_str": "PJSD503", 
-    "nation": "japan", 
-    "ship_id": "3767416528", 
-    "ship_name": "Disabled: Isokaze", 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Disabled%3A%20Isokaze"
-  }, 
-  {
-    "id_str": "PJSD504", 
-    "nation": "japan", 
-    "ship_id": "3766367952", 
-    "ship_name": "Disabled: Minekaze", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Disabled%3A%20Minekaze"
-  }, 
-  {
     "id_str": "PJSD518", 
     "nation": "japan", 
     "ship_id": "3751687888", 
@@ -2607,27 +2417,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5BShimakaze%5D"
-  }, 
-  {
-    "id_str": "PJSX701", 
-    "nation": "japan", 
-    "ship_id": "3559143120", 
-    "ship_name": "ARP I-401", 
-    "tier": 11, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20I-401"
-  }, 
-  {
-    "id_str": "PJSX702", 
-    "nation": "japan", 
-    "ship_id": "3558094544", 
-    "ship_name": "ARP I-401", 
-    "tier": 11, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:ARP%20I-401"
+    "url": "http://wiki.wargaming.net/ru/Ship:Shimakaze"
   }, 
   {
     "id_str": "PRSB001", 
@@ -2637,7 +2427,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9%20I"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_I"
   }, 
   {
     "id_str": "PRSB505", 
@@ -2647,7 +2437,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9E%D0%BA%D1%82.%C2%A0%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9E%D0%BA%D1%82%D1%8F%D0%B1%D1%80%D1%8C%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D0%B5%D0%B2%D0%BE%D0%BB%D1%8E%D1%86%D0%B8%D1%8F"
   }, 
   {
     "id_str": "PRSC001", 
@@ -2687,7 +2477,7 @@
     "tier": 2, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%B8%D0%B0%D0%BD%D0%B0%20L"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%B8%D0%B0%D0%BD%D0%B0_Lima"
   }, 
   {
     "id_str": "PRSC101", 
@@ -2777,7 +2567,7 @@
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%BC.%20%D0%94%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%94%D0%BC%D0%B8%D1%82%D1%80%D0%B8%D0%B9_%D0%94%D0%BE%D0%BD%D1%81%D0%BA%D0%BE%D0%B9"
   }, 
   {
     "id_str": "PRSC110", 
@@ -2827,7 +2617,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D1%83%D1%82%D1%83%D0%B7%D0%BE%D0%B2"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9C%D0%B8%D1%85%D0%B0%D0%B8%D0%BB_%D0%9A%D1%83%D1%82%D1%83%D0%B7%D0%BE%D0%B2"
   }, 
   {
     "id_str": "PRSC509", 
@@ -2857,7 +2647,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%90%D0%B4%D0%BC%D0%B8%D1%80%D0%B0%D0%BB_%D0%9C%D0%B0%D0%BA%D0%B0%D1%80%D0%BE%D0%B2"
   }, 
   {
     "id_str": "PRSC910", 
@@ -2867,17 +2657,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5B%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0%5D"
-  }, 
-  {
-    "id_str": "PRSC999", 
-    "nation": "ussr", 
-    "ship_id": "3247355344", 
-    "ship_name": "Test Ship", 
-    "tier": 10, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Test%20Ship"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9C%D0%BE%D1%81%D0%BA%D0%B2%D0%B0"
   }, 
   {
     "id_str": "PRSD001", 
@@ -2927,7 +2707,7 @@
     "tier": 5, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%93%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9%20%28OLD%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%93%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9"
   }, 
   {
     "id_str": "PRSD106", 
@@ -2937,7 +2717,7 @@
     "tier": 6, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9E%D0%B3%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9%20%28OLD%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9E%D0%B3%D0%BD%D0%B5%D0%B2%D0%BE%D0%B9"
   }, 
   {
     "id_str": "PRSD107", 
@@ -2957,7 +2737,7 @@
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82%20%28OLD%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82"
   }, 
   {
     "id_str": "PRSD109", 
@@ -2967,7 +2747,7 @@
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D0%B8%D0%B5%D0%B2%20%28OLD%29"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D0%B8%D0%B5%D0%B2"
   }, 
   {
     "id_str": "PRSD110", 
@@ -3050,16 +2830,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D0%B8%D0%B5%D0%B2"
   }, 
   {
-    "id_str": "PRSD309", 
-    "nation": "ussr", 
-    "ship_id": "3970840016", 
-    "ship_name": "IDS_PRSD309", 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PRSD309"
-  }, 
-  {
     "id_str": "PRSD310", 
     "nation": "ussr", 
     "ship_id": "3969791440", 
@@ -3107,7 +2877,7 @@
     "tier": 10, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%5B%D0%93%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9%5D"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%93%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9"
   }, 
   {
     "id_str": "PUSC506", 
@@ -3138,306 +2908,6 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/ru/Ship:B%C5%82yskawica"
-  }, 
-  {
-    "id_str": "PXSA001", 
-    "nation": "events", 
-    "ship_id": "4293899536", 
-    "ship_name": "Luftwaffe", 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Luftwaffe"
-  }, 
-  {
-    "id_str": "PXSA002", 
-    "nation": "events", 
-    "ship_id": "4292850960", 
-    "ship_name": "Air Force", 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Air%20Force"
-  }, 
-  {
-    "id_str": "PXSA003", 
-    "nation": "events", 
-    "ship_id": "4291802384", 
-    "ship_name": "Nobilium", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Nobilium"
-  }, 
-  {
-    "id_str": "PXSA004", 
-    "nation": "events", 
-    "ship_id": "4290753808", 
-    "ship_name": "\u0413\u043e\u0440\u0433\u043e\u043d \u0412\u0435\u043b\u0438\u043a\u0438\u0439", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "AirCarrier", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%93%D0%BE%D1%80%D0%B3%D0%BE%D0%BD%20%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B8%D0%B9"
-  }, 
-  {
-    "id_str": "PXSB001", 
-    "nation": "events", 
-    "ship_id": "4293866768", 
-    "ship_name": "Jackal", 
-    "tier": 3, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Jackal"
-  }, 
-  {
-    "id_str": "PXSB002", 
-    "nation": "events", 
-    "ship_id": "4292818192", 
-    "ship_name": "\u0420\u0430\u0441\u043f\u0443\u0442\u0438\u043d", 
-    "tier": 4, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A0%D0%B0%D1%81%D0%BF%D1%83%D1%82%D0%B8%D0%BD"
-  }, 
-  {
-    "id_str": "PXSB003", 
-    "nation": "events", 
-    "ship_id": "4291769616", 
-    "ship_name": "Zikasa", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Zikasa"
-  }, 
-  {
-    "id_str": "PXSB004", 
-    "nation": "events", 
-    "ship_id": "4290721040", 
-    "ship_name": "Magnu-S", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Magnu-S"
-  }, 
-  {
-    "id_str": "PXSB005", 
-    "nation": "events", 
-    "ship_id": "4289672464", 
-    "ship_name": "Varg", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Varg"
-  }, 
-  {
-    "id_str": "PXSC001", 
-    "nation": "events", 
-    "ship_id": "4293834000", 
-    "ship_name": "Igor", 
-    "tier": 3, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Igor"
-  }, 
-  {
-    "id_str": "PXSC002", 
-    "nation": "events", 
-    "ship_id": "4292785424", 
-    "ship_name": "Scarab", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Scarab"
-  }, 
-  {
-    "id_str": "PXSC003", 
-    "nation": "events", 
-    "ship_id": "4291736848", 
-    "ship_name": "\u0421\u0432\u044f\u0442\u043e\u0437\u0430\u0440", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D0%B2%D1%8F%D1%82%D0%BE%D0%B7%D0%B0%D1%80"
-  }, 
-  {
-    "id_str": "PXSD001", 
-    "nation": "events", 
-    "ship_id": "4293801232", 
-    "ship_name": "Blade", 
-    "tier": 3, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Blade"
-  }, 
-  {
-    "id_str": "PXSD002", 
-    "nation": "events", 
-    "ship_id": "4292752656", 
-    "ship_name": "Ghoul", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Ghoul"
-  }, 
-  {
-    "id_str": "PXSD003", 
-    "nation": "events", 
-    "ship_id": "4291704080", 
-    "ship_name": "Urashima", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Urashima"
-  }, 
-  {
-    "id_str": "PXSD007", 
-    "nation": "events", 
-    "ship_id": "4287509776", 
-    "ship_name": "Schnellboot", 
-    "tier": 1, 
-    "title": "Wiki", 
-    "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Schnellboot"
-  }, 
-  {
-    "id_str": "PXSX001", 
-    "nation": "events", 
-    "ship_id": "4293145872", 
-    "ship_name": "\u0422\u0440\u0430\u043d\u0441\u0438\u043b\u044c\u0432\u0430\u043d\u0438\u044f", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D0%B8%D0%BB%D1%8C%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F"
-  }, 
-  {
-    "id_str": "PXSX015", 
-    "nation": "events", 
-    "ship_id": "4278465808", 
-    "ship_name": "\u0422\u0438\u043f \u0429", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A2%D0%B8%D0%BF%20%D0%A9"
-  }, 
-  {
-    "id_str": "PXSX016", 
-    "nation": "events", 
-    "ship_id": "4277417232", 
-    "ship_name": "Goliath", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Goliath"
-  }, 
-  {
-    "id_str": "PXSX017", 
-    "nation": "events", 
-    "ship_id": "4276368656", 
-    "ship_name": "Caboteur", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Caboteur"
-  }, 
-  {
-    "id_str": "PXSX023", 
-    "nation": "events", 
-    "ship_id": "4270077200", 
-    "ship_name": "Lorina", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Lorina"
-  }, 
-  {
-    "id_str": "PXSX024", 
-    "nation": "events", 
-    "ship_id": "4269028624", 
-    "ship_name": "Aronia", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Aronia"
-  }, 
-  {
-    "id_str": "PXSX025", 
-    "nation": "events", 
-    "ship_id": "4267980048", 
-    "ship_name": "Medway Queen", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Medway%20Queen"
-  }, 
-  {
-    "id_str": "PXSX026", 
-    "nation": "events", 
-    "ship_id": "4266931472", 
-    "ship_name": "Canterbury", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Canterbury"
-  }, 
-  {
-    "id_str": "PXSX033", 
-    "nation": "events", 
-    "ship_id": "4259591440", 
-    "ship_name": "\u041c\u0438\u043d\u043d\u044b\u0439 \u0437\u0430\u0433\u0440\u0430\u0434\u0438\u0442\u0435\u043b\u044c", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9C%D0%B8%D0%BD%D0%BD%D1%8B%D0%B9%20%D0%B7%D0%B0%D0%B3%D1%80%D0%B0%D0%B4%D0%B8%D1%82%D0%B5%D0%BB%D1%8C"
-  }, 
-  {
-    "id_str": "PXSX034", 
-    "nation": "events", 
-    "ship_id": "4258542864", 
-    "ship_name": "John Cattling", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:John%20Cattling"
-  }, 
-  {
-    "id_str": "PXSX043", 
-    "nation": "events", 
-    "ship_id": "4249105680", 
-    "ship_name": "Medway Queen", 
-    "tier": 2, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Medway%20Queen"
-  }, 
-  {
-    "id_str": "PXSX044", 
-    "nation": "events", 
-    "ship_id": "4248057104", 
-    "ship_name": "Cimarron civil", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cimarron%20civil"
-  }, 
-  {
-    "id_str": "PXSX045", 
-    "nation": "events", 
-    "ship_id": "4247008528", 
-    "ship_name": "Liberty civil", 
-    "tier": 5, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Liberty%20civil"
-  }, 
-  {
-    "id_str": "PXSX743", 
-    "nation": "events", 
-    "ship_id": "3515102480", 
-    "ship_name": "Intania Queen", 
-    "tier": 11, 
-    "title": "Wiki", 
-    "type": "Auxiliary", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Intania%20Queen"
   }, 
   {
     "id_str": "PZSC101", 
