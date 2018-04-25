@@ -28,13 +28,13 @@
     },
     {
       "id": "HelpMe.showPerkMenu",
-      "title": "&2. Навыки капитана",
-      "itemsTitle": "Навыки капитана",
+      "title": "&2. Навыки командира",
+      "itemsTitle": "Навыки командира",
       "items": [
         {
           "id": "HelpMe.showPerkMenuCV",
           "title": "&1. Авианосец",
-          "itemsTitle": "Навыки капитана (Авианосец)",
+          "itemsTitle": "Навыки командира (Авианосец)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuCVJP",
@@ -49,7 +49,7 @@
         {
           "id": "HelpMe.showPerkMenuBB",
           "title": "&2. Линкор",
-          "itemsTitle": "Навыки капитана (Линкор)",
+          "itemsTitle": "Навыки командира (Линкор)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuBBJP",
@@ -72,7 +72,7 @@
         {
           "id": "HelpMe.showPerkMenuCA",
           "title": "&3. Крейсер",
-          "itemsTitle": "Навыки капитана (Крейсер)",
+          "itemsTitle": "Навыки командира (Крейсер)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuCAJP",
@@ -111,7 +111,7 @@
         {
           "id": "HelpMe.showPerkMenuDD",
           "title": "&4. Эсминец",
-          "itemsTitle": "Навыки капитана (Эсминец)",
+          "itemsTitle": "Навыки командира (Эсминец)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuDDJP",

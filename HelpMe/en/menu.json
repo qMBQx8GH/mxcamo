@@ -28,13 +28,13 @@
     },
     {
       "id": "HelpMe.showPerkMenu",
-      "title": "&2. Captain skills",
-      "itemsTitle": "Captain skills",
+      "title": "&2. Commanders skills",
+      "itemsTitle": "Commanders skills",
       "items": [
         {
           "id": "HelpMe.showPerkMenuCV",
           "title": "&1. Aircraft carrier",
-          "itemsTitle": "Captain skills (Aircraft carrier)",
+          "itemsTitle": "Commanders skills (Aircraft carrier)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuCVJP",
@@ -49,7 +49,7 @@
         {
           "id": "HelpMe.showPerkMenuBB",
           "title": "&2. Battleship",
-          "itemsTitle": "Captain skills (Battleship)",
+          "itemsTitle": "Commanders skills (Battleship)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuBBJP",
@@ -72,7 +72,7 @@
         {
           "id": "HelpMe.showPerkMenuCA",
           "title": "&3. Cruiser",
-          "itemsTitle": "Captain skills (Cruiser)",
+          "itemsTitle": "Commanders skills (Cruiser)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuCAJP",
@@ -111,7 +111,7 @@
         {
           "id": "HelpMe.showPerkMenuDD",
           "title": "&4. Destroyer",
-          "itemsTitle": "Captain skills (Destroyer)",
+          "itemsTitle": "Commanders skills (Destroyer)",
           "items": [
             {
               "id": "HelpMe.showPerkMenuDDJP",
