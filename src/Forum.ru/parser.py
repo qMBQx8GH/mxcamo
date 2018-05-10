@@ -65,7 +65,7 @@ class MyHTMLParser(HTMLParser.HTMLParser):
 
 links = {}
 
-mainPage = requests.get('https://forum.worldofwarships.ru/forum/155-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8-%D0%B2-%D0%B8%D0%B3%D1%80%D0%B5/')
+mainPage = requests.get('https://forum.worldofwarships.ru/forum/374-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8-%D0%B2-%D0%B8%D0%B3%D1%80%D0%B5/')
 parser = MyHTMLParser()
 parser.feed(mainPage.content.decode(mainPage.encoding))
 print parser.links
@@ -96,6 +96,8 @@ for link in parser.links:
 ships_add = {}
 # PASA015	usa	AirCarrier	10	3335501808	Midway
 ships_add['3335501808'] = 'https://forum.worldofwarships.ru/topic/51970-midway-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%B0%D0%B2%D0%B8%D0%B0%D0%BD%D0%BE%D1%81%D0%B5%D1%86-%D1%85-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-064x/'\
+# PASC020	usa	Cruiser		10	4273911792	Des Moines
+ships_add['4273911792'] = 'https://forum.worldofwarships.ru/topic/91133-des-moines-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-%D1%81%D1%88%D0%B0-x-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-068/'\
 # PASB001	usa	Battleship	3	4293867504	S. Carolina
 ships_add['4293867504'] = 'https://forum.worldofwarships.ru/topic/57884-south-carolina-iii-0515x/'
 # PASB012	usa	Battleship	8	4282333168	N. Carolina
