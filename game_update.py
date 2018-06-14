@@ -23,7 +23,6 @@ print('res_mods: {}'.format(res_mods))
 
 if version != res_mods:
     res = subprocess.run(['hg', 'merge', 'default', '--tool', 'internal:other'], stderr=subprocess.PIPE)
-    print(res.returncode, res.stderr.decode())
 
     if res.returncode == 0:
         res = subprocess.run(['hg', 'com', '-v', '-m', 'merge'])
@@ -32,8 +31,8 @@ if version != res_mods:
     elif res.stderr.decode().startswith('abort: merging with a working directory ancestor has no effect'):
         pass
     else:
-      print(res.stderr.decode())
-      exit(res.returncode)
+        print(res.stderr.decode())
+        exit(res.returncode)
 
     f = open('version.txt', 'w')
     f.write(res_mods)
