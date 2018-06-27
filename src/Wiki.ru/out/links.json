@@ -313,11 +313,11 @@
     "id_str": "PASC004", 
     "nation": "usa", 
     "ship_id": "4290689008", 
-    "ship_name": "St. Louis", 
+    "ship_name": "St.\u00a0Louis", 
     "tier": 3, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:St.%20Louis"
+    "url": "http://wiki.wargaming.net/ru/Ship:St.%C2%A0Louis"
   }, 
   {
     "id_str": "PASC005", 
@@ -340,36 +340,6 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Atlanta"
   }, 
   {
-    "id_str": "PASC007", 
-    "nation": "usa", 
-    "ship_id": "4287543280", 
-    "ship_name": "Cleveland", 
-    "tier": 6, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cleveland"
-  }, 
-  {
-    "id_str": "PASC012", 
-    "nation": "usa", 
-    "ship_id": "4282300400", 
-    "ship_name": "Pensacola", 
-    "tier": 7, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Pensacola"
-  }, 
-  {
-    "id_str": "PASC014", 
-    "nation": "usa", 
-    "ship_id": "4280203248", 
-    "ship_name": "New Orleans", 
-    "tier": 8, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:New%20Orleans"
-  }, 
-  {
     "id_str": "PASC016", 
     "nation": "usa", 
     "ship_id": "4278106096", 
@@ -378,16 +348,6 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/ru/Ship:Worcester"
-  }, 
-  {
-    "id_str": "PASC017", 
-    "nation": "usa", 
-    "ship_id": "4277057520", 
-    "ship_name": "Baltimore", 
-    "tier": 9, 
-    "title": "Wiki", 
-    "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Baltimore"
   }, 
   {
     "id_str": "PASC019", 
@@ -440,6 +400,96 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Marblehead_Lima"
   }, 
   {
+    "id_str": "PASC106", 
+    "nation": "usa", 
+    "ship_id": "4183734256", 
+    "ship_name": "Pensacola", 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Pensacola"
+  }, 
+  {
+    "id_str": "PASC107", 
+    "nation": "usa", 
+    "ship_id": "4182685680", 
+    "ship_name": "New Orleans", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:New%20Orleans"
+  }, 
+  {
+    "id_str": "PASC108", 
+    "nation": "usa", 
+    "ship_id": "4181637104", 
+    "ship_name": "Baltimore", 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Baltimore"
+  }, 
+  {
+    "id_str": "PASC109", 
+    "nation": "usa", 
+    "ship_id": "4180588528", 
+    "ship_name": "Buffalo", 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Buffalo"
+  }, 
+  {
+    "id_str": "PASC206", 
+    "nation": "usa", 
+    "ship_id": "4078876656", 
+    "ship_name": "Dallas", 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Dallas"
+  }, 
+  {
+    "id_str": "PASC207", 
+    "nation": "usa", 
+    "ship_id": "4077828080", 
+    "ship_name": "Helena", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Helena"
+  }, 
+  {
+    "id_str": "PASC208", 
+    "nation": "usa", 
+    "ship_id": "4076779504", 
+    "ship_name": "Cleveland", 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Cleveland"
+  }, 
+  {
+    "id_str": "PASC209", 
+    "nation": "usa", 
+    "ship_id": "4075730928", 
+    "ship_name": "Seattle", 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Seattle"
+  }, 
+  {
+    "id_str": "PASC210", 
+    "nation": "usa", 
+    "ship_id": "4074682352", 
+    "ship_name": "Worcester", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Worcester"
+  }, 
+  {
     "id_str": "PASC507", 
     "nation": "usa", 
     "ship_id": "3763255280", 
@@ -448,6 +498,16 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/ru/Ship:Indianapolis"
+  }, 
+  {
+    "id_str": "PASC597", 
+    "nation": "usa", 
+    "ship_id": "3668883440", 
+    "ship_name": "Boise", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Boise"
   }, 
   {
     "id_str": "PASC707", 
@@ -913,6 +973,16 @@
     "id_str": "PBSD507", 
     "nation": "uk", 
     "ship_id": "3763222480", 
+    "ship_name": "Cossack", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Cossack"
+  }, 
+  {
+    "id_str": "PBSD517", 
+    "nation": "uk", 
+    "ship_id": "3752736720", 
     "ship_name": "Cossack", 
     "tier": 7, 
     "title": "Wiki", 
@@ -1534,7 +1604,7 @@
     "nation": "germany", 
     "ship_id": "3762173744", 
     "ship_name": "Z-39", 
-    "tier": 8, 
+    "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/ru/Ship:Z-39"
@@ -2427,7 +2497,7 @@
     "tier": 4, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_I"
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%98%D0%BC%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80_%D0%9D%D0%B8%D0%BA%D0%BE%D0%BB%D0%B0%D0%B9_I"
   }, 
   {
     "id_str": "PRSB505", 
@@ -2630,6 +2700,16 @@
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%9A%D1%80%D0%BE%D0%BD%D1%88%D1%82%D0%B0%D0%B4%D1%82"
   }, 
   {
+    "id_str": "PRSC510", 
+    "nation": "ussr", 
+    "ship_id": "3760109008", 
+    "ship_name": "\u0421\u0442\u0430\u043b\u0438\u043d\u0433\u0440\u0430\u0434", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4"
+  }, 
+  {
     "id_str": "PRSC513", 
     "nation": "ussr", 
     "ship_id": "3756963280", 
@@ -2638,6 +2718,16 @@
     "title": "Wiki", 
     "type": "Cruiser", 
     "url": "http://wiki.wargaming.net/ru/Ship:%D0%92%D0%B0%D1%80%D1%8F%D0%B3"
+  }, 
+  {
+    "id_str": "PRSC520", 
+    "nation": "ussr", 
+    "ship_id": "3749623248", 
+    "ship_name": "\u0421\u0442\u0430\u043b\u0438\u043d\u0433\u0440\u0430\u0434 2", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%202"
   }, 
   {
     "id_str": "PRSC606", 

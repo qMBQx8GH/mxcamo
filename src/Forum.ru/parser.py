@@ -6,7 +6,7 @@ import HTMLParser
 import gettext
 
 os.environ["LANGUAGE"] = 'ru'
-tr = gettext.translation('global', 'C:\\Games\\World_of_Warships\\res\\texts')
+tr = gettext.translation('global', '..\\res\\texts')
 
 f = open('..\\db\\ship.json')
 ships = json.load(f)
@@ -19,7 +19,9 @@ class MyHTMLParser(HTMLParser.HTMLParser):
         self.in_list = 0
         self.links = []
         self.span = 0
+        self.h4 = 0
         self.in_list2 = 0
+        self.href = ''
         self.all_links = {}
 
     def handle_starttag(self, tag, attrs):
@@ -28,6 +30,9 @@ class MyHTMLParser(HTMLParser.HTMLParser):
 
         if tag == 'span':
             self.span += 1
+
+        if tag == 'h4':
+            self.h4 += 1
 
         if tag == 'ul':
             for attr in attrs:
@@ -38,6 +43,10 @@ class MyHTMLParser(HTMLParser.HTMLParser):
             for attr in attrs:
                 if attr[0] == 'class' and attr[1].startswith('ipsType_break'):
                     self.in_list2 = self.span
+        elif tag == 'h4':
+            for attr in attrs:
+                if attr[0] == 'class' and attr[1].endswith('ipsType_break'):
+                    self.in_list2 = self.h4
 
         if tag == 'a' and self.in_list > 0 and self.in_list == self.ul:
             for attr in attrs:
@@ -46,14 +55,21 @@ class MyHTMLParser(HTMLParser.HTMLParser):
 
         if tag == 'a' and self.in_list2:
             title = ''
-            href = ''
+            self.href = ''
             for attr in attrs:
                 if attr[0] == 'title':
                     title = attr[1]
                 if attr[0] == 'href':
-                    href = attr[1]
+                    self.href = attr[1]
             if title:
-                self.all_links[href] = title
+                self.all_links[self.href] = title
+                self.href = ''
+
+    def handle_data(self, data):
+        if self.in_list2 and self.href:
+            self.all_links[self.href] = data
+            print(self.href, data)
+            self.href = ''
 
     def handle_endtag(self, tag):
         if tag == 'ul':
@@ -62,16 +78,19 @@ class MyHTMLParser(HTMLParser.HTMLParser):
         if tag == 'span':
             self.span -= 1
             self.in_list2 = 0
+        if tag == 'h4':
+            self.h4 -= 1
+            self.in_list2 = 0
 
 links = {}
 
 mainPage = requests.get('https://forum.worldofwarships.ru/forum/374-%D0%BA%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D0%B8-%D0%B2-%D0%B8%D0%B3%D1%80%D0%B5/')
 parser = MyHTMLParser()
 parser.feed(mainPage.content.decode(mainPage.encoding))
-print parser.links
+# print parser.links
 
 for link in parser.links:
-    print '-------------link-------------- ' + link
+    print '--link-- ' + link
     page = requests.get(link)
     parser = MyHTMLParser()
     parser.feed(page.content.decode(page.encoding))
@@ -80,6 +99,12 @@ for link in parser.links:
         for ship_id in ships:
             ship = ships[ship_id]
             ship_name = tr.gettext('IDS_' + ship['id_str']).decode('utf8')
+            ship_name = ship_name\
+                .replace('[', '')\
+                .replace(']', '')\
+                .replace(' (OLD)', '')\
+                .replace(' (old)', '')\
+                + ''
             if title.lower().find(ship_name.lower()) >= 0:
                 links[ship_id] = {
                     "ship_id": ship_id,
@@ -91,7 +116,7 @@ for link in parser.links:
                     "title": u"Форум",
                     "url": url,
                 }
-                print ['found!', ship_id, ship_name, url]
+                # print ['found!', ship_id, ship_name, url]
 
 ships_add = {}
 # PASA015	usa	AirCarrier	10	3335501808	Midway
@@ -224,7 +249,22 @@ ships_add['3340645840'] = 'https://forum.worldofwarships.ru/topic/81697-%D0%B3%D
 ships_add['3769513264'] = 'https://forum.worldofwarships.ru/topic/73717-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D0%BE%D0%BC%D1%83-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D1%86%D1%83-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-blyskawica-065/'
 # PZSD508	pan_asia	Destroyer	8	3762173136	Loyang
 ships_add['3762173136'] = 'https://forum.worldofwarships.ru/topic/66511-lo-yang-%D0%BF%D1%80%D0%B5%D0%BC%D0%B8%D1%83%D0%BC%D0%BD%D1%8B%D0%B9-%D1%8D%D1%81%D0%BC%D0%B8%D0%BD%D0%B5%D1%86-%D0%BF%D0%B0%D0%BD-%D0%B0%D0%B7%D0%B8%D0%B8-8-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-%D1%88%D1%85%D1%83%D0%BD%D0%B0-%D0%BD%D1%83%D0%B2%D0%BE%D1%80%D0%B8%D1%88%D0%B0-061/'
-
+# PASA015	usa	AirCarrier	10	4279220208	Midway	http://wiki.wargaming.net/ru/Ship:Midway4279220208
+ships_add['4279220208'] = 'https://forum.worldofwarships.ru/forum/425-midway/'
+# PASC004	usa	Cruiser	3	4290689008	St. Louis	http://wiki.wargaming.net/ru/Ship:St. Louis
+ships_add['4290689008'] = 'https://forum.worldofwarships.ru/topic/57802-st-louis-iii-0515x/'
+# PASC007	usa	Cruiser	6	4287543280	Cleveland (old)	http://wiki.wargaming.net/ru/Ship:Cleveland (old)
+ships_add['4287543280'] = 'https://forum.worldofwarships.ru/topic/33765-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vi-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-cleveland/'
+# PASC012	usa	Cruiser	7	4282300400	Pensacola (old)	http://wiki.wargaming.net/ru/Ship:Pensacola (old)
+ships_add['4282300400'] = 'https://forum.worldofwarships.ru/topic/65733-uss-pensacola-%D0%B0%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BD%D1%81%D0%BA%D0%B8%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-vii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-069x/'
+# PASC014	usa	Cruiser	8	4280203248	New Orleans (old)	http://wiki.wargaming.net/ru/Ship:New Orleans (old)
+ships_add['4280203248'] = 'https://forum.worldofwarships.ru/topic/37925-new-orleans-%D1%82%D1%8F%D0%B6%D1%91%D0%BB%D1%8B%D0%B9-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80-viii-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-06151/'
+# PASC017	usa	Cruiser	9	4277057520	Baltimore (old)	http://wiki.wargaming.net/ru/Ship:Baltimore (old)
+ships_add['4277057520'] = 'https://forum.worldofwarships.ru/topic/73372-%D0%B3%D0%B0%D0%B9%D0%B4-%D0%BF%D0%BE-%D1%82%D1%8F%D0%B6%D0%B5%D0%BB%D0%BE%D0%BC%D1%83-%D0%BA%D1%80%D0%B5%D0%B9%D1%81%D0%B5%D1%80%D1%83-ix-%D1%83%D1%80%D0%BE%D0%B2%D0%BD%D1%8F-uss-baltimore-065/'
+# PASD013	usa	Destroyer	10	4281219056	Gearing	http://wiki.wargaming.net/ru/Ship:Gearing
+ships_add['4281219056'] = 'https://forum.worldofwarships.ru/forum/414-gearing/'
+# PBSB110	uk	Battleship	10	4179572688	Conqueror	http://wiki.wargaming.net/ru/Ship:Conqueror
+ships_add['4179572688'] = 'https://forum.worldofwarships.ru/forum/421-conqueror/'
 
 for ship_id in ships_add:
     ship = ships[ship_id]
