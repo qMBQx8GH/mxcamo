@@ -61,11 +61,11 @@
             },
             {
               "id": "HelpMe.showPerkMenuBBDE",
-              "title": "&3. Немцы"
+              "title": "&3. Германия"
             },
             {
               "id": "HelpMe.showPerkMenuBBEN",
-              "title": "&4. Бриты"
+              "title": "&4. Англия"
             }
           ]
         },
@@ -88,23 +88,23 @@
             },
             {
               "id": "HelpMe.showPerkMenuCARU",
-              "title": "&4. Советы"
+              "title": "&4. СССР"
             },
             {
               "id": "HelpMe.showPerkMenuCADE",
-              "title": "&5. Немцы"
+              "title": "&5. Германия"
             },
             {
               "id": "HelpMe.showPerkMenuCAEN",
-              "title": "&6. Бриты (ПВО)"
+              "title": "&6. Англия (ПВО)"
             },
             {
               "id": "HelpMe.showPerkMenuCAEN2",
-              "title": "&7. Бриты (универсал)"
+              "title": "&7. Англия (универсал)"
             },
             {
               "id": "HelpMe.showPerkMenuCAFR",
-              "title": "&8. Французы"
+              "title": "&8. Франция"
             }
           ]
         },
@@ -123,15 +123,15 @@
             },
             {
               "id": "HelpMe.showPerkMenuDDRU",
-              "title": "&3. Советы (арт)"
+              "title": "&3. СССР (арт)"
             },
             {
               "id": "HelpMe.showPerkMenuDDRU2",
-              "title": "&4. Советы (не арт)"
+              "title": "&4. СССР (не арт)"
             },
             {
               "id": "HelpMe.showPerkMenuDDDE",
-              "title": "&5. Немцы"
+              "title": "&5. Германия"
             }
           ]
         }
