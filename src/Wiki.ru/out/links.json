@@ -500,14 +500,24 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Indianapolis"
   }, 
   {
+    "id_str": "PASC510", 
+    "nation": "usa", 
+    "ship_id": "3760109552", 
+    "ship_name": "IDS_PASC510", 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PASC510"
+  }, 
+  {
     "id_str": "PASC597", 
     "nation": "usa", 
     "ship_id": "3668883440", 
-    "ship_name": "Boise", 
+    "ship_name": "Disabled: Boise", 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Boise"
+    "url": "http://wiki.wargaming.net/ru/Ship:Disabled%3A%20Boise"
   }, 
   {
     "id_str": "PASC707", 
@@ -950,6 +960,96 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Belfast"
   }, 
   {
+    "id_str": "PBSD102", 
+    "nation": "uk", 
+    "ship_id": "4187895760", 
+    "ship_name": "Medea", 
+    "tier": 2, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Medea"
+  }, 
+  {
+    "id_str": "PBSD103", 
+    "nation": "uk", 
+    "ship_id": "4186847184", 
+    "ship_name": "Valkyrie", 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Valkyrie"
+  }, 
+  {
+    "id_str": "PBSD104", 
+    "nation": "uk", 
+    "ship_id": "4185798608", 
+    "ship_name": "Wakeful", 
+    "tier": 4, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Wakeful"
+  }, 
+  {
+    "id_str": "PBSD105", 
+    "nation": "uk", 
+    "ship_id": "4184750032", 
+    "ship_name": "Acasta", 
+    "tier": 5, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Acasta"
+  }, 
+  {
+    "id_str": "PBSD106", 
+    "nation": "uk", 
+    "ship_id": "4183701456", 
+    "ship_name": "Icarus", 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Icarus"
+  }, 
+  {
+    "id_str": "PBSD107", 
+    "nation": "uk", 
+    "ship_id": "4182652880", 
+    "ship_name": "Jervis", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Jervis"
+  }, 
+  {
+    "id_str": "PBSD108", 
+    "nation": "uk", 
+    "ship_id": "4181604304", 
+    "ship_name": "Lightning", 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Lightning"
+  }, 
+  {
+    "id_str": "PBSD109", 
+    "nation": "uk", 
+    "ship_id": "4180555728", 
+    "ship_name": "Jutland", 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Jutland"
+  }, 
+  {
+    "id_str": "PBSD110", 
+    "nation": "uk", 
+    "ship_id": "4179507152", 
+    "ship_name": "Daring", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Daring"
+  }, 
+  {
     "id_str": "PBSD503", 
     "nation": "uk", 
     "ship_id": "3767416784", 
@@ -973,18 +1073,18 @@
     "id_str": "PBSD507", 
     "nation": "uk", 
     "ship_id": "3763222480", 
-    "ship_name": "Cossack", 
+    "ship_name": "IDS_PBSD507", 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cossack"
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PBSD507"
   }, 
   {
     "id_str": "PBSD517", 
     "nation": "uk", 
     "ship_id": "3752736720", 
     "ship_name": "Cossack", 
-    "tier": 7, 
+    "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/ru/Ship:Cossack"
@@ -1088,6 +1188,26 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/ru/Ship:Gascogne"
+  }, 
+  {
+    "id_str": "PFSB510", 
+    "nation": "france", 
+    "ship_id": "3760142160", 
+    "ship_name": "IDS_PFSB510", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PFSB510"
+  }, 
+  {
+    "id_str": "PFSB518", 
+    "nation": "france", 
+    "ship_id": "3751753552", 
+    "ship_name": "Jean Bart", 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Jean%20Bart"
   }, 
   {
     "id_str": "PFSC101", 
@@ -1200,6 +1320,16 @@
     "url": "http://wiki.wargaming.net/ru/Ship:De%20Grasse"
   }, 
   {
+    "id_str": "PFSC810", 
+    "nation": "france", 
+    "ship_id": "3445536592", 
+    "ship_name": "Brennus", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Brennus"
+  }, 
+  {
     "id_str": "PFSD506", 
     "nation": "france", 
     "ship_id": "3764270928", 
@@ -1208,6 +1338,16 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/ru/Ship:Aigle"
+  }, 
+  {
+    "id_str": "PFSD508", 
+    "nation": "france", 
+    "ship_id": "3762173776", 
+    "ship_name": "IDS_PFSD508", 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PFSD508"
   }, 
   {
     "id_str": "PFSD605", 
@@ -1328,6 +1468,16 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/ru/Ship:K%C3%B6nig_Albert"
+  }, 
+  {
+    "id_str": "PGSB506", 
+    "nation": "germany", 
+    "ship_id": "3764336432", 
+    "ship_name": "P. E. Friedrich", 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/ru/Ship:P.%20E.%20Friedrich"
   }, 
   {
     "id_str": "PGSB507", 
@@ -2440,6 +2590,26 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Y%C5%ABgumo"
   }, 
   {
+    "id_str": "PJSD210", 
+    "nation": "japan", 
+    "ship_id": "4074649296", 
+    "ship_name": "Harugumo", 
+    "tier": 10, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Harugumo"
+  }, 
+  {
+    "id_str": "PJSD219", 
+    "nation": "japan", 
+    "ship_id": "4065212112", 
+    "ship_name": "Kitakaze", 
+    "tier": 9, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Kitakaze"
+  }, 
+  {
     "id_str": "PJSD518", 
     "nation": "japan", 
     "ship_id": "3751687888", 
@@ -2988,6 +3158,26 @@
     "title": "Wiki", 
     "type": "Destroyer", 
     "url": "http://wiki.wargaming.net/ru/Ship:Vampire"
+  }, 
+  {
+    "id_str": "PUSD507", 
+    "nation": "commonwealth", 
+    "ship_id": "3763221872", 
+    "ship_name": "Haida", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Destroyer", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Haida"
+  }, 
+  {
+    "id_str": "PVSC507", 
+    "nation": "pa", 
+    "ship_id": "3763254608", 
+    "ship_name": "Nueve de\u00a0Julio", 
+    "tier": 7, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Nueve%20de%C2%A0Julio"
   }, 
   {
     "id_str": "PWSD501", 
