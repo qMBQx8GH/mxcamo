@@ -300,10 +300,16 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Indianapolis"
   }, 
   {
-    "ship_id": "3668883440", 
-    "ship_name": "Boise", 
+    "ship_id": "3760109552", 
+    "ship_name": "IDS_PASC510", 
     "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Boise"
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PASC510"
+  }, 
+  {
+    "ship_id": "3668883440", 
+    "ship_name": "Disabled: Boise", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Disabled%3A%20Boise"
   }, 
   {
     "ship_id": "3553540080", 
@@ -570,6 +576,60 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Belfast"
   }, 
   {
+    "ship_id": "4187895760", 
+    "ship_name": "Medea", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Medea"
+  }, 
+  {
+    "ship_id": "4186847184", 
+    "ship_name": "Valkyrie", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Valkyrie"
+  }, 
+  {
+    "ship_id": "4185798608", 
+    "ship_name": "Wakeful", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Wakeful"
+  }, 
+  {
+    "ship_id": "4184750032", 
+    "ship_name": "Acasta", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Acasta"
+  }, 
+  {
+    "ship_id": "4183701456", 
+    "ship_name": "Icarus", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Icarus"
+  }, 
+  {
+    "ship_id": "4182652880", 
+    "ship_name": "Jervis", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Jervis"
+  }, 
+  {
+    "ship_id": "4181604304", 
+    "ship_name": "Lightning", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Lightning"
+  }, 
+  {
+    "ship_id": "4180555728", 
+    "ship_name": "Jutland", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Jutland"
+  }, 
+  {
+    "ship_id": "4179507152", 
+    "ship_name": "Daring", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Daring"
+  }, 
+  {
     "ship_id": "3767416784", 
     "ship_name": "Campbeltown", 
     "title": "Wiki", 
@@ -583,9 +643,9 @@
   }, 
   {
     "ship_id": "3763222480", 
-    "ship_name": "Cossack", 
+    "ship_name": "IDS_PBSD507", 
     "title": "Wiki", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Cossack"
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PBSD507"
   }, 
   {
     "ship_id": "3752736720", 
@@ -654,6 +714,18 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Gascogne"
   }, 
   {
+    "ship_id": "3760142160", 
+    "ship_name": "IDS_PFSB510", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PFSB510"
+  }, 
+  {
+    "ship_id": "3751753552", 
+    "ship_name": "Jean Bart", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Jean%20Bart"
+  }, 
+  {
     "ship_id": "4188976976", 
     "ship_name": "Bougainville", 
     "title": "Wiki", 
@@ -720,10 +792,22 @@
     "url": "http://wiki.wargaming.net/ru/Ship:De%20Grasse"
   }, 
   {
+    "ship_id": "3445536592", 
+    "ship_name": "Brennus", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Brennus"
+  }, 
+  {
     "ship_id": "3764270928", 
     "ship_name": "Aigle", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/ru/Ship:Aigle"
+  }, 
+  {
+    "ship_id": "3762173776", 
+    "ship_name": "IDS_PFSD508", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PFSD508"
   }, 
   {
     "ship_id": "3660461904", 
@@ -796,6 +880,12 @@
     "ship_name": "K. Albert", 
     "title": "Wiki", 
     "url": "http://wiki.wargaming.net/ru/Ship:K%C3%B6nig_Albert"
+  }, 
+  {
+    "ship_id": "3764336432", 
+    "ship_name": "P. E. Friedrich", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:P.%20E.%20Friedrich"
   }, 
   {
     "ship_id": "3763287856", 
@@ -1464,6 +1554,18 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Y%C5%ABgumo"
   }, 
   {
+    "ship_id": "4074649296", 
+    "ship_name": "Harugumo", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Harugumo"
+  }, 
+  {
+    "ship_id": "4065212112", 
+    "ship_name": "Kitakaze", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Kitakaze"
+  }, 
+  {
     "ship_id": "3751687888", 
     "ship_name": "Asashio", 
     "title": "Wiki", 
@@ -1794,6 +1896,18 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Vampire"
   }, 
   {
+    "ship_id": "3763221872", 
+    "ship_name": "Haida", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Haida"
+  }, 
+  {
+    "ship_id": "3763254608", 
+    "ship_name": "Nueve de\u00a0Julio", 
+    "title": "Wiki", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Nueve%20de%C2%A0Julio"
+  }, 
+  {
     "ship_id": "3769513264", 
     "ship_name": "B\u0142yskawica", 
     "title": "Wiki", 
@@ -1905,12 +2019,12 @@
   {
     "ship_id": "4281317360", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/62650-"
+    "url": "https://forum.worldofwarships.ru/topic/21983-"
   }, 
   {
     "ship_id": "4279220208", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/425-midway/"
+    "url": "https://forum.worldofwarships.ru/topic/51970-"
   }, 
   {
     "ship_id": "3763320816", 
@@ -1930,7 +2044,7 @@
   {
     "ship_id": "3335501808", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/425-midway/"
+    "url": "https://forum.worldofwarships.ru/topic/51970-"
   }, 
   {
     "ship_id": "4293867504", 
@@ -1965,7 +2079,7 @@
   {
     "ship_id": "4277090288", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/420-montana/"
+    "url": "https://forum.worldofwarships.ru/topic/29782-"
   }, 
   {
     "ship_id": "4276041712", 
@@ -1993,6 +2107,11 @@
     "url": "https://forum.worldofwarships.ru/topic/74626-"
   }, 
   {
+    "ship_id": "3751753712", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112467-"
+  }, 
+  {
     "ship_id": "3555670000", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/63710-"
@@ -2005,12 +2124,12 @@
   {
     "ship_id": "3455006704", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/57884-"
+    "url": "https://forum.worldofwarships.ru/topic/21914-"
   }, 
   {
     "ship_id": "3333371888", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/420-montana/"
+    "url": "https://forum.worldofwarships.ru/topic/29782-"
   }, 
   {
     "ship_id": "4293834736", 
@@ -2050,12 +2169,17 @@
   {
     "ship_id": "4282300400", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/65733-"
+    "url": "https://forum.worldofwarships.ru/topic/113377-"
   }, 
   {
     "ship_id": "4280203248", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/37925-"
+  }, 
+  {
+    "ship_id": "4278106096", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112254-"
   }, 
   {
     "ship_id": "4277057520", 
@@ -2070,7 +2194,7 @@
   {
     "ship_id": "4273911792", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/408-des-moines/"
+    "url": "https://forum.worldofwarships.ru/topic/101037-"
   }, 
   {
     "ship_id": "4269717488", 
@@ -2090,7 +2214,7 @@
   {
     "ship_id": "4183734256", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/65733-"
+    "url": "https://forum.worldofwarships.ru/topic/113377-"
   }, 
   {
     "ship_id": "4182685680", 
@@ -2108,9 +2232,29 @@
     "url": "https://forum.worldofwarships.ru/topic/110896-"
   }, 
   {
+    "ship_id": "4078876656", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112250-"
+  }, 
+  {
+    "ship_id": "4077828080", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112251-"
+  }, 
+  {
     "ship_id": "4076779504", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/33765-"
+  }, 
+  {
+    "ship_id": "4075730928", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112252-"
+  }, 
+  {
+    "ship_id": "4074682352", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112254-"
   }, 
   {
     "ship_id": "3763255280", 
@@ -2121,6 +2265,11 @@
     "ship_id": "3553540080", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/61847-"
+  }, 
+  {
+    "ship_id": "3550394352", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112409-"
   }, 
   {
     "ship_id": "3451828208", 
@@ -2155,7 +2304,7 @@
   {
     "ship_id": "4281219056", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/414-gearing/"
+    "url": "https://forum.worldofwarships.ru/topic/52407-"
   }, 
   {
     "ship_id": "4280170480", 
@@ -2188,6 +2337,11 @@
     "url": "https://forum.worldofwarships.ru/topic/71359-"
   }, 
   {
+    "ship_id": "3764271088", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/112266-"
+  }, 
+  {
     "ship_id": "3762173936", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/99053-"
@@ -2195,7 +2349,7 @@
   {
     "ship_id": "3551410160", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/69408-"
+    "url": "https://forum.worldofwarships.ru/topic/113148-"
   }, 
   {
     "ship_id": "3454941168", 
@@ -2205,7 +2359,7 @@
   {
     "ship_id": "3337500656", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/414-gearing/"
+    "url": "https://forum.worldofwarships.ru/topic/52407-"
   }, 
   {
     "ship_id": "3439605744", 
@@ -2230,12 +2384,12 @@
   {
     "ship_id": "4184815568", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/104188-"
+    "url": "https://forum.worldofwarships.ru/topic/93466-"
   }, 
   {
     "ship_id": "4183766992", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/108689-"
+    "url": "https://forum.worldofwarships.ru/topic/93467-"
   }, 
   {
     "ship_id": "4182718416", 
@@ -2255,7 +2409,7 @@
   {
     "ship_id": "4179572688", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/421-conqueror/"
+    "url": "https://forum.worldofwarships.ru/topic/93471-"
   }, 
   {
     "ship_id": "3763288016", 
@@ -2275,7 +2429,7 @@
   {
     "ship_id": "3340711888", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/421-conqueror/"
+    "url": "https://forum.worldofwarships.ru/topic/93471-"
   }, 
   {
     "ship_id": "4188977104", 
@@ -2325,7 +2479,7 @@
   {
     "ship_id": "4179539920", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/409-minotaur/"
+    "url": "https://forum.worldofwarships.ru/topic/70841-"
   }, 
   {
     "ship_id": "3763255248", 
@@ -2380,7 +2534,7 @@
   {
     "ship_id": "4179572560", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/423-r%C3%A9publique/"
+    "url": "https://forum.worldofwarships.ru/topic/106314-"
   }, 
   {
     "ship_id": "3764336464", 
@@ -2440,7 +2594,7 @@
   {
     "ship_id": "4179539792", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/412-henri-iv/"
+    "url": "https://forum.worldofwarships.ru/topic/84886-"
   }, 
   {
     "ship_id": "3764303696", 
@@ -2450,7 +2604,7 @@
   {
     "ship_id": "3764270928", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/104918-"
+    "url": "https://forum.worldofwarships.ru/topic/104491-"
   }, 
   {
     "ship_id": "4292818736", 
@@ -2470,7 +2624,7 @@
   {
     "ship_id": "4184815408", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/72606-"
+    "url": "https://forum.worldofwarships.ru/topic/66138-"
   }, 
   {
     "ship_id": "4183766832", 
@@ -2485,7 +2639,7 @@
   {
     "ship_id": "4181669680", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/64655-"
+    "url": "https://forum.worldofwarships.ru/topic/62836-"
   }, 
   {
     "ship_id": "4180621104", 
@@ -2560,7 +2714,7 @@
   {
     "ship_id": "4179539760", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/411-hindenburg/"
+    "url": "https://forum.worldofwarships.ru/topic/35906-"
   }, 
   {
     "ship_id": "3768497968", 
@@ -2585,7 +2739,7 @@
   {
     "ship_id": "3340678960", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/411-hindenburg/"
+    "url": "https://forum.worldofwarships.ru/topic/35906-"
   }, 
   {
     "ship_id": "4187895600", 
@@ -2600,7 +2754,7 @@
   {
     "ship_id": "4185798448", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83916-"
+    "url": "https://forum.worldofwarships.ru/topic/75080-"
   }, 
   {
     "ship_id": "4184749872", 
@@ -2620,7 +2774,7 @@
   {
     "ship_id": "4181604144", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/90283-"
+    "url": "https://forum.worldofwarships.ru/topic/75082-"
   }, 
   {
     "ship_id": "4180555568", 
@@ -2630,7 +2784,12 @@
   {
     "ship_id": "4179506992", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/78881-"
+    "url": "https://forum.worldofwarships.ru/topic/75084-"
+  }, 
+  {
+    "ship_id": "3764270896", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/114383-"
   }, 
   {
     "ship_id": "3762173744", 
@@ -2650,12 +2809,12 @@
   {
     "ship_id": "3764303600", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/86198-"
+    "url": "https://forum.worldofwarships.ru/topic/85392-"
   }, 
   {
     "ship_id": "3763255024", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/109977-"
+    "url": "https://forum.worldofwarships.ru/topic/109554-"
   }, 
   {
     "ship_id": "4292851408", 
@@ -2690,7 +2849,7 @@
   {
     "ship_id": "4277122768", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/424-hakuryu/"
+    "url": "https://forum.worldofwarships.ru/topic/39880-"
   }, 
   {
     "ship_id": "3763320528", 
@@ -2700,7 +2859,7 @@
   {
     "ship_id": "3333404368", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/424-hakuryu/"
+    "url": "https://forum.worldofwarships.ru/topic/39880-"
   }, 
   {
     "ship_id": "4293867216", 
@@ -2745,7 +2904,7 @@
   {
     "ship_id": "4276041424", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/419-yamato/"
+    "url": "https://forum.worldofwarships.ru/topic/51992-"
   }, 
   {
     "ship_id": "4272895696", 
@@ -2810,7 +2969,7 @@
   {
     "ship_id": "3332323024", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/419-yamato/"
+    "url": "https://forum.worldofwarships.ru/topic/51992-"
   }, 
   {
     "ship_id": "4290688720", 
@@ -2835,7 +2994,7 @@
   {
     "ship_id": "4285445840", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/21938-"
+    "url": "https://forum.worldofwarships.ru/topic/113165-"
   }, 
   {
     "ship_id": "4282300112", 
@@ -2860,7 +3019,7 @@
   {
     "ship_id": "4259231440", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/407-zao/"
+    "url": "https://forum.worldofwarships.ru/topic/19646-"
   }, 
   {
     "ship_id": "4258182864", 
@@ -2935,7 +3094,7 @@
   {
     "ship_id": "3315513040", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/407-zao/"
+    "url": "https://forum.worldofwarships.ru/topic/19646-"
   }, 
   {
     "ship_id": "4293801680", 
@@ -2980,7 +3139,7 @@
   {
     "ship_id": "4282267344", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/413-shimakaze/"
+    "url": "https://forum.worldofwarships.ru/topic/54188-"
   }, 
   {
     "ship_id": "4280170192", 
@@ -3070,7 +3229,7 @@
   {
     "ship_id": "3338548944", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/413-shimakaze/"
+    "url": "https://forum.worldofwarships.ru/topic/54188-"
   }, 
   {
     "ship_id": "4293866960", 
@@ -3150,7 +3309,7 @@
   {
     "ship_id": "4179539408", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/410-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/"
+    "url": "https://forum.worldofwarships.ru/topic/62244-"
   }, 
   {
     "ship_id": "3767449040", 
@@ -3178,6 +3337,11 @@
     "url": "https://forum.worldofwarships.ru/topic/110817-"
   }, 
   {
+    "ship_id": "3760109008", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/115133-"
+  }, 
+  {
     "ship_id": "3756963280", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/109286-"
@@ -3190,12 +3354,12 @@
   {
     "ship_id": "3340678608", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/410-%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0/"
+    "url": "https://forum.worldofwarships.ru/topic/62244-"
   }, 
   {
     "ship_id": "4293801424", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83968-"
+    "url": "https://forum.worldofwarships.ru/topic/18952-"
   }, 
   {
     "ship_id": "4187895248", 
@@ -3205,77 +3369,77 @@
   {
     "ship_id": "4186846672", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83102-"
+    "url": "https://forum.worldofwarships.ru/topic/32945-"
   }, 
   {
     "ship_id": "4185798096", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83806-"
+    "url": "https://forum.worldofwarships.ru/topic/32946-"
   }, 
   {
     "ship_id": "4184749520", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/84248-"
+    "url": "https://forum.worldofwarships.ru/topic/32947-"
   }, 
   {
     "ship_id": "4183700944", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/82047-"
+    "url": "https://forum.worldofwarships.ru/topic/32949-"
   }, 
   {
     "ship_id": "4182652368", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83306-"
+    "url": "https://forum.worldofwarships.ru/topic/49467-"
   }, 
   {
     "ship_id": "4181603792", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83839-"
+    "url": "https://forum.worldofwarships.ru/topic/39527-"
   }, 
   {
     "ship_id": "4180555216", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83067-"
+    "url": "https://forum.worldofwarships.ru/topic/32951-"
   }, 
   {
     "ship_id": "4179506640", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/415-%D1%85%D0%B0%D0%B1%D0%B0%D1%80%D0%BE%D0%B2%D1%81%D0%BA/"
+    "url": "https://forum.worldofwarships.ru/topic/49314-"
   }, 
   {
     "ship_id": "4079891920", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83445-"
+    "url": "https://forum.worldofwarships.ru/topic/81694-"
   }, 
   {
     "ship_id": "4078843344", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/84248-"
+    "url": "https://forum.worldofwarships.ru/topic/32947-"
   }, 
   {
     "ship_id": "4077794768", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83570-"
+    "url": "https://forum.worldofwarships.ru/topic/81695-"
   }, 
   {
     "ship_id": "4076746192", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/82047-"
+    "url": "https://forum.worldofwarships.ru/topic/32949-"
   }, 
   {
     "ship_id": "4074649040", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/416-%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9/"
+    "url": "https://forum.worldofwarships.ru/topic/110800-"
   }, 
   {
     "ship_id": "3971888592", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83067-"
+    "url": "https://forum.worldofwarships.ru/topic/32951-"
   }, 
   {
     "ship_id": "3865982416", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/83839-"
+    "url": "https://forum.worldofwarships.ru/topic/39527-"
   }, 
   {
     "ship_id": "3765319120", 
@@ -3290,7 +3454,7 @@
   {
     "ship_id": "3340645840", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/416-%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D0%B2%D0%BE%D0%B9/"
+    "url": "https://forum.worldofwarships.ru/topic/110800-"
   }, 
   {
     "ship_id": "3764303216", 
@@ -3300,7 +3464,12 @@
   {
     "ship_id": "3767416176", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/101108-"
+    "url": "https://forum.worldofwarships.ru/topic/100777-"
+  }, 
+  {
+    "ship_id": "3763221872", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/113149-"
   }, 
   {
     "ship_id": "3769513264", 
@@ -3308,9 +3477,24 @@
     "url": "https://forum.worldofwarships.ru/topic/73717-"
   }, 
   {
+    "ship_id": "3448747280", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/37934-"
+  }, 
+  {
     "ship_id": "4288591120", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
     "url": "https://forum.worldofwarships.ru/topic/105599-"
+  }, 
+  {
+    "ship_id": "3767448848", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/57880-"
+  }, 
+  {
+    "ship_id": "3439605008", 
+    "title": "\u0424\u043e\u0440\u0443\u043c", 
+    "url": "https://forum.worldofwarships.ru/topic/33631-"
   }, 
   {
     "ship_id": "4188976336", 
@@ -3320,7 +3504,7 @@
   {
     "ship_id": "3764303056", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/topic/100511-"
+    "url": "https://forum.worldofwarships.ru/topic/100266-"
   }, 
   {
     "ship_id": "4187894992", 
@@ -3365,7 +3549,7 @@
   {
     "ship_id": "4179506384", 
     "title": "\u0424\u043e\u0440\u0443\u043c", 
-    "url": "https://forum.worldofwarships.ru/forum/418-yueyang/"
+    "url": "https://forum.worldofwarships.ru/topic/100162-"
   }, 
   {
     "ship_id": "3764270288", 
@@ -3380,7 +3564,7 @@
   {
     "ship_id": "3668883440", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Boise%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Disabled%3A%20Boise%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4284430032", 
@@ -3528,6 +3712,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hiryu%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4179507152", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Daring%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "4269028624", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Aronia%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -3573,6 +3762,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Nicholas%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "3767448848", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%9A%D0%BE%D1%80%D0%B0%D0%B1%D0%BB%D1%8C%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "4286461936", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Benson%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -3591,6 +3785,11 @@
     "ship_id": "3452843728", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Isokaze%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "4290655952", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Minekaze%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3457070800", 
@@ -3616,6 +3815,11 @@
     "ship_id": "4179572688", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Conqueror%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3445536592", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Brennus%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3332323024", 
@@ -3813,9 +4017,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%A1%D1%82%D0%B0%D0%BB%D0%B8%D0%BD%D0%B3%D1%80%D0%B0%D0%B4%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4288952304", 
+    "ship_id": "4181603792", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=St.%20Clair%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82%20%28OLD%29%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4292818192", 
@@ -3973,6 +4177,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Intania%20Queen%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4180555728", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Jutland%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "4282365648", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Shokaku%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -3988,6 +4197,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Yamato%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "3764336432", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=P.%20E.%20Friedrich%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "3247355600", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PJSC999%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -3998,9 +4212,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=New%20Mexico%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4288657392", 
+    "ship_id": "3764270928", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Independence%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Aigle%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4277090288", 
@@ -4028,9 +4242,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Alsace%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4290655952", 
+    "ship_id": "3751753552", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Minekaze%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Jean%20Bart%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3453957840", 
@@ -4061,6 +4275,11 @@
     "ship_id": "3762173136", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Loyang%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3439605008", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Bogue%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3767482160", 
@@ -4118,6 +4337,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Alabama%20ST%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4185798608", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Wakeful%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "3416176336", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hashidate%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -4141,6 +4365,11 @@
     "ship_id": "3763320528", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kaga%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "4292785616", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%94%D0%B8%D0%B0%D0%BD%D0%B0%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4074649040", 
@@ -4193,6 +4422,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%5BMontana%5D%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4186847184", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Valkyrie%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "4288624336", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Fuso%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -4223,9 +4457,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=John%20Cattling%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4181603792", 
+    "ship_id": "4288952304", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%A2%D0%B0%D1%88%D0%BA%D0%B5%D0%BD%D1%82%20%28OLD%29%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=St.%20Clair%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4075730928", 
@@ -4236,6 +4470,11 @@
     "ship_id": "3346282480", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cimarron%20Test%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3763221872", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Haida%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4282333168", 
@@ -4423,9 +4662,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Monaghan%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4292785616", 
+    "ship_id": "4184750032", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%94%D0%B8%D0%B0%D0%BD%D0%B0%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Acasta%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4289607376", 
@@ -4441,6 +4680,11 @@
     "ship_id": "4181669712", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Richelieu%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3760142160", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PFSB510%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4293145872", 
@@ -4470,7 +4714,7 @@
   {
     "ship_id": "3763222480", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Cossack%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PBSD507%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3751753712", 
@@ -4478,9 +4722,24 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Massachusetts%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4074649296", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Harugumo%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "4293834544", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Hermelin%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "4065212112", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kitakaze%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3763254608", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Nueve%20de%C2%A0Julio%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3453925360", 
@@ -4523,9 +4782,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Perth%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4290721040", 
+    "ship_id": "4268635856", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Magnu-S%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kamikaze%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3343824880", 
@@ -4601,6 +4860,11 @@
     "ship_id": "4187928016", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%9D%D0%BE%D0%B2%D0%B8%D0%BA%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3762173776", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PFSD508%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4291770064", 
@@ -4748,11 +5012,6 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%9A%D1%80%D0%B0%D1%81%D0%BD%D1%8B%D0%B9%20%D0%9A%D1%80%D1%8B%D0%BC%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "4268635856", 
-    "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kamikaze%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
-  }, 
-  {
     "ship_id": "4078843344", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%93%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -4796,6 +5055,11 @@
     "ship_id": "4184749520", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%93%D0%BD%D0%B5%D0%B2%D0%BD%D1%8B%D0%B9%20%28OLD%29%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "3448747280", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Ranger%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "3554555600", 
@@ -4888,6 +5152,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Graf%20Spee%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4290721040", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Magnu-S%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "3450779632", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Erie%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -4943,6 +5212,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Schnellboot%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "3760109552", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=IDS_PASC510%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "3767449040", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=%D0%9E%D0%BB%D0%B5%D0%B3%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -4983,6 +5257,11 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Black%20Swan%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
+    "ship_id": "4182652880", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Jervis%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
     "ship_id": "3558094544", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=ARP%20I-401%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
@@ -4991,6 +5270,11 @@
     "ship_id": "3762173936", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Kidd%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "4181604304", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Lightning%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4076746448", 
@@ -5011,6 +5295,11 @@
     "ship_id": "4183701296", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Gaede%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "4183701456", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Icarus%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4286494416", 
@@ -5243,9 +5532,9 @@
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Iowa%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
-    "ship_id": "3764270928", 
+    "ship_id": "4288657392", 
     "title": "YouTube search", 
-    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Aigle%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Independence%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }, 
   {
     "ship_id": "4277122768", 
@@ -5271,5 +5560,10 @@
     "ship_id": "4186879824", 
     "title": "YouTube search", 
     "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Friant%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
+  }, 
+  {
+    "ship_id": "4187895760", 
+    "title": "YouTube search", 
+    "url": "https://www.youtube.com/results?search_sort=video_date_uploaded&search_query=Medea%20wows%20%D0%BE%D0%B1%D0%B7%D0%BE%D1%80"
   }
 ]

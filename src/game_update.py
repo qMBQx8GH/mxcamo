@@ -1,7 +1,12 @@
 # -*- coding: utf-8 -*-
 import subprocess
+from shutil import copyfile
 
 python = 'C:\\Python27\\python.exe'
+
+copyfile('C:\\src\\mxstat\\db\\ship.json', 'db\\ship.json')
+copyfile('C:\\src\\mxstat\\res\\texts\\en\\LC_MESSAGES\\global.mo', 'res\\texts\\en\\LC_MESSAGES\\global.mo')
+copyfile('C:\\src\\mxstat\\res\\texts\\ru\\LC_MESSAGES\\global.mo', 'res\\texts\\ru\\LC_MESSAGES\\global.mo')
 
 res = subprocess.run(
     [python, 'parser.py'],
