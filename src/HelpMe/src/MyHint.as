@@ -26,39 +26,63 @@ package {
 		{
 			this.graphics.lineStyle(1, 0xfbc62c);
 			var width:int = 68;
+			var left:int = this.getLeftPadding() + (this.getIconSize() + this.getColumnSpace()) * col;
 			this.graphics.drawRoundRect(
-				this.getLeftOffset() + this.getColumnStep() * col - width / 2,
-				this.getTopOffset() + this.getRowStep() * row - width / 2,
-				width, width, 6
+				left,
+				this.getTopOffset() + this.getRowStep() * row,
+				this.getIconSize(), this.getIconSize(), 6
 			);
 			this.graphics.moveTo(
-				this.getLeftOffset() + this.getColumnStep() * col + width / 2,
-				this.getTopOffset() + this.getRowStep() * row - width / 2 + 3
+				left + this.getIconSize(),
+				this.getTopOffset() + this.getRowStep() * row + 3
 			);
 			this.graphics.lineTo(
-				this.getLeftOffset() + this.getColumnStep() * col + width / 2,
-				this.getTopOffset() + this.getRowStep() * row + width / 2 - 3
+				left + this.getIconSize(),
+				this.getTopOffset() + this.getRowStep() * row + this.getIconSize() - 3
 			);
 		}
 
-		public function getLeftOffset():int
+		public function getWidth():int
 		{
-			return 50;
+			if (this._stageWidth < 1400) {
+				return 535;
+			} else {
+				return 500;
+			}
+		}
+		
+		public function getIconSize():int
+		{
+			return 74;
+		}
+
+		public function getRightPadding():int
+		{
+			return 20;
+		}
+
+		public function getLeftPadding():int
+		{
+			return 20;
+		}
+
+		public function getColumnSpace():int
+		{
+			return (this.getWidth() - this.getLeftPadding() - this.getRightPadding() - this.getIconSize() * 6) / 5;
 		}
 
 		public function getTopOffset():int
 		{
-			return 230;
-		}
-
-		public function getColumnStep():int
-		{
-			return 80;
+			if (this._stageWidth < 1400) {
+				return 208;
+			} else {
+				return 194;
+			}
 		}
 
 		public function getRowStep():int
 		{
-			return 80;
+			return 86;
 		}
 	}
 }//package 
