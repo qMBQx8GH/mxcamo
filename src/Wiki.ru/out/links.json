@@ -210,6 +210,16 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Arizona"
   }, 
   {
+    "id_str": "PASB507", 
+    "nation": "usa", 
+    "ship_id": "3763288048", 
+    "ship_name": "W. Virginia 1941", 
+    "tier": 6, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/ru/Ship:W.%20Virginia%201941"
+  }, 
+  {
     "id_str": "PASB508", 
     "nation": "usa", 
     "ship_id": "3762239472", 
@@ -490,6 +500,16 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Worcester"
   }, 
   {
+    "id_str": "PASC503", 
+    "nation": "usa", 
+    "ship_id": "3767449584", 
+    "ship_name": "Charleston", 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Charleston"
+  }, 
+  {
     "id_str": "PASC507", 
     "nation": "usa", 
     "ship_id": "3763255280", 
@@ -500,24 +520,34 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Indianapolis"
   }, 
   {
+    "id_str": "PASC508", 
+    "nation": "usa", 
+    "ship_id": "3762206704", 
+    "ship_name": "Wichita", 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Cruiser", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Wichita"
+  }, 
+  {
     "id_str": "PASC510", 
     "nation": "usa", 
     "ship_id": "3760109552", 
-    "ship_name": "IDS_PASC510", 
+    "ship_name": "Alaska", 
     "tier": 9, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PASC510"
+    "url": "http://wiki.wargaming.net/ru/Ship:Alaska"
   }, 
   {
     "id_str": "PASC597", 
     "nation": "usa", 
     "ship_id": "3668883440", 
-    "ship_name": "Disabled: Boise", 
+    "ship_name": "Boise", 
     "tier": 7, 
     "title": "Wiki", 
     "type": "Cruiser", 
-    "url": "http://wiki.wargaming.net/ru/Ship:Disabled%3A%20Boise"
+    "url": "http://wiki.wargaming.net/ru/Ship:Boise"
   }, 
   {
     "id_str": "PASC707", 
@@ -810,6 +840,16 @@
     "url": "http://wiki.wargaming.net/ru/Ship:Conqueror"
   }, 
   {
+    "id_str": "PBSB503", 
+    "nation": "uk", 
+    "ship_id": "3767482320", 
+    "ship_name": "Dreadnought", 
+    "tier": 3, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Dreadnought"
+  }, 
+  {
     "id_str": "PBSB507", 
     "nation": "uk", 
     "ship_id": "3763288016", 
@@ -818,6 +858,16 @@
     "title": "Wiki", 
     "type": "Battleship", 
     "url": "http://wiki.wargaming.net/ru/Ship:Hood"
+  }, 
+  {
+    "id_str": "PBSB508", 
+    "nation": "uk", 
+    "ship_id": "3762239440", 
+    "ship_name": "Vanguard", 
+    "tier": 8, 
+    "title": "Wiki", 
+    "type": "Battleship", 
+    "url": "http://wiki.wargaming.net/ru/Ship:Vanguard"
   }, 
   {
     "id_str": "PBSB517", 
@@ -1193,11 +1243,11 @@
     "id_str": "PFSB510", 
     "nation": "france", 
     "ship_id": "3760142160", 
-    "ship_name": "IDS_PFSB510", 
+    "ship_name": "Bourgogne", 
     "tier": 10, 
     "title": "Wiki", 
     "type": "Battleship", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PFSB510"
+    "url": "http://wiki.wargaming.net/ru/Ship:Bourgogne"
   }, 
   {
     "id_str": "PFSB518", 
@@ -1343,11 +1393,11 @@
     "id_str": "PFSD508", 
     "nation": "france", 
     "ship_id": "3762173776", 
-    "ship_name": "IDS_PFSD508", 
+    "ship_name": "Le Terrible", 
     "tier": 8, 
     "title": "Wiki", 
     "type": "Destroyer", 
-    "url": "http://wiki.wargaming.net/ru/Ship:IDS_PFSD508"
+    "url": "http://wiki.wargaming.net/ru/Ship:Le%20Terrible"
   }, 
   {
     "id_str": "PFSD605", 
