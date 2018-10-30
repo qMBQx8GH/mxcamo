@@ -134,6 +134,29 @@
               "title": "&5. Германия"
             }
           ]
+        },
+        {
+          "id": "HelpMe.showPerkMenu_Event2017",
+          "title": "&5. Helloween 2017",
+          "itemsTitle": "Helloween 2017",
+          "items": [
+            {
+              "id": "HelpMe.showPerkMenuCV_Event2017",
+              "title": "&1. Авианосец"
+            },
+            {
+              "id": "HelpMe.showPerkMenuBB_Event2017",
+              "title": "&2. Линкор"
+            },
+            {
+              "id": "HelpMe.showPerkMenuCA_Event2017",
+              "title": "&3. Крейсер"
+            },
+            {
+              "id": "HelpMe.showPerkMenuDD_Event2017",
+              "title": "&4. Эсминец"
+            }
+          ]
         }
       ]
     },
@@ -145,5 +168,5 @@
       "items": [
       ]
     }
-]
+  ]
 }
