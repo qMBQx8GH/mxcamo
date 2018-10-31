@@ -157,6 +157,10 @@
               "title": "&4. Destroyer"
             }
           ]
+        },
+        {
+          "id": "HelpMe.showPerkMenu_Event2018",
+          "title": "&6. Helloween 2018"
         }
       ]
     }

@@ -157,6 +157,10 @@
               "title": "&4. Эсминец"
             }
           ]
+        },
+        {
+          "id": "HelpMe.showPerkMenu_Event2018",
+          "title": "&6. Helloween 2018"
         }
       ]
     },
@@ -165,8 +169,7 @@
       "title": "&3. Ссылки",
       "itemsTitle": "Ссылки",
       "links": true,
-      "items": [
-      ]
+      "items": []
     }
   ]
 }
