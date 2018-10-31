@@ -81,7 +81,7 @@ class HelpMe:
                 self.menu.showFlashMenu(self.currentId, False)
                 newMenu = self.menu.getById(newId)
                 if newMenu and 'links' in newMenu and newMenu['links']:
-                    newId = self.getCurrentShipId()
+                    newId = str(dock.getActiveShipId())
                     self.links.createFlashLinks(newId)
                 self.currentId = newId
                 self.menu.showFlashMenu(self.currentId, True)
@@ -90,7 +90,7 @@ class HelpMe:
         self.menu.showFlashMenu(self.currentId, False)
         newMenu = self.menu.getById(newId)
         if newMenu and 'links' in newMenu and newMenu['links']:
-            newId = self.getCurrentShipId()
+            newId = str(dock.getActiveShipId())
             self.links.createFlashLinks(newId)
         self.currentId = newId
         self.menu.showFlashMenu(self.currentId, True)
@@ -99,24 +99,5 @@ class HelpMe:
         self.menu.showFlashMenu(self.currentId, False)
         self.onFlashReady(MOD_NAME)
         self.menu.showFlashMenu(self.currentId, True)
-
-    def xmlCut(self, str, tag):
-        result = ''
-        open_tag_start = str.find('<' + tag)
-        if open_tag_start >= 0:
-            open_tag_end = str.find('>', open_tag_start)
-            if open_tag_end >= 0:
-                end_tag_start = str.find('</' + tag, open_tag_end)
-                if end_tag_start >= 0:
-                    result = str[open_tag_end + 1:end_tag_start]
-        return result
-
-    def getCurrentShipId(self):
-        with open(utils.getModDir() + '\\..\\..\\..\\..\\preferences.xml', 'r') as prefsFile:
-            prefsData = prefsFile.read()
-            lobby_values = self.xmlCut(prefsData, 'lobby_values')
-            ship = self.xmlCut(lobby_values, 'ship')
-            return ship.strip()
-        return ''
 
 g_HelpMe = HelpMe()
