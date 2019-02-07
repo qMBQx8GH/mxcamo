@@ -9,6 +9,10 @@
       "itemsTitle": "Signal flags",
       "items": [
         {
+          "id": "HelpMe.showFlagHintCV",
+          "title": "&1. Aircraft carrier"
+        },
+        {
           "id": "HelpMe.showFlagHintBB",
           "title": "&2. Battleship"
         },

@@ -9,6 +9,10 @@
       "itemsTitle": "Сигнальные флаги",
       "items": [
         {
+          "id": "HelpMe.showFlagHintCV",
+          "title": "&1. Авианосец"
+        },
+        {
           "id": "HelpMe.showFlagHintBB",
           "title": "&2. Линкор"
         },
