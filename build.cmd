@@ -13,8 +13,6 @@ for /f "tokens=2 delims=/" %%i in ('findstr /r "<Path>res_mods" C:\games\World_o
 SET VERS=%PATHS:~0,-1%
 echo %VERS%
 
-C:\Python36\python make_icons.py
-
 rmdir /s /q dist 
 mkdir dist
 cd dist

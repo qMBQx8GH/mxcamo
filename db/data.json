@@ -1,5 +1,7 @@
 {
   "PAEP001_Dallas_AmericanArc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -44,6 +46,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP002_Helena_AmericanArc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -88,6 +92,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP003_Cleveland_AmericanArc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -132,6 +138,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP004_Seatle_AmericanArc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -176,6 +184,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP005_Worchester_AmericanArc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -220,6 +230,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP306_Arizona": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -264,6 +276,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP307_Texas": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -314,6 +328,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP308_New_York_1934": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -358,6 +374,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP309_New_York_Scull": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -402,6 +420,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP312_North_Carolina_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -446,6 +466,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP313_Arkansas_1912": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -490,6 +512,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP314_Texas_Lone_star": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -534,6 +558,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP318_Iowa_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -578,6 +604,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP319_Alabama": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -622,6 +650,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP320_Alabama_ST": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -666,6 +696,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP403_Albany_1898": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -710,6 +742,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP406_Atlanta_1942": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -754,6 +788,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP407_Cleveland_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -798,6 +834,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP408_Flint": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -842,6 +880,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP409_Cleveland_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -886,6 +926,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP414_New_Orlean_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -930,6 +972,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP444_Marblehead_1924": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -974,6 +1018,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP445_Marblehead_1924_Asus": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1018,6 +1064,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP502_Smith": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1062,6 +1110,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP507_MONAGAN": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1106,6 +1156,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP508_Benson_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1150,6 +1202,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP509_Black": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1194,6 +1248,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP521_Fletcher_1943": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1238,6 +1294,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP529_Sims_1941": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1282,6 +1340,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP602_Albany_Military_Veteran": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1326,6 +1386,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP605_Texas_Twitch_Prime": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1370,6 +1432,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP907_Mustang": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1414,6 +1478,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PAEP909_Crocodile": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1458,6 +1524,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP108_Lightning_British": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1502,6 +1570,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP109_Jutland_British": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1546,6 +1616,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP110_Daring_British": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1590,6 +1662,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP302_Warspite_1941": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1634,6 +1708,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP307_Hood_Permo_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1678,6 +1754,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP347_Duke_of_York_Mediterra": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1722,6 +1800,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP348_Duke_of_York_Tropics": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1766,6 +1846,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP503_Campbeltown": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1810,6 +1892,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP506_Gallant_British": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1854,6 +1938,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PBEP517_Cossack_British": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1897,7 +1983,55 @@
     "visibilityFactorByPlane": 1.0,
     "visibilityFactorInSmoke": 1.0
   },
+  "PBEP518_Implacable_CVArc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMaxDist": 1.0,
+    "GSShotDelay": 1.0,
+    "PMDetonationProb": 1.0,
+    "abilReloadTimeFactor": 1.0,
+    "afterBattleRepair": 0.9,
+    "burnChanceFactorBig": 1.0,
+    "burnChanceFactorSmall": 1.0,
+    "burnTime": 1.0,
+    "camouflage": "camo_collectionUK_01",
+    "canBuy": false,
+    "canBuyCustom": {},
+    "canCharge": false,
+    "canSell": false,
+    "collisionDamageApply": 1.0,
+    "collisionDamageNerf": 1.0,
+    "costCR": -1,
+    "costGold": 3000,
+    "creditsFactor": 1.0,
+    "crewExpFactor": 1.0,
+    "expFactor": 1.5,
+    "floodChanceFactor": 1.0,
+    "floodTime": 1.0,
+    "freeExpFactor": 1.0,
+    "healthPerLevel": 0,
+    "hidden": true,
+    "hiddenCustom": {},
+    "id": 3751309264,
+    "index": "PBEP518",
+    "name": "PBEP518_Implacable_CVArc",
+    "regenerationHPSpeed": 1.0,
+    "shootShift": 1.04,
+    "sortOrder": 2147483647,
+    "speedCoef": 1.0,
+    "typeinfo": {
+      "nation": "United_Kingdom",
+      "species": "Permoflage",
+      "type": "Exterior"
+    },
+    "visibilityFactor": 0.97,
+    "visibilityFactorByPlane": 1.0,
+    "visibilityFactorInSmoke": 1.0
+  },
   "PCEC001_Camo_1": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1942,6 +2076,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC002_Camo_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -1986,6 +2122,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC003_Camo_Halloween": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2030,6 +2168,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC004_Camo_XP_Boost": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2074,6 +2214,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC005_Camo_NY_3": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2118,6 +2260,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC006_Tile_Supertest": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2162,6 +2306,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC007_Camo_3_Tile_Double": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2206,6 +2352,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC008_Camo_Eco_Tile": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2250,6 +2398,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC009_Camo_Basketball_Tile_1": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2294,6 +2444,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC010_Camo_Basketball_Tile_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2338,6 +2490,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC011_Camo_Basketball_Tile_3": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2382,6 +2536,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC012_Camo_Basketball_Tile_4": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2426,6 +2582,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC013_Camo_MGT": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2470,6 +2628,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC014_Camo_GNB_May_2016": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2514,6 +2674,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC015_Camo_CN_Special": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2558,6 +2720,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC016_Camo_Gamescom_2016": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2602,6 +2766,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC017_Camo_wows_birthday_tile": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2646,6 +2812,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC018_Restless_Fire": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2690,6 +2858,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC019_Camo_Halloween_16": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2734,6 +2904,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC020_Camo_New_Year_17": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2778,6 +2950,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC021_Valentine_Tile": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2822,6 +2996,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC022_Camo_Arirang": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2866,6 +3042,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC023_Camo_St_Patrick": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2910,6 +3088,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC024_Battle_Hardened": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2954,6 +3134,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC025_CoE_Team_Water": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -2998,6 +3180,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC026_CoE_Team_Fire": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3042,6 +3226,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC027_Players_Birthday": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3086,6 +3272,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC028_Hunt": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3130,6 +3318,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC029_Sparks_of_Victory": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3174,6 +3364,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC030_Blue_Lagoon": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3218,6 +3410,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC031_Deserved_ST": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3262,6 +3456,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC032_navy_day": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3306,6 +3502,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC033_commander_day": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3350,6 +3548,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC034_Sci_Fi_Space": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3394,6 +3594,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC035_Back2School": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3438,6 +3640,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC036_Tokyo_Game_Show": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3482,6 +3686,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC037_Twitch_Prime": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3526,6 +3732,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC038_ASUS_camo": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3570,6 +3778,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC039_GIGABYTE_camo": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3614,6 +3824,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC040_NVIDIA_camo": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3658,6 +3870,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC041_MSI_camo": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3702,6 +3916,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC042_Super_ECO_camo": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3746,6 +3962,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC043_Camo_New_Year_18": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3790,6 +4008,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC044_Steam_Camo": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3834,6 +4054,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC045_Vive_la_France": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3878,6 +4100,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC049_Dragon_1": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3922,6 +4146,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC050_Dragon_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -3966,6 +4192,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC051_Dragon_3": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4010,6 +4238,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC052_Womens_Day": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4054,6 +4284,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC053_Pi_Day": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4098,6 +4330,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC054_Humble_Bundle": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4142,6 +4376,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC055_Contributor": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4186,6 +4422,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC056_Contributor_Followers": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4230,6 +4468,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC057_AzurLane": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4274,6 +4514,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC058_American_Arc": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4318,6 +4560,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC059_RvR_Shark": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4362,6 +4606,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC060_RvR_Eagle": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4406,6 +4652,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC061_Camo_Gamescom_2018": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4450,6 +4698,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC062_British_Flag": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4494,6 +4744,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC063_Ovechkin": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4538,6 +4790,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC064_Dmm": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4582,6 +4836,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC065_WGFest_2018": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4626,6 +4882,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC066_BlackFriday": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4670,6 +4928,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC067_Cornucopia": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4714,6 +4974,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC068_NY2019": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4758,6 +5020,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEC069_LunarNewYear": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4802,6 +5066,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP103_Permo_Prem_Low_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4846,6 +5112,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP107_Permo_Prem_High_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4890,6 +5158,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP108_Permo_Prem_High_lvl_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4934,6 +5204,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP109_Permo_Prem_9_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -4978,6 +5250,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP115_Permo_Upgr_5_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5022,6 +5296,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP116_Permo_Upgr_6_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5066,6 +5342,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP117_Permo_Upgr_7_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5110,6 +5388,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP118_Permo_Upgr_8_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5154,6 +5434,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP119_Permo_Upgr_9_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5198,6 +5480,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP120_Permo_Upgr_10_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5242,6 +5526,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP128_Permo_Upgr_8_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5286,6 +5572,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP129_Permo_Upgr_9_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5330,6 +5618,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP139_Permo_Prem_9_lvl": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5374,6 +5664,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP301_Permo_NY": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5418,6 +5710,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP302_Permo_NY_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5462,6 +5756,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP303_Permo_NY_2_CN": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5506,6 +5802,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP304_Permo_NY_2_CN_Red": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5550,6 +5848,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP305_Permo_Emerald_Edition": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5594,6 +5894,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP306_Birthday_2017": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5638,6 +5940,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP307_Liberty": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5682,6 +5986,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP308_Cimarron": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5726,6 +6032,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP309_Permo_NY_3": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5770,6 +6078,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PCEP310_Permo_NY_4": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5814,6 +6124,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PFEP306_Dunkerque_1940": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5858,6 +6170,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PFEP401_Gascogne_Battle": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5902,6 +6216,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP302_Tirpiz_1942": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5946,6 +6262,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP303_Koenig_Albert": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -5990,6 +6308,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP304_Tirpiz_1942_2": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6034,6 +6354,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP305_Tirpiz_1942_CN_OB": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6078,6 +6400,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP306_Tirpiz_Norway": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6122,6 +6446,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP307_Tirpiz_1942_CN_forAll": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6166,6 +6492,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP402_Emden_1908": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6210,6 +6538,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP406_HSF_Graf_Spee": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6254,6 +6584,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP407_Yorck": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6298,6 +6630,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP408_Hipper": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6342,6 +6676,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP409_Roon": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6386,6 +6722,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP418_Prinz_Eugen": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6430,6 +6768,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP428_Prinz_Eugen": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6474,6 +6814,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP438_Graf_Zeppelin": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6518,6 +6860,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP507_Scharnhorst": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6562,6 +6906,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP508_Scharnhorst_CN_OB": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6606,6 +6952,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP509_Scharnhorst_Z_23": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6650,6 +6998,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP510_Scharnhorst_CN_forAll": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6694,6 +7044,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PGEP511_PrinzEitelFriedrich": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6738,6 +7090,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP111_Hiryu_1942": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6782,6 +7136,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP112_Zuikaku_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6826,6 +7182,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP308_Ishizuchi_1921": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6870,6 +7228,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP311_Mikasa_1905": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6914,6 +7274,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP313_Amagi_1942": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -6958,6 +7320,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP321_Izumo_1938": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7002,6 +7366,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP403_Katori": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7046,6 +7412,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP404_Yubari_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7090,6 +7458,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP408_Myoko_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7134,6 +7504,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP409_Mogami_1935": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7178,6 +7550,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP414_Kitakami_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7222,6 +7596,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP418_Tone": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7266,6 +7642,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP426_Iwaki_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7310,6 +7688,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP438_Atago_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7354,6 +7734,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP439_Atago_CN_OB": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7398,6 +7780,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP440_Atago_Battle": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7442,6 +7826,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP441_Atago_Tropics": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7486,6 +7872,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP442_Atago_CN_forAll": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7530,6 +7918,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP501_Tachibana_1912": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7574,6 +7964,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP504_Minekadze_1920": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7618,6 +8010,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP506_Hatsuharu_1945": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7662,6 +8056,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP507_Fubuki_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7706,6 +8102,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP508_HSF_Harekaze": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7750,6 +8148,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP514_Tachibana_1912_Asus": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7794,6 +8194,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP517_Kamikaze_1930": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7838,6 +8240,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP525_True_Kamikaze": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7882,6 +8286,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP526_Camo_Kamikaze": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7926,6 +8332,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PJEP626_CoE_Kamikaze_R": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -7970,6 +8378,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP301_Nikolay_I": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8014,6 +8424,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP401_Avrora_1917": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8058,6 +8470,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP402_Diana_1905": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8102,6 +8516,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP403_Murmansk_1944": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8146,6 +8562,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP405_KrasniKrym": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8190,6 +8608,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP406_Molotov": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8234,6 +8654,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP407_Schors": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8278,6 +8700,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP408_Kutuzov_1952": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8322,6 +8746,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP409_Dmitry_Donskoy": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8366,6 +8792,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP410_Diana_1905_Asus": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8410,6 +8838,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP411_Oktyabrskaya_Revolutsiya": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8454,6 +8884,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP412_STALINGRAD": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8498,6 +8930,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP501_Gremyashchy_1942": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8542,6 +8976,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP505_Pr_7_Gnevny": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8586,6 +9022,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP508_Pr_20i_Tashkent": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8630,6 +9068,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PREP509_Pr_48_Kiev": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8674,6 +9114,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PUEP507_HAIDA_CANADA": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8718,6 +9160,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PUEP517_Haida_Commonwealth": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8762,6 +9206,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PWEP501_Blyskawica": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8805,7 +9251,55 @@
     "visibilityFactorByPlane": 1.0,
     "visibilityFactorInSmoke": 1.0
   },
+  "PWEP502_Blyskawica_SZARZA": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMaxDist": 1.0,
+    "GSShotDelay": 1.0,
+    "PMDetonationProb": 1.0,
+    "abilReloadTimeFactor": 1.0,
+    "afterBattleRepair": 0.9,
+    "burnChanceFactorBig": 1.0,
+    "burnChanceFactorSmall": 1.0,
+    "burnTime": 1.0,
+    "camouflage": "Szarza_camo_contest_01",
+    "canBuy": false,
+    "canBuyCustom": {},
+    "canCharge": false,
+    "canSell": false,
+    "collisionDamageApply": 1.0,
+    "collisionDamageNerf": 1.0,
+    "costCR": -1,
+    "costGold": 2000,
+    "creditsFactor": 1.0,
+    "crewExpFactor": 1.0,
+    "expFactor": 1.5,
+    "floodChanceFactor": 1.0,
+    "floodTime": 1.0,
+    "freeExpFactor": 1.0,
+    "healthPerLevel": 0,
+    "hidden": true,
+    "hiddenCustom": {},
+    "id": 3768085808,
+    "index": "PWEP502",
+    "name": "PWEP502_Blyskawica_SZARZA",
+    "regenerationHPSpeed": 1.0,
+    "shootShift": 1.04,
+    "sortOrder": 2147483647,
+    "speedCoef": 1.0,
+    "typeinfo": {
+      "nation": "Poland",
+      "species": "Permoflage",
+      "type": "Exterior"
+    },
+    "visibilityFactor": 0.97,
+    "visibilityFactorByPlane": 1.0,
+    "visibilityFactorInSmoke": 1.0
+  },
   "PZEP506_Anshan": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
@@ -8850,6 +9344,8 @@
     "visibilityFactorInSmoke": 1.0
   },
   "PZEP508_LoYang": {
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
     "GSIdealRadius": 1.0,
     "GSMaxDist": 1.0,
     "GSShotDelay": 1.0,
