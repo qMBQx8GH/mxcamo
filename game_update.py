@@ -5,8 +5,11 @@ import json
 import requests
 import subprocess
 import xml.etree.ElementTree as ET
+import configparser
 
-path_to_game = 'C:\\Games\\World_of_Warships'
+config = configparser.ConfigParser()
+config.read('build.ini')
+path_to_game = config['Game']['folder']
 
 def mo_file(t, src, trg):
     files = [
