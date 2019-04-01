@@ -23,6 +23,21 @@
         "row": "0"
       },
       {
+        "type": "hint",
+        "col": "0",
+        "row": "1"
+      },
+      {
+        "type": "hint",
+        "col": "1",
+        "row": "1"
+      },
+      {
+        "type": "hint",
+        "col": "4",
+        "row": "1"
+      },
+      {
         "type": "credits",
         "col": "0",
         "row": "2"
