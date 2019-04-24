@@ -48,7 +48,7 @@ for /f "tokens=*" %%i in ('hg parent --template "{rev}"') do (
 echo %REV%
 
 set PATHS=
-for /f "tokens=2 delims=/" %%i in ('findstr /r "<Path>res_mods" %GAME_FOLDER%\paths.xml') do (
+for /f "tokens=3 delims=/" %%i in ('findstr /r "<Path>../res_mods" %GAME_FOLDER%\bin64\paths.xml') do (
   set PATHS=%%i
 )
 SET VERS=%PATHS:~0,-1%
