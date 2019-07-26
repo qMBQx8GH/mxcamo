@@ -53,12 +53,12 @@ package {
 		
 		public function getIconSize():int
 		{
-			return 74;
+			return 68;
 		}
 
 		public function getRightPadding():int
 		{
-			return 20;
+			return 10;
 		}
 
 		public function getLeftPadding():int
@@ -74,15 +74,15 @@ package {
 		public function getTopOffset():int
 		{
 			if (this._stageWidth < 1400) {
-				return 208;
+				return 213;
 			} else {
-				return 194;
+				return 199;
 			}
 		}
 
 		public function getRowStep():int
 		{
-			return 86;
+			return 70;
 		}
 	}
 }//package 

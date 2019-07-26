@@ -38,7 +38,7 @@ package {
 
 		public function getTopOffset():int
 		{
-			return 385;
+			return 370;
 		}
 
 		public function getColumnStep():int
