@@ -2,6 +2,7 @@ package org.qrcode
 {
 	import flash.display.BitmapData;
 	import flash.geom.Matrix;
+	import flash.geom.Rectangle;
 	
 
 	public class QRImage
@@ -15,11 +16,13 @@ package org.qrcode
 			var imgH:int = h + 2 * outerFrame;
 			
 			var image:BitmapData = new BitmapData(imgW , imgH , false,0xffffff);
+			var pixel:BitmapData = new BitmapData(1, 1, false, 0x000000);
 			
 			for(var y:int=0; y<h; y++) {
 				for(var x:int=0; x<w; x++) {
 					if (frame[y][x] == 1) {
-							image.setPixel(x+outerFrame,y+outerFrame,0x000000);
+							var rect:Rectangle = new Rectangle(x + outerFrame, y + outerFrame, 1, 1);
+							image.fillRect(rect, 0x000000);
 					}
 				}
 			}
