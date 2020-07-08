@@ -1392,9 +1392,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -1679,7 +1677,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -2108,7 +2106,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -5393,9 +5391,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -5536,9 +5532,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -5679,9 +5673,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -5822,9 +5814,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -6247,9 +6237,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -6390,9 +6378,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -6533,9 +6519,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -7810,9 +7794,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -7953,9 +7935,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -8097,7 +8077,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -8240,7 +8220,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -21186,6 +21166,140 @@
     "visionTorpedoCoeff": 1.0,
     "visionXRayShipCoeff": 1.0
   },
+  "PCEC095_ZumGefechtCamo": {
+    "AAExtraBubbles": 0,
+    "AANearDamage": 1.0,
+    "AAOuterDamage": 1.0,
+    "ADMaxHP": 1.0,
+    "GMCritProb": 1.0,
+    "GMIdealRadius": 1.0,
+    "GMMaxDist": 1.0,
+    "GMMaxHP": 1.0,
+    "GMRepairTime": 1.0,
+    "GMRotationSpeed": 1.0,
+    "GMShotDelay": 1.0,
+    "GMSigmaCount": 1.0,
+    "GSIdealRadius": 1.0,
+    "GSMaxDist": 1.0,
+    "GSMaxHP": 1.0,
+    "GSShotDelay": 1.0,
+    "GSSigmaCount": 1.0,
+    "GTCritProb": 1.0,
+    "GTMaxHP": 1.0,
+    "GTRepairTime": 1.0,
+    "GTRotationSpeed": 1.0,
+    "GTShotDelay": 1.0,
+    "InnerAADefenseDispExtraBubbles": 0,
+    "PMCritProb": 1.0,
+    "PMDetonationProb": 1.0,
+    "PMRepairTime": 1.0,
+    "SGCritProb": 1.0,
+    "SGRepairTime": 1.0,
+    "SGRudderTime": 1.0,
+    "abilReloadTimeFactor": 1.0,
+    "additionalConsumables": 0,
+    "afterBattleRepair": 1.0,
+    "airDefenseDispReloadMultiplier": 1.0,
+    "airDefenseDispWorkTime": 1.0,
+    "airplanesDiveBombersHealth": 1.0,
+    "airplanesEmptyReturnSpeed": 1.0,
+    "airplanesExtraHangarSize": 0,
+    "airplanesFighterAimingTime": 0,
+    "airplanesFightersHealth": 1.0,
+    "airplanesForsageDuration": 1.0,
+    "airplanesHealth": 1.0,
+    "airplanesSpawnTime": 1.0,
+    "airplanesSpeed": 1.0,
+    "airplanesTorpedoAimingTime": 0,
+    "airplanesTorpedoBombersHealth": 1.0,
+    "airplanesTorpedoSpeedMultiplier": 1.0,
+    "allConsumablesWorkTimeMultiplier": 1.0,
+    "burnChanceFactorBig": 1.0,
+    "burnChanceFactorSmall": 1.0,
+    "burnProb": 1.0,
+    "burnTime": 1.0,
+    "camouflage": "camo_GermanArc_2020_tile",
+    "canBuy": false,
+    "canBuyCustom": {},
+    "canCharge": false,
+    "canSell": true,
+    "collisionDamageApply": 1.0,
+    "collisionDamageNerf": 1.0,
+    "costCR": -1,
+    "costGold": 60,
+    "crashCrewWorkTime": 1.0,
+    "creditsFactor": 1.0,
+    "crewExpFactor": 1.0,
+    "damageCoeffGM": 1.0,
+    "damageCoeffTorpedo": 1.0,
+    "engineBackwardForsageMaxSpeed": 1.0,
+    "engineBackwardForsagePower": 1.0,
+    "engineBackwardUpTime": 1.0,
+    "engineCritProb": 1.0,
+    "engineForwardForsageMaxSpeed": 1.0,
+    "engineForwardForsagePower": 1.0,
+    "engineForwardUpTime": 1.0,
+    "engineRepairTime": 1.0,
+    "expFactor": 2.0,
+    "floodChanceFactor": 1.0,
+    "floodChanceFactorPlane": 1.0,
+    "floodProb": 1.0,
+    "floodTime": 1.0,
+    "freeExpFactor": 3.0,
+    "guaranteedTorpedoVisibilityDistance": 0,
+    "healthPerLevel": 0,
+    "hidden": true,
+    "hiddenCustom": {},
+    "hullHealthCoeff": 1.0,
+    "id": 4195282864,
+    "index": "PCEC095",
+    "invulnerableWorkTime": 1.0,
+    "name": "PCEC095_ZumGefechtCamo",
+    "parts": [
+      0,
+      1,
+      2
+    ],
+    "prioritySectorCooldownMultiplier": 1.0,
+    "regenerationHPSpeed": 1.0,
+    "regenerationPlaneRate": 1.0,
+    "rlsSearchWorkTime": 1.0,
+    "scoutWorkTime": 1.0,
+    "shipConsumablesWorkTimeMultiplier": 1.0,
+    "shootShift": 1.04,
+    "smokeGeneratorLifeTime": 1.0,
+    "smokeGeneratorWorkTime": 1.0,
+    "sonarSearchWorkTime": 1.0,
+    "sortOrder": 2147483647,
+    "speedBoosterWorkTime": 1.0,
+    "speedCoef": 1.0,
+    "squadronConsumablesWorkTimeMultiplier": 1.0,
+    "squadronVisibilityDistCoeff": 1.0,
+    "tags": [],
+    "torpedoRangeCoefficient": 1.0,
+    "torpedoSpeedBonus": 0,
+    "torpedoSpeedMultiplier": 1.0,
+    "trigger1SearchWorkTime": 1.0,
+    "trigger2SearchWorkTime": 1.0,
+    "trigger3SearchWorkTime": 1.0,
+    "trigger4SearchWorkTime": 1.0,
+    "trigger5SearchWorkTime": 1.0,
+    "trigger6SearchWorkTime": 1.0,
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    },
+    "uwCoeffBonus": 0,
+    "uwCoeffMultiplier": 1.0,
+    "visibilityDistCoeff": 1.0,
+    "visibilityFactor": 0.97,
+    "visibilityFactorByPlane": 1.0,
+    "visibilityFactorInSmoke": 1.0,
+    "visionDistCoeff": 1.0,
+    "visionTorpedoCoeff": 1.0,
+    "visionXRayShipCoeff": 1.0
+  },
   "PCEP103_Permo_Prem_Low_lvl": {
     "AAExtraBubbles": 0,
     "AANearDamage": 1.0,
@@ -23733,7 +23847,9 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [],
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -23874,7 +23990,9 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [],
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -24301,7 +24419,9 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [],
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -25580,7 +25700,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -25723,7 +25843,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -26006,9 +26126,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -26431,7 +26549,9 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [],
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -26572,7 +26692,9 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [],
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -26713,7 +26835,9 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [],
+    "tags": [
+      "catalogueHiddenIfMissing"
+    ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -26998,7 +27122,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -27569,9 +27693,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -28143,7 +28265,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -28426,9 +28548,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -31280,7 +31400,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -31704,9 +31824,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
@@ -32420,7 +32538,7 @@
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
     "tags": [
-      "catalogueHidden"
+      "catalogueHiddenIfMissing"
     ],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
@@ -35840,9 +35958,7 @@
     "speedCoef": 1.0,
     "squadronConsumablesWorkTimeMultiplier": 1.0,
     "squadronVisibilityDistCoeff": 1.0,
-    "tags": [
-      "catalogueHidden"
-    ],
+    "tags": [],
     "torpedoRangeCoefficient": 1.0,
     "torpedoSpeedBonus": 0,
     "torpedoSpeedMultiplier": 1.0,
