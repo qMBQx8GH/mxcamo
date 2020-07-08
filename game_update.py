@@ -11,6 +11,7 @@ config = configparser.ConfigParser()
 config.read('build.ini')
 path_to_game = config['Game']['folder']
 
+
 def mo_file(t, src, trg):
     files = [
         (t, (os.path.basename(src), open(src, 'rb'), 'application/octet-stream')),
@@ -26,6 +27,7 @@ def mo_file(t, src, trg):
             out.write(chunk)
     out.close()
 
+
 content = [
     'gui/camouflages/*.*',
     'gui/permoflages/*.*',
@@ -33,10 +35,13 @@ content = [
 ]
 for d in content:
     subprocess.run([
-        'wowsunpack.exe', '-x',
-        '-I', d, os.path.join(path_to_game, 'res_packages'),
-        '-o', 'res'],
-            shell=True,
+        'wowsunpack.exe',
+        '-x', os.path.join(path_to_game, "bin\\2666186\\idx"),
+        '-I', d,
+        '-p', '..\\..\\..\\res_packages',
+        '-o', 'res',
+    ],
+        shell=True,
     )
     print(d, 'OK')
 
