@@ -11,6 +11,10 @@ config = configparser.ConfigParser()
 config.read('build.ini')
 path_to_game = config['Game']['folder']
 
+xml_root = ET.parse(os.path.join(path_to_game, 'game_info.xml'))
+xml_version = xml_root.findall("//version[@name='client']")
+version = xml_version[0].attrib['installed']
+
 
 def mo_file(t, src, trg):
     files = [
@@ -36,7 +40,7 @@ content = [
 for d in content:
     subprocess.run([
         'wowsunpack.exe',
-        '-x', os.path.join(path_to_game, "bin\\2666186\\idx"),
+        '-x', os.path.join(path_to_game, "bin", version.split(".")[-1], "idx"),
         '-I', d,
         '-p', '..\\..\\..\\res_packages',
         '-o', 'res',
