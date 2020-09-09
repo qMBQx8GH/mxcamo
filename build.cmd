@@ -59,9 +59,9 @@ rmdir /s /q dist
 mkdir dist
 cd dist
 
-mkdir bin\%BUILD%\res_mods\%VERS%
-cd bin\%BUILD%\res_mods\%VERS%
+mkdir bin\%BUILD%\res_mods
+cd bin\%BUILD%\res_mods
 
-xcopy ..\..\..\..\..\out\gui gui /i /e
-cd ..\..\..\..
+xcopy ..\..\..\..\out\gui gui /i /e
+cd ..\..\..
 "C:\Program Files\7-Zip\7z.exe" a -r %DESTINATION%\mxcamo-%VERS%.%BUILD%-%REV%.zip bin
