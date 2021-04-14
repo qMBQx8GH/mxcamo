@@ -52,18 +52,20 @@ for d in content:
 os.makedirs('tmp', exist_ok=True)
 mo_file('gp', 'res\\content\\GameParams.data', 'tmp\\GameParams.json')
 
-info = {}
+info = []
 f = open('tmp\\GameParams.json')
 data = json.load(f)
 f.close()
-for unit_id in data:
-    unit = data[unit_id]
-    if unit['typeinfo']['type'] == 'Exterior' and unit['typeinfo']['species'] == 'Camouflage':
-        info[unit_id] = unit
-    elif unit['typeinfo']['type'] == 'Exterior' and unit['typeinfo']['species'] == 'Permoflage':
-        info[unit_id] = unit
-    else:
-        pass
+for unit_id, unit in data[0].items():
+    if unit is not None and 'typeinfo' in unit:
+        typeinfo = unit['typeinfo']
+        if typeinfo['type'] == 'Exterior':
+            if typeinfo['species'] == 'Camouflage' or typeinfo['species'] == 'Permoflage':
+                info.append({
+                    'name': unit['name'],
+                    'typeinfo': unit['typeinfo'],
+                    'modifiers': unit['modifiers'],
+                })
 
 with open('db\\data.json', 'w') as outfile:
     json.dump(info, outfile, sort_keys=True, indent='  ')
