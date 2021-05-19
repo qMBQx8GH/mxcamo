@@ -867,6 +867,20 @@
       "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
+    "name": "PBEP408_Tiger_59_British",
+    "typeinfo": {
+      "nation": "United_Kingdom",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
     "name": "PBEP503_Campbeltown",
     "typeinfo": {
       "nation": "United_Kingdom",
@@ -1326,7 +1340,9 @@
   },
   {
     "modifiers": {
-      "expFactor": 2.0,
+      "crewExpFactor": 1.75,
+      "expFactor": 1.75,
+      "freeExpFactor": 1.75,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
@@ -2471,8 +2487,8 @@
   },
   {
     "modifiers": {
-      "crewExpFactor": 2.0,
       "expFactor": 2.0,
+      "freeExpFactor": 2.0,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
@@ -2485,12 +2501,26 @@
   },
   {
     "modifiers": {
-      "crewExpFactor": 2.0,
       "expFactor": 2.0,
+      "freeExpFactor": 2.0,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
     "name": "PCEC108_GDZ",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "expFactor": 2.0,
+      "freeExpFactor": 3.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC109_Jutland",
     "typeinfo": {
       "nation": "Common",
       "species": "Camouflage",
@@ -3174,6 +3204,20 @@
       "visibilityFactor": 0.97
     },
     "name": "PGEP438_Graf_Zeppelin",
+    "typeinfo": {
+      "nation": "Germany",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PGEP448_Weimar_Hist",
     "typeinfo": {
       "nation": "Germany",
       "species": "Permoflage",
@@ -4078,6 +4122,20 @@
       "visibilityFactor": 0.97
     },
     "name": "PREP413_Kotovsky_2021",
+    "typeinfo": {
+      "nation": "Russia",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PREP418_Bagration_RTK",
     "typeinfo": {
       "nation": "Russia",
       "species": "Permoflage",
