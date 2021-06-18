@@ -2543,6 +2543,35 @@
   },
   {
     "modifiers": {
+      "creditsFactor": 1.3,
+      "crewExpFactor": 1.5,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC111_GeneralBattle",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "creditsFactor": 1.2,
+      "expFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC113_DragonBoat_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
       "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
@@ -4194,6 +4223,20 @@
     "name": "PREP509_Pr_48_Kiev",
     "typeinfo": {
       "nation": "Russia",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PUEP307_Yukon_Commonwealth",
+    "typeinfo": {
+      "nation": "Commonwealth",
       "species": "Permoflage",
       "type": "Exterior"
     }
