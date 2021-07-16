@@ -2558,6 +2558,20 @@
   },
   {
     "modifiers": {
+      "crewExpFactor": 2.0,
+      "expFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC112_HollandArcCamo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
       "creditsFactor": 1.2,
       "expFactor": 2.0,
       "shootShift": 1.04,
