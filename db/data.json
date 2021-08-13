@@ -2586,6 +2586,34 @@
   },
   {
     "modifiers": {
+      "expFactor": 2.0,
+      "freeExpFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC115_Empirecamo_logh",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "expFactor": 2.0,
+      "freeExpFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC116_Alliancecamo_logh",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
       "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
