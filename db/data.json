@@ -3009,6 +3009,21 @@
   {
     "modifiers": {
       "afterBattleRepair": 0.9,
+      "crewExpFactor": 1.5,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PFEP507_LyonBD6",
+    "typeinfo": {
+      "nation": "France",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
@@ -3383,6 +3398,21 @@
   {
     "modifiers": {
       "afterBattleRepair": 0.9,
+      "crewExpFactor": 1.5,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PGEP513_YorckBD6",
+    "typeinfo": {
+      "nation": "Germany",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
@@ -3402,6 +3432,21 @@
       "visibilityFactor": 0.97
     },
     "name": "PIEP307_Caracciolo_Roman",
+    "typeinfo": {
+      "nation": "Italy",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "crewExpFactor": 1.5,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PIEP308_ZaraBD6",
     "typeinfo": {
       "nation": "Italy",
       "species": "Permoflage",
@@ -3834,6 +3879,21 @@
   {
     "modifiers": {
       "afterBattleRepair": 0.9,
+      "crewExpFactor": 1.5,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PJEP509_AkatsukiBD6",
+    "typeinfo": {
+      "nation": "Japan",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
@@ -4244,6 +4304,21 @@
   {
     "modifiers": {
       "afterBattleRepair": 0.9,
+      "crewExpFactor": 1.5,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PREP507_SchorsBD6",
+    "typeinfo": {
+      "nation": "Russia",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
@@ -4390,6 +4465,21 @@
       "visibilityFactor": 0.97
     },
     "name": "PZEP506_Anshan",
+    "typeinfo": {
+      "nation": "Pan_Asia",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "crewExpFactor": 1.5,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PZEP507_GadjahBD6",
     "typeinfo": {
       "nation": "Pan_Asia",
       "species": "Permoflage",
