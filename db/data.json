@@ -1059,6 +1059,7 @@
   },
   {
     "modifiers": {
+      "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
     "name": "PCEC001_Camo_1",
@@ -1070,7 +1071,8 @@
   },
   {
     "modifiers": {
-      "shootShift": 1.04
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
     },
     "name": "PCEC002_Camo_2",
     "typeinfo": {
@@ -2614,6 +2616,90 @@
   },
   {
     "modifiers": {
+      "expFactor": 2.0,
+      "freeExpFactor": 3.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC117_BattleInGame_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "expFactor": 2.0,
+      "freeExpFactor": 3.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC118_KOTS13_red_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "expFactor": 2.0,
+      "freeExpFactor": 3.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC119_KOTS13_green_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "crewExpFactor": 2.0,
+      "expFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC120_Warhammer_orc",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "crewExpFactor": 2.0,
+      "expFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC121_Warhammer_blacktemplar",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "crewExpFactor": 2.0,
+      "expFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC122_Navoeval_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
       "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
@@ -2747,6 +2833,19 @@
       "visibilityFactor": 0.97
     },
     "name": "PCEP120_Permo_Upgr_10_lvl",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "expFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEP121_Permo_11_lvl",
     "typeinfo": {
       "nation": "Common",
       "species": "Permoflage",
@@ -3172,6 +3271,34 @@
       "visibilityFactor": 0.97
     },
     "name": "PGEP314_Aegir_Viking",
+    "typeinfo": {
+      "nation": "Germany",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PGEP317_Prinz_Heinrich_GBB",
+    "typeinfo": {
+      "nation": "Germany",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PGEP318_Zieten_GBB",
     "typeinfo": {
       "nation": "Germany",
       "species": "Permoflage",
