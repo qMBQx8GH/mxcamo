@@ -2700,6 +2700,53 @@
   },
   {
     "modifiers": {
+      "crewExpFactor": 2.5,
+      "expFactor": 2.0,
+      "freeExpFactor": 2.0,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC123_NY2022_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "creditsFactor": 1.5,
+      "crewExpFactor": 1.75,
+      "expFactor": 2.0,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC124_Rising",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "creditsFactor": 1.5,
+      "crewExpFactor": 1.75,
+      "expFactor": 2.0,
+      "freeExpFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC125_Players_Birthday_2",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
       "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
@@ -4479,6 +4526,20 @@
       "visibilityFactor": 0.97
     },
     "name": "PUEP307_Yukon_Commonwealth",
+    "typeinfo": {
+      "nation": "Commonwealth",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PUEP317_Yukon_Mountains",
     "typeinfo": {
       "nation": "Commonwealth",
       "species": "Permoflage",
