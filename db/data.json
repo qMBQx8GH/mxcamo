@@ -867,6 +867,20 @@
       "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
+    "name": "PBEP406_Dido_Mediterranean",
+    "typeinfo": {
+      "nation": "United_Kingdom",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
     "name": "PBEP408_Tiger_59_British",
     "typeinfo": {
       "nation": "United_Kingdom",
@@ -4514,6 +4528,20 @@
     "name": "PREP509_Pr_48_Kiev",
     "typeinfo": {
       "nation": "Russia",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PSEP406_Canarias_Mediterranean",
+    "typeinfo": {
+      "nation": "Spain",
       "species": "Permoflage",
       "type": "Exterior"
     }
