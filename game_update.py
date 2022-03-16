@@ -12,7 +12,7 @@ config.read('build.ini')
 path_to_game = config['Game']['folder']
 
 xml_root = ET.parse(os.path.join(path_to_game, 'game_info.xml'))
-xml_version = xml_root.findall("//version[@name='client']")
+xml_version = xml_root.findall(".//version[@name='client']")
 version = xml_version[0].attrib['installed']
 
 
