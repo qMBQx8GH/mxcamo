@@ -2804,6 +2804,20 @@
   },
   {
     "modifiers": {
+      "crewExpFactor": 2.5,
+      "expFactor": 1.75,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PCEC130_Long_Museum_Night_camo",
+    "typeinfo": {
+      "nation": "Common",
+      "species": "Camouflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
       "afterBattleRepair": 0.9,
       "expFactor": 1.5,
       "shootShift": 1.04,
@@ -2945,7 +2959,7 @@
   },
   {
     "modifiers": {
-      "expFactor": 2.0,
+      "expFactor": 2.5,
       "shootShift": 1.04,
       "visibilityFactor": 0.97
     },
@@ -3678,6 +3692,20 @@
       "visibilityFactor": 0.97
     },
     "name": "PIEP308_ZaraBD6",
+    "typeinfo": {
+      "nation": "Italy",
+      "species": "Permoflage",
+      "type": "Exterior"
+    }
+  },
+  {
+    "modifiers": {
+      "afterBattleRepair": 0.9,
+      "expFactor": 1.5,
+      "shootShift": 1.04,
+      "visibilityFactor": 0.97
+    },
+    "name": "PIEP506_Aviere_IT_DD",
     "typeinfo": {
       "nation": "Italy",
       "species": "Permoflage",
