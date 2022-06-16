@@ -4744,33 +4744,6 @@
     }
   },
   {
-    "modifiers": {},
-    "name": "PXEP500_MORAY_PA",
-    "typeinfo": {
-      "nation": "Events",
-      "species": "Permoflage",
-      "type": "Exterior"
-    }
-  },
-  {
-    "modifiers": {},
-    "name": "PXEP501_BARRACUDA_PA",
-    "typeinfo": {
-      "nation": "Events",
-      "species": "Permoflage",
-      "type": "Exterior"
-    }
-  },
-  {
-    "modifiers": {},
-    "name": "PXEP502_OCTOPUS_PA",
-    "typeinfo": {
-      "nation": "Events",
-      "species": "Permoflage",
-      "type": "Exterior"
-    }
-  },
-  {
     "modifiers": {
       "afterBattleRepair": 0.9,
       "expFactor": 1.5,
